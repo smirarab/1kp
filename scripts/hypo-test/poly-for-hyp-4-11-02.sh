@@ -1,12 +1,12 @@
 #!/bin/bash
 
-name=$3-pos
+name=$3-poly
 
 python spit-hypo-trees.py $1  updated_annotations.txt contract
 
 cp $1-hypo.tre $name-hypo.tre
 
-java -jar ~/workspace/ASTRAL/astral.4.10.12.jar -i $2 -q $name-hypo.tre -t 4 |tee $name-uncollapsed.tre
+java -jar ../astral/astral.4.11.2.jar -i $2 -q $name-hypo.tre -t 10 |tee $name-uncollapsed.tre
 
 python spit-hypo-trees.py $name-uncollapsed.tre updated_annotations.txt collapse
 

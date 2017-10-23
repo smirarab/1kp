@@ -1,0 +1,10 @@
+(Out,(((Santalales,(Vitales,(Saxifragales,CoreRosids)'[q1=0.41;q2=0.17;q3=0.42]':0.08560982635720536)'[q1=0.39;q2=0.23;q3=0.38]':0.055579224155891394)'[q1=0.43;q2=0.23;q3=0.34]':0.11976377045411689,(Caryophyllales,(Berberidopsidales:4.676563914768718,Asterids)'[q1=0.5;q2=0.44;q3=0.06]':0.26251984472303297)'[q1=0.43;q2=0.29;q3=0.28]':0.13417999359130284)'[q1=0.49;q2=0.19;q3=0.32]':0.2305509410275367,(Gunnera,Dillenia)'[q1=0.41;q2=0.26;q3=0.33]':0.07721447648442316));
+(Out,(Gnetales,(Pinaceae,Other_Pinales)'[q1=0.51;q2=0.08;q3=0.41]':0.30546828064869247));
+(Out,(Vascs,(Hornworts,'Mosses+Liverworts')'[q1=0.5;q2=0.29;q3=0.22]':0.27764876824936074));
+(Out,(Amborella:5.483412850224726,(Waterlilies:4.126318502026192,Other_Angios)'[q1=0.55;q2=0.16;q3=0.28]':0.3881170341855349));
+(Out,(Poales,(Palms,Zings)'[q1=0.41;q2=0.38;q3=0.2]':0.12288610685551925));
+(Out,(Chara:4.5062926752083525,(Coleochaetales,(LandPlants,(Spirotaenia_sp,Zygnemophyceae)'[q1=0.5;q2=0.05;q3=0.45]':0.24849996491337878)'[q1=0.43;q2=0.18;q3=0.39]':0.13792791450424408)'[q1=0.47;q2=0.32;q3=0.21]':0.21953719038916267));
+(Chromista,(Rhodophyta,(Glaucophyta,Viridiplantae)'[q1=0.53;q2=0.22;q3=0.25]':0.3410743230301564));
+(Out,(Chloro,(Strept,(Prasinococcus_capsulatus,OtherPrasinococcales:1.8504373487270076)'[q1=0.82;q2=0.05;q3=0.13]':1.2240982952097257)'[q1=0.41;q2=0.32;q3=0.27]':0.10576344114424369));
+(Out,(Trebouxiophyceae,(('Trent+Clado',OtherUlvophyceae)'[q1=0.6;q2=0.29;q3=0.11]':0.43381953864620226,(Bryopsidales:4.887493129721649,Chlorophyceae)'[q1=0.36;q2=0.24;q3=0.4]':0.017855987025262556)'[q1=0.57;q2=0.22;q3=0.21]':0.3972068208176596));
+(Out,(Equisetales:4.34380542185368,(Polypodiidae,(Marattiales,'Ophioglossales+Psilotales')'[q1=0.41;q2=0.17;q3=0.42]':0.11897930440263678)'[q1=0.68;q2=0.22;q3=0.1]':0.7188398230054391));
