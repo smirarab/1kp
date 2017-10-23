@@ -4,6 +4,8 @@ The directory `output` includes the results of running DiscoVista, with command
 ~~~~bash
 ~~~~
 
+and the parameters for the DiscoVista are given in the `parameters` folder.
+
 The direcotry `trees` includes the newick species trees:
 
 
