@@ -1,0 +1,10 @@
+(Out,((Gunnera,Dillenia)0.77899:0.07721447648442316,((Santalales,(Vitales,(Saxifragales,CoreRosids)0.31292:0.08560982635720536)0.60645:0.055579224155891394)0.53657:0.11976377045411689,(Caryophyllales,(Berberidopsidales:4.676563914768718,Asterids)0.00559:0.26251984472303297)0.55652:0.13417999359130284)0.23328:0.2305509410275367));
+(Out,(Gnetales,(Pinaceae,Other_Pinales)0:0.30546828064869247));
+(Out,(Vascs,(Hornworts,'Mosses+Liverworts')0.00016:0.27764876824936074));
+(Out,(Amborella:5.483412850224726,(Waterlilies:4.126318502026192,Other_Angios)0:0.3881170341855349));
+(Out,(Poales,(Palms,Zings)0.00908:0.12288610685551925));
+(Out,(Chara:4.5062926752083525,(Coleochaetales,(LandPlants,(Spirotaenia_sp,Zygnemophyceae)0.00947:0.24849996491337878)0.06482:0.13792791450424408)0.03134:0.21953719038916267));
+(Chromista,(Rhodophyta,(Glaucophyta,Viridiplantae)0.00013:0.3410743230301564));
+(Out,(Chloro,(Strept,(Prasinococcus_capsulatus,OtherPrasinococcales:1.8504373487270076)0:1.2240982952097257)0.5579:0.10576344114424369));
+(Out,(Trebouxiophyceae,(('Trent+Clado',OtherUlvophyceae)0.04805:0.43381953864620226,(Bryopsidales:4.887493129721649,Chlorophyceae)0.65456:0.017855987025262556)0.03327:0.3972068208176596));
+(Out,(Equisetales:4.34380542185368,(Polypodiidae,(Marattiales,'Ophioglossales+Psilotales')0:0.11897930440263678)0:0.7188398230054391));
