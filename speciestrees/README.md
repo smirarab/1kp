@@ -9,7 +9,7 @@ The direcotry `trees` includes the newick species trees:
 
 Directory name   |   Tree name
 -----------------|-------------------
-| [**Full-AA**](trees/**Full-AA**) | **Full-DAA** |
+| **Full-AA** | **Full-DAA** |
 | [astral_trees_33_percent-FAA](trees/astral_trees_33_percent-FAA) | ASTRAL-33%-FAA |
 | [astral.20.503-FAA](trees/astral.20.503-FAA) | ASTRAL-20%-FAA |
 | [astral.10.503-FAA](trees/astral.10.503-FAA) | ASTRAL-10%-FAA |
