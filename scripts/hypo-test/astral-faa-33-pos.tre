@@ -1,0 +1,10 @@
+(Out,((Gunnera,Dillenia)'[pp1=0.51;pp2=0.19;pp3=0.29]':0.07721447648442316,((Santalales,(Vitales,(Saxifragales,CoreRosids)'[pp1=0.42;pp2=0.09;pp3=0.49]':0.08560982635720536)'[pp1=0.44;pp2=0.14;pp3=0.42]':0.055579224155891394)'[pp1=0.61;pp2=0.13;pp3=0.26]':0.11976377045411689,(Caryophyllales,(Berberidopsidales:4.676563914768718,Asterids)'[pp1=0.76;pp2=0.23;pp3=0.01]':0.26251984472303297)'[pp1=0.69;pp2=0.16;pp3=0.15]':0.13417999359130284)'[pp1=0.82;pp2=0.12;pp3=0.06]':0.2305509410275367));
+(Out,(Gnetales,(Pinaceae,Other_Pinales)'[pp1=1;pp2=0;pp3=0]':0.30546828064869247));
+(Out,(Vascs,(Hornworts,'Mosses+Liverworts')'[pp1=1;pp2=0;pp3=0]':0.27764876824936074));
+(Out,(Amborella:5.483412850224726,(Waterlilies:4.126318502026192,Other_Angios)'[pp1=1;pp2=0;pp3=0]':0.3881170341855349));
+(Out,(Poales,(Palms,Zings)'[pp1=0.75;pp2=0.23;pp3=0.02]':0.12288610685551925));
+(Out,(Chara:4.5062926752083525,(Coleochaetales,(LandPlants,(Spirotaenia_sp,Zygnemophyceae)'[pp1=0.68;pp2=0.02;pp3=0.3]':0.24849996491337878)'[pp1=0.64;pp2=0.04;pp3=0.32]':0.13792791450424408)'[pp1=0.97;pp2=0.02;pp3=0.01]':0.21953719038916267));
+(Chromista,(Rhodophyta,(Glaucophyta,Viridiplantae)'[pp1=1;pp2=0;pp3=0]':0.3410743230301564));
+(Out,(Chloro,(Strept,(Prasinococcus_capsulatus,OtherPrasinococcales:1.8504373487270076)'[pp1=1;pp2=0;pp3=0]':1.2240982952097257)'[pp1=0.67;pp2=0.2;pp3=0.14]':0.10576344114424369));
+(Out,(Trebouxiophyceae,(('Trent+Clado',OtherUlvophyceae)'[pp1=0.95;pp2=0.03;pp3=0.02]':0.43381953864620226,(Bryopsidales:4.887493129721649,Chlorophyceae)'[pp1=0.35;pp2=0.16;pp3=0.49]':0.017855987025262556)'[pp1=0.98;pp2=0.01;pp3=0.01]':0.3972068208176596));
+(Out,(Equisetales:4.34380542185368,(Polypodiidae,(Marattiales,'Ophioglossales+Psilotales')'[pp1=0.25;pp2=0;pp3=0.75]':0.11897930440263678)'[pp1=1;pp2=0;pp3=0]':0.7188398230054391));
