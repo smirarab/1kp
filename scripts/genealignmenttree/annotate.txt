@@ -1,0 +1,1487 @@
+taxa	fullname	classification
+URDJ	URDJ;Basalmost angiosperms;Amborella trichopoda	Basalmost angiosperms
+WTKZ	WTKZ;Basalmost angiosperms;Nuphar advena	Basalmost angiosperms
+PZRT	PZRT;Basalmost angiosperms;Nymphaea sp.	Basalmost angiosperms
+ROAP	ROAP;Basalmost angiosperms;Illicium parviflorum	Basalmost angiosperms
+VZCI	VZCI;Basalmost angiosperms;Illicium floridanum	Basalmost angiosperms
+NWMY	NWMY;Basalmost angiosperms;Kadsura heteroclita	Basalmost angiosperms
+FZJL	FZJL;Basalmost angiosperms;Austrobaileya scandens	Basalmost angiosperms
+NPND	NPND;Basalmost angiosperms;Ceratophyllum demersum	Basalmost angiosperms
+DDEV	DDEV;Magnoliids;Canella winterana	Magnoliids
+IFCJ	IFCJ;Magnoliids;Canella winterana	Magnoliids
+SJEV	SJEV;Magnoliids;Canella winterana	Magnoliids
+WKSU	WKSU;Magnoliids;Drimys winteri	Magnoliids
+WAIL	WAIL;Magnoliids;Laurelia sempervirens	Magnoliids
+FALI	FALI;Magnoliids;Calycanthus floridus	Magnoliids
+WPHN	WPHN;Magnoliids;Idiospermum australiense	Magnoliids
+MAQO	MAQO;Magnoliids;Gomortega keule	Magnoliids
+BSVG	BSVG;Magnoliids;Gyrocarpus americanus	Magnoliids
+BCGB	BCGB;Magnoliids;Cinnamomum camphora	Magnoliids
+KAYP	KAYP;Magnoliids;Lindera benzoin	Magnoliids
+ABSS	ABSS;Magnoliids;Sassafras albidum	Magnoliids
+VYLQ	VYLQ;Magnoliids;Cassytha filiformis	Magnoliids
+WIGA	WIGA;Magnoliids;Persea borbonia	Magnoliids
+KRJP	KRJP;Magnoliids;Peumus boldus	Magnoliids
+YZRI	YZRI;Magnoliids;Annona muricata	Magnoliids
+PSJT	PSJT;Magnoliids;Uvaria microcarpa	Magnoliids
+DHPO	DHPO;Magnoliids;Eupomatia bennettii	Magnoliids
+XQWC	XQWC;Magnoliids;Michelia maudiae	Magnoliids
+WBOD	WBOD;Magnoliids;Magnolia grandiflora	Magnoliids
+OBPL	OBPL;Magnoliids;Myristica fragrans	Magnoliids
+PAWA	PAWA;Magnoliids;Aristolochia elegans	Magnoliids
+QDVW	QDVW;Magnoliids;Saruma henryi	Magnoliids
+MUNP	MUNP;Magnoliids;Piper auritum	Magnoliids
+XSZI	XSZI;Magnoliids;Peperomia fraseri	Magnoliids
+OPDF	OPDF;Magnoliids;Saururus cernuus	Magnoliids
+CSSK	CSSK;Magnoliids;Houttuynia cordata	Magnoliids
+WPYJ	WPYJ;Magnoliids;Frankenia laevis	Magnoliids
+OSHQ	OSHQ;Chloranthales;Sarcandra glabra	Chloranthales
+WZFE	WZFE;Chloranthales;Ascarina rubricaulis	Chloranthales
+IWMW	IWMW;Basal Eudicots;Buxus sempervirens	Basal Eudicots
+AALA	AALA;Basal Eudicots;Meliosma cuneifolia	Basal Eudicots
+SWOH	SWOH;Basal Eudicots;Trochodendron aralioides	Basal Eudicots
+FAKD	FAKD;Basal Eudicots;Nelumbo sp.	Basal Eudicots
+GRRW	GRRW;Basal Eudicots;Grevillea robusta	Basal Eudicots
+OBOJ	OBOJ;Basal Eudicots;Hakea prostrata	Basal Eudicots
+REOF	REOF;Basal Eudicots;Hakea prostrata	Basal Eudicots
+RQUG	RQUG;Basal Eudicots;Hakea prostrata	Basal Eudicots
+SIIK	SIIK;Basal Eudicots;Hakea drupacea	Basal Eudicots
+VQFW	VQFW;Basal Eudicots;Platanus occidentalis	Basal Eudicots
+WFBF	WFBF;Basal Eudicots;Podophyllum peltatum	Basal Eudicots
+YHFG	YHFG;Basal Eudicots;Nandina domestica	Basal Eudicots
+QTJY	QTJY;Basal Eudicots;Euptelea pleiosperma	Basal Eudicots
+CCID	CCID;Basal Eudicots;Akebia trifoliata	Basal Eudicots
+LVNW	LVNW;Basal Eudicots;Cocculus laurifolius	Basal Eudicots
+NMGG	NMGG;Basal Eudicots;Hypecoum procumbens	Basal Eudicots
+AUGV	AUGV;Basal Eudicots;Capnoides sempervirens	Basal Eudicots
+UDHA	UDHA;Basal Eudicots;Ceratocapnos vesicaria	Basal Eudicots
+XHKT	XHKT;Basal Eudicots;Sanguinaria canadensis	Basal Eudicots
+YDEH	YDEH;Basal Eudicots;Argemone mexicana	Basal Eudicots
+GOQJ	GOQJ;Basal Eudicots;Argemone mexicana	Basal Eudicots
+SMZF	SMZF;Basal Eudicots;Argemone mexicana	Basal Eudicots
+CCHG	CCHG;Basal Eudicots;Argemone mexicana	Basal Eudicots
+BFMT	BFMT;Basal Eudicots;Argemone mexicana	Basal Eudicots
+IRAF	IRAF;Basal Eudicots;Argemone mexicana	Basal Eudicots
+UNPT	UNPT;Basal Eudicots;Eschscholzia californica	Basal Eudicots
+NJKC	NJKC;Basal Eudicots;Eschscholzia californica	Basal Eudicots
+RKGT	RKGT;Basal Eudicots;Eschscholzia californica	Basal Eudicots
+TUHA	TUHA;Basal Eudicots;Eschscholzia californica	Basal Eudicots
+ERXG	ERXG;Basal Eudicots;Eschscholzia californica	Basal Eudicots
+EVOD	EVOD;Basal Eudicots;Eschscholzia californica	Basal Eudicots
+RRID	RRID;Basal Eudicots;Papaver bracteatum	Basal Eudicots
+TMWO	TMWO;Basal Eudicots;Papaver bracteatum	Basal Eudicots
+ZSNV	ZSNV;Basal Eudicots;Papaver bracteatum	Basal Eudicots
+SSDU	SSDU;Basal Eudicots;Papaver bracteatum	Basal Eudicots
+ACYX	ACYX;Basal Eudicots;Papaver rhoeas	Basal Eudicots
+GMAM	GMAM;Basal Eudicots;Papaver rhoeas	Basal Eudicots
+QZBA	QZBA;Basal Eudicots;Papaver rhoeas	Basal Eudicots
+IORZ	IORZ;Basal Eudicots;Papaver rhoeas	Basal Eudicots
+MVTX	MVTX;Basal Eudicots;Papaver rhoeas	Basal Eudicots
+BEKN	BEKN;Basal Eudicots;Papaver rhoeas	Basal Eudicots
+FNXH	FNXH;Basal Eudicots;Papaver setigerum	Basal Eudicots
+MLPX	MLPX;Basal Eudicots;Papaver setigerum	Basal Eudicots
+JSVC	JSVC;Basal Eudicots;Papaver setigerum	Basal Eudicots
+STDO	STDO;Basal Eudicots;Papaver setigerum	Basal Eudicots
+EPRK	EPRK;Basal Eudicots;Papaver setigerum	Basal Eudicots
+QCOU	QCOU;Basal Eudicots;Papaver setigerum	Basal Eudicots
+BMRX	BMRX;Basal Eudicots;Papaver somniferum	Basal Eudicots
+SUFP	SUFP;Basal Eudicots;Papaver somniferum	Basal Eudicots
+MIKW	MIKW;Basal Eudicots;Papaver somniferum	Basal Eudicots
+FPYZ	FPYZ;Basal Eudicots;Papaver somniferum	Basal Eudicots
+KKCW	KKCW;Basal Eudicots;Papaver somniferum	Basal Eudicots
+RQNK	RQNK;Basal Eudicots;Papaver somniferum	Basal Eudicots
+ZGQD	ZGQD;Basal Eudicots;Corydalis linstowiana	Basal Eudicots
+XMVD	XMVD;Basal Eudicots;Chelidonium majus	Basal Eudicots
+ZUHO	ZUHO;Basal Eudicots;Anemone hupehensis	Basal Eudicots
+CYVA	CYVA;Basal Eudicots;Cimicifuga racemosa	Basal Eudicots
+VGHH	VGHH;Basal Eudicots;Hydrastis canadensis	Basal Eudicots
+GBVZ	GBVZ;Basal Eudicots;Thalictrum thalictroides	Basal Eudicots
+UPOG	UPOG;Basal Eudicots;Anemone pulsatilla	Basal Eudicots
+XMQO	XMQO;Basal Eudicots;Gunnera manicata	Basal Eudicots
+QUTB	QUTB;Basal Eudicots;Aextoxicon punctatum	Basal Eudicots
+HAEU	HAEU;Basal Eudicots;Berberidopsis beckleri	Basal Eudicots
+EHNF	EHNF;Basal Eudicots;Dillenia indica	Basal Eudicots
+OKEF	OKEF;Basal Eudicots;Hibbertia grossulariifolia	Basal Eudicots
+BJKT	BJKT;Core Eudicots;Delosperma echinatum	Core Eudicots
+GJNX	GJNX;Core Eudicots;Cypselea humifusa	Core Eudicots
+HZTS	HZTS;Core Eudicots;Sesuvium portulacastrum	Core Eudicots
+BERS	BERS;Core Eudicots;Zaleya pentandra	Core Eudicots
+ZJDK	ZJDK;Core Eudicots;Sesuvium verrucosum	Core Eudicots
+OPZX	OPZX;Core Eudicots;Sesuvium verrucosum	Core Eudicots
+EDIT	EDIT;Core Eudicots;Sesuvium verrucosum	Core Eudicots
+QNIK	QNIK;Core Eudicots;Trianthema portulacastrum	Core Eudicots
+TNVE	TNVE;Core Eudicots;Trianthema portulacastrum	Core Eudicots
+OMYK	OMYK;Core Eudicots;Trianthema portulacastrum	Core Eudicots
+EMIG	EMIG;Core Eudicots;Aerva lanata	Core Eudicots
+VKOE	VKOE;Core Eudicots;Aerva lanata	Core Eudicots
+PDQH	PDQH;Core Eudicots;Aerva lanata	Core Eudicots
+GBCQ	GBCQ;Core Eudicots;Aerva persica	Core Eudicots
+MEAH	MEAH;Core Eudicots;Aerva persica	Core Eudicots
+HDSY	HDSY;Core Eudicots;Aerva persica	Core Eudicots
+JBGU	JBGU;Core Eudicots;Amaranthus palmeri	Core Eudicots
+XSSD	XSSD;Core Eudicots;Amaranthus cruentus	Core Eudicots
+WMLW	WMLW;Core Eudicots;Amaranthus retroflexus	Core Eudicots
+CUTE	CUTE;Core Eudicots;Blutaparon vermiculare	Core Eudicots
+WGET	WGET;Core Eudicots;Kochia scoparia	Core Eudicots
+BDIW	BDIW;Core Eudicots;Atriplex hortensis	Core Eudicots
+AKTA	AKTA;Core Eudicots;Atriplex hortensis	Core Eudicots
+ONLQ	ONLQ;Core Eudicots;Atriplex hortensis	Core Eudicots
+MUCT	MUCT;Core Eudicots;Atriplex prostrata	Core Eudicots
+EPVF	EPVF;Core Eudicots;Atriplex prostrata	Core Eudicots
+AAXJ	AAXJ;Core Eudicots;Atriplex prostrata	Core Eudicots
+LBZM	LBZM;Core Eudicots;Atriplex rosea	Core Eudicots
+PDXY	PDXY;Core Eudicots;Atriplex rosea	Core Eudicots
+CBJR	CBJR;Core Eudicots;Atriplex rosea	Core Eudicots
+SMMC	SMMC;Core Eudicots;Chenopodium quinoa	Core Eudicots
+ENCD	ENCD;Core Eudicots;Alternanthera brasiliana	Core Eudicots
+KTQI	KTQI;Core Eudicots;Alternanthera brasiliana	Core Eudicots
+ZBPY	ZBPY;Core Eudicots;Alternanthera brasiliana	Core Eudicots
+VUIT	VUIT;Core Eudicots;Alternanthera caracasana	Core Eudicots
+WGUG	WGUG;Core Eudicots;Alternanthera caracasana	Core Eudicots
+OHKC	OHKC;Core Eudicots;Alternanthera caracasana	Core Eudicots
+LUNL	LUNL;Core Eudicots;Alternanthera sessilis	Core Eudicots
+OYST	OYST;Core Eudicots;Alternanthera sessilis	Core Eudicots
+BWRK	BWRK;Core Eudicots;Alternanthera sessilis	Core Eudicots
+DEMH	DEMH;Core Eudicots;Alternanthera tenella	Core Eudicots
+DBCE	DBCE;Core Eudicots;Alternanthera tenella	Core Eudicots
+EYRD	EYRD;Core Eudicots;Alternanthera tenella	Core Eudicots
+FVXD	FVXD;Core Eudicots;Beta maritima	Core Eudicots
+HSXO	HSXO;Core Eudicots;Ancistrocladus tectorius	Core Eudicots
+CTYH	CTYH;Core Eudicots;Basella alba	Core Eudicots
+JLOV	JLOV;Core Eudicots;Pereskia aculeata	Core Eudicots
+CPKP	CPKP;Core Eudicots;Lophophora williamsii	Core Eudicots
+QAIR	QAIR;Core Eudicots;Opuntia sp.	Core Eudicots
+SKNL	SKNL;Core Eudicots;Saponaria officinalis	Core Eudicots
+RXEN	RXEN;Core Eudicots;Polycarpaea repens	Core Eudicots
+TJES	TJES;Core Eudicots;Spergularia media	Core Eudicots
+SHEZ	SHEZ;Core Eudicots;Dianthus caryophyllus	Core Eudicots
+OLES	OLES;Core Eudicots;Schiedea membranacea	Core Eudicots
+FZQN	FZQN;Core Eudicots;Silene latifolia	Core Eudicots
+RNBN	RNBN;Core Eudicots;Mollugo cerviana	Core Eudicots
+UNSW	UNSW;Core Eudicots;Mollugo nudicaulis	Core Eudicots
+CUVY	CUVY;Core Eudicots;Mollugo nudicaulis	Core Eudicots
+SCAO	SCAO;Core Eudicots;Mollugo nudicaulis	Core Eudicots
+BZMI	BZMI;Core Eudicots;Mollugo pentaphylla	Core Eudicots
+HURS	HURS;Core Eudicots;Mollugo pentaphylla	Core Eudicots
+KJAA	KJAA;Core Eudicots;Mollugo pentaphylla	Core Eudicots
+OFWX	OFWX;Core Eudicots;Mollugo verticillata	Core Eudicots
+QASA	QASA;Core Eudicots;Mollugo verticillata	Core Eudicots
+NXTS	NXTS;Core Eudicots;Mollugo verticillata	Core Eudicots
+WQUF	WQUF;Core Eudicots;Nepenthes alata	Core Eudicots
+JAFJ	JAFJ;Core Eudicots;Bougainvillea spectabilis	Core Eudicots
+EGOS	EGOS;Core Eudicots;Allionia incarnata	Core Eudicots
+DVXD	DVXD;Core Eudicots;Allionia incarnata	Core Eudicots
+HMFE	HMFE;Core Eudicots;Allionia incarnata	Core Eudicots
+GQAV	GQAV;Core Eudicots;Mirabilis jalapa	Core Eudicots
+DZRA	DZRA;Core Eudicots;Mirabilis jalapa	Core Eudicots
+JGAB	JGAB;Core Eudicots;Mirabilis jalapa	Core Eudicots
+WHHY	WHHY;Core Eudicots;Boerhavia coccinea	Core Eudicots
+MBWM	MBWM;Core Eudicots;Boerhavia coccinea	Core Eudicots
+ZBTA	ZBTA;Core Eudicots;Boerhavia coccinea	Core Eudicots
+HUGU	HUGU;Core Eudicots;Boerhavia dominii	Core Eudicots
+GDYP	GDYP;Core Eudicots;Boerhavia dominii	Core Eudicots
+VJPU	VJPU;Core Eudicots;Boerhavia dominii	Core Eudicots
+RUUB	RUUB;Core Eudicots;Physena madagascariensis	Core Eudicots
+AZBL	AZBL;Core Eudicots;Petiveria alliacea	Core Eudicots
+BKQU	BKQU;Core Eudicots;Phytolacca americana	Core Eudicots
+MRKX	MRKX;Core Eudicots;Phytolacca bogotensis	Core Eudicots
+YNFJ	YNFJ;Core Eudicots;Microtea debilis	Core Eudicots
+SFKQ	SFKQ;Core Eudicots;Hilleria latifolia	Core Eudicots
+WOBD	WOBD;Core Eudicots;Limonium spectabile	Core Eudicots
+CGGO	CGGO;Core Eudicots;Plumbago auriculata	Core Eudicots
+FYSJ	FYSJ;Core Eudicots;Polygonum convolvulus	Core Eudicots
+CZJT	CZJT;Core Eudicots;Portulaca oleracea	Core Eudicots
+TRLB	TRLB;Core Eudicots;Portulaca oleracea	Core Eudicots
+EZGR	EZGR;Core Eudicots;Portulaca oleracea	Core Eudicots
+CPLT	CPLT;Core Eudicots;Portulaca grandiflora	Core Eudicots
+UQCB	UQCB;Core Eudicots;Portulaca molokiniensis	Core Eudicots
+IWIS	IWIS;Core Eudicots;Portulaca pilosa	Core Eudicots
+GCYL	GCYL;Core Eudicots;Portulaca suffruticosa	Core Eudicots
+KDCH	KDCH;Core Eudicots;Portulaca umbraticola	Core Eudicots
+BYNZ	BYNZ;Core Eudicots;Portulaca umbraticola	Core Eudicots
+BLWH	BLWH;Core Eudicots;Portulaca umbraticola	Core Eudicots
+QMUN	QMUN;Core Eudicots;Portulaca amilis	Core Eudicots
+LFQH	LFQH;Core Eudicots;Portulaca amilis	Core Eudicots
+LDEL	LDEL;Core Eudicots;Portulaca amilis	Core Eudicots
+VPCP	VPCP;Core Eudicots;Portulaca cryptopetala	Core Eudicots
+TMMR	TMMR;Core Eudicots;Portulaca cryptopetala	Core Eudicots
+LLQV	LLQV;Core Eudicots;Portulaca cryptopetala	Core Eudicots
+LKKX	LKKX;Core Eudicots;Talinum sp.	Core Eudicots
+GIWN	GIWN;Core Eudicots;Sarcobatus vermiculatus	Core Eudicots
+CVDF	CVDF;Core Eudicots;Simmondsia chinensis	Core Eudicots
+HTDC	HTDC;Core Eudicots;Tamarix chinensis	Core Eudicots
+STKY	STKY;Core Eudicots;Balanophora fungosa	Core Eudicots
+XKPS	XKPS;Core Eudicots;Ximenia americana	Core Eudicots
+VGVI	VGVI;Core Eudicots;Dendropemon caribaeus	Core Eudicots
+RSPO	RSPO;Core Eudicots;Santalum acuminatum	Core Eudicots
+BSEY	BSEY;Core Eudicots;Daenikera sp.	Core Eudicots
+XGFU	XGFU;Core Eudicots;Exocarpos cupressiformis	Core Eudicots
+QKMG	QKMG;Core Eudicots;Phoradendron serotinum	Core Eudicots
+YHXT	YHXT;Core Eudicots;Hamamelis virginiana	Core Eudicots
+DMKC	DMKC;Core Eudicots;Hamamelis virginiana	Core Eudicots
+YKQR	YKQR;Core Eudicots;Hamamelis virginiana	Core Eudicots
+HQRJ	HQRJ;Core Eudicots;Loropetalum chinense	Core Eudicots
+OMDH	OMDH;Core Eudicots;Loropetalum chinense	Core Eudicots
+TQOO	TQOO;Core Eudicots;Loropetalum chinense	Core Eudicots
+FWBF	FWBF;Core Eudicots/Asterids;Alangium chinense	Core Eudicots/Asterids
+LMVB	LMVB;Core Eudicots;Liquidambar styraciflua	Core Eudicots
+NUZN	NUZN;Core Eudicots;Cercidiphyllum japonicum	Core Eudicots
+ZJUL	ZJUL;Core Eudicots;Rhodiola rosea	Core Eudicots
+KWGC	KWGC;Core Eudicots;Crassula perforata	Core Eudicots
+DRIL	DRIL;Core Eudicots;Kalanchoe crenato-diagremontiana	Core Eudicots
+FYTP	FYTP;Core Eudicots;Daphniphyllum macropodum	Core Eudicots
+SYHW	SYHW;Core Eudicots;Ribes aff. giraldii	Core Eudicots
+IUSR	IUSR;Core Eudicots;Myriophyllum aquaticum	Core Eudicots
+TOKV	TOKV;Core Eudicots;Aphanopetalum resinosum	Core Eudicots
+UWFU	UWFU;Core Eudicots;Itea virginica	Core Eudicots
+HTIP	HTIP;Core Eudicots;Paeonia lactiflora	Core Eudicots
+FCBJ	FCBJ;Core Eudicots;Saxifraga stolonifera	Core Eudicots
+ERIA	ERIA;Core Eudicots;Heuchera sanguinea	Core Eudicots
+CIAC	CIAC;Core Eudicots;Bergenia sp.	Core Eudicots
+UHBY	UHBY;Core Eudicots;Oresitrophe rupifraga	Core Eudicots
+CKKR	CKKR;Core Eudicots;Astilbe chinensis	Core Eudicots
+OOVX	OOVX;Core Eudicots;Boykinia jamesii	Core Eudicots
+DAYQ	DAYQ;Core Eudicots;Mitella pentandra	Core Eudicots
+YKFU	YKFU;Core Eudicots;Peltoboykinia watanabei	Core Eudicots
+CTSS	CTSS;Core Eudicots;Tellima breviflora	Core Eudicots
+SLOI	SLOI;Core Eudicots;Tiarella polyphylla	Core Eudicots
+BGZG	BGZG;Core Eudicots/Rosids;Cissus quadrangularis	Core Eudicots/Rosids
+SZPD	SZPD;Core Eudicots/Rosids;Tetrastigma voinierianum	Core Eudicots/Rosids
+BBBA	BBBA;Core Eudicots/Rosids;Tetrastigma obtectum	Core Eudicots/Rosids
+VYGG	VYGG;Core Eudicots/Rosids;Stachyurus praecox	Core Eudicots/Rosids
+PTLU	PTLU;Core Eudicots/Rosids;Staphylea trifolia	Core Eudicots/Rosids
+VKGP	VKGP;Core Eudicots/Rosids;Geranium carolinianum	Core Eudicots/Rosids
+YGCX	YGCX;Core Eudicots/Rosids;Geranium maculatum	Core Eudicots/Rosids
+HDWF	HDWF;Core Eudicots/Rosids;Francoa appendiculata	Core Eudicots/Rosids
+FONV	FONV;Core Eudicots/Rosids;Greyia sutherlandii	Core Eudicots/Rosids
+AJJE	AJJE;Core Eudicots/Rosids;Terminalia neotaliala	Core Eudicots/Rosids
+NIJU	NIJU;Core Eudicots/Rosids;Heteropyxis natalensis	Core Eudicots/Rosids
+RJNQ	RJNQ;Core Eudicots/Rosids;Lagerstroemia indica	Core Eudicots/Rosids
+QEBC	QEBC;Core Eudicots/Rosids;Punica granatum	Core Eudicots/Rosids
+JROW	JROW;Core Eudicots/Rosids;Punica granatum	Core Eudicots/Rosids
+KAOV	KAOV;Core Eudicots/Rosids;Punica granatum	Core Eudicots/Rosids
+VUGF	VUGF;Core Eudicots/Rosids;Punica granatum	Core Eudicots/Rosids
+YMUO	YMUO;Core Eudicots/Rosids;Punica granatum	Core Eudicots/Rosids
+YNUE	YNUE;Core Eudicots/Rosids;Punica granatum	Core Eudicots/Rosids
+LHSH	LHSH;Core Eudicots/Rosids;Punica granatum	Core Eudicots/Rosids
+WWQZ	WWQZ;Core Eudicots/Rosids;Medinilla magnifica	Core Eudicots/Rosids
+SWGX	SWGX;Core Eudicots/Rosids;Tetrazygia bicolor	Core Eudicots/Rosids
+FGDU	FGDU;Core Eudicots/Rosids;Syzygium paniculatum	Core Eudicots/Rosids
+NEBM	NEBM;Core Eudicots/Rosids;Syzygium micranthum	Core Eudicots/Rosids
+AYMT	AYMT;Core Eudicots/Rosids;Eucalyptus leucoxylon	Core Eudicots/Rosids
+JLLY	JLLY;Core Eudicots/Rosids;Melaleuca quinquenervia	Core Eudicots/Rosids
+FEDW	FEDW;Core Eudicots/Rosids;Epilobium sp.	Core Eudicots/Rosids
+GVCB	GVCB;Core Eudicots/Rosids;Oenothera affinis	Core Eudicots/Rosids
+EQYT	EQYT;Core Eudicots/Rosids;Oenothera berlandieri	Core Eudicots/Rosids
+DSVQ	DSVQ;Core Eudicots/Rosids;Oenothera biennis	Core Eudicots/Rosids
+FDBS	FDBS;Core Eudicots/Rosids;Oenothera biennis	Core Eudicots/Rosids
+DWAP	DWAP;Core Eudicots/Rosids;Oenothera biennis	Core Eudicots/Rosids
+EXGW	EXGW;Core Eudicots/Rosids;Oenothera biennis	Core Eudicots/Rosids
+MLUJ	MLUJ;Core Eudicots/Rosids;Oenothera biennis	Core Eudicots/Rosids
+BZDF	BZDF;Core Eudicots/Rosids;Oenothera biennis	Core Eudicots/Rosids
+KBRW	KBRW;Core Eudicots/Rosids;Oenothera clelandii	Core Eudicots/Rosids
+AJBK	AJBK;Core Eudicots/Rosids;Oenothera elata	Core Eudicots/Rosids
+IDAU	IDAU;Core Eudicots/Rosids;Oenothera elata	Core Eudicots/Rosids
+ROLB	ROLB;Core Eudicots/Rosids;Oenothera elata	Core Eudicots/Rosids
+WBXY	WBXY;Core Eudicots/Rosids;Oenothera elata	Core Eudicots/Rosids
+ECSL	ECSL;Core Eudicots/Rosids;Oenothera filiformis	Core Eudicots/Rosids
+JYOB	JYOB;Core Eudicots/Rosids;Oenothera filiformis	Core Eudicots/Rosids
+NQWS	NQWS;Core Eudicots/Rosids;Oenothera filiformis	Core Eudicots/Rosids
+AXNH	AXNH;Core Eudicots/Rosids;Oenothera filiformis	Core Eudicots/Rosids
+TGOP	TGOP;Core Eudicots/Rosids;Oenothera gaura	Core Eudicots/Rosids
+LHDP	LHDP;Core Eudicots/Rosids;Oenothera gaura	Core Eudicots/Rosids
+LACT	LACT;Core Eudicots/Rosids;Oenothera gaura	Core Eudicots/Rosids
+IIFB	IIFB;Core Eudicots/Rosids;Oenothera gaura	Core Eudicots/Rosids
+JMJV	JMJV;Core Eudicots/Rosids;Oenothera gaura	Core Eudicots/Rosids
+PMTB	PMTB;Core Eudicots/Rosids;Oenothera gaura	Core Eudicots/Rosids
+REZJ	REZJ;Core Eudicots/Rosids;Oenothera grandiflora	Core Eudicots/Rosids
+GZUR	GZUR;Core Eudicots/Rosids;Oenothera grandiflora	Core Eudicots/Rosids
+HOOU	HOOU;Core Eudicots/Rosids;Oenothera grandiflora	Core Eudicots/Rosids
+MJHP	MJHP;Core Eudicots/Rosids;Oenothera grandiflora	Core Eudicots/Rosids
+EBPG	EBPG;Core Eudicots/Rosids;Oenothera grandiflora	Core Eudicots/Rosids
+ZINQ	ZINQ;Core Eudicots/Rosids;Oenothera grandiflora	Core Eudicots/Rosids
+TAHF	TAHF;Core Eudicots/Rosids;Oenothera grandis	Core Eudicots/Rosids
+CHTD	CHTD;Core Eudicots/Rosids;Oenothera grandis	Core Eudicots/Rosids
+EWHG	EWHG;Core Eudicots/Rosids;Oenothera grandis	Core Eudicots/Rosids
+WPUV	WPUV;Core Eudicots/Rosids;Oenothera grandis	Core Eudicots/Rosids
+SEMK	SEMK;Core Eudicots/Rosids;Oenothera grandis	Core Eudicots/Rosids
+IMZV	IMZV;Core Eudicots/Rosids;Oenothera grandis	Core Eudicots/Rosids
+ONZG	ONZG;Core Eudicots/Rosids;Oenothera laciniata	Core Eudicots/Rosids
+DIBI	DIBI;Core Eudicots/Rosids;Oenothera laciniata	Core Eudicots/Rosids
+QBRF	QBRF;Core Eudicots/Rosids;Oenothera laciniata	Core Eudicots/Rosids
+ICUS	ICUS;Core Eudicots/Rosids;Oenothera laciniata	Core Eudicots/Rosids
+AQXA	AQXA;Core Eudicots/Rosids;Oenothera laciniata	Core Eudicots/Rosids
+ARYD	ARYD;Core Eudicots/Rosids;Oenothera laciniata	Core Eudicots/Rosids
+HPNZ	HPNZ;Core Eudicots/Rosids;Oenothera longituba	Core Eudicots/Rosids
+CJGZ	CJGZ;Core Eudicots/Rosids;Oenothera nana	Core Eudicots/Rosids
+DZLN	DZLN;Core Eudicots/Rosids;Oenothera picensis	Core Eudicots/Rosids
+YHLF	YHLF;Core Eudicots/Rosids;Oenothera rhombipetala	Core Eudicots/Rosids
+FXJC	FXJC;Core Eudicots/Rosids;Oenothera rosea	Core Eudicots/Rosids
+KFAL	KFAL;Core Eudicots/Rosids;Oenothera rosea	Core Eudicots/Rosids
+XSNO	XSNO;Core Eudicots/Rosids;Oenothera rosea	Core Eudicots/Rosids
+YIVZ	YIVZ;Core Eudicots/Rosids;Oenothera rosea	Core Eudicots/Rosids
+UJGI	UJGI;Core Eudicots/Rosids;Oenothera rosea	Core Eudicots/Rosids
+SJAN	SJAN;Core Eudicots/Rosids;Oenothera serrulata	Core Eudicots/Rosids
+RLZU	RLZU;Core Eudicots/Rosids;Oenothera speciosa	Core Eudicots/Rosids
+XZPP	XZPP;Core Eudicots/Rosids;Oenothera speciosa	Core Eudicots/Rosids
+GBGW	GBGW;Core Eudicots/Rosids;Oenothera speciosa	Core Eudicots/Rosids
+UASK	UASK;Core Eudicots/Rosids;Oenothera speciosa	Core Eudicots/Rosids
+XZAQ	XZAQ;Core Eudicots/Rosids;Oenothera speciosa	Core Eudicots/Rosids
+TLCA	TLCA;Core Eudicots/Rosids;Oenothera speciosa	Core Eudicots/Rosids
+JKNQ	JKNQ;Core Eudicots/Rosids;Oenothera suffulta suffulta	Core Eudicots/Rosids
+HKMQ	HKMQ;Core Eudicots/Rosids;Oenothera villaricae	Core Eudicots/Rosids
+UDUT	UDUT;Core Eudicots/Rosids;Larrea tridentata	Core Eudicots/Rosids
+KVAY	KVAY;Core Eudicots/Rosids;Tribulus eichlerianus	Core Eudicots/Rosids
+ZHMB	ZHMB;Core Eudicots/Rosids;Krameria lanceolata	Core Eudicots/Rosids
+IHCQ	IHCQ;Core Eudicots/Rosids;Crossopetalum rhacoma	Core Eudicots/Rosids
+MFEA	MFEA;Core Eudicots/Rosids;Stackhousia spathulata	Core Eudicots/Rosids
+OCTM	OCTM;Core Eudicots/Rosids;Begonia sp.	Core Eudicots/Rosids
+AXAF	AXAF;Core Eudicots/Rosids;Thladiantha villosula	Core Eudicots/Rosids
+NNGU	NNGU;Core Eudicots/Rosids;Coriaria nepalensis	Core Eudicots/Rosids
+SUAK	SUAK;Core Eudicots/Rosids;Codariocalyx motorius	Core Eudicots/Rosids
+RKLL	RKLL;Core Eudicots/Rosids;Copaifera officinalis	Core Eudicots/Rosids
+RMWJ	RMWJ;Core Eudicots/Rosids;Wisteria floribunda	Core Eudicots/Rosids
+PEZP	PEZP;Core Eudicots/Rosids;Glycyrrhiza glabra	Core Eudicots/Rosids
+RKFX	RKFX;Core Eudicots/Rosids;Cercis canadensis	Core Eudicots/Rosids
+GEHT	GEHT;Core Eudicots/Rosids;Gleditsia triacanthos	Core Eudicots/Rosids
+QZXQ	QZXQ;Core Eudicots/Rosids;Gymnocladus dioicus	Core Eudicots/Rosids
+KZED	KZED;Core Eudicots/Rosids;Senna hebecarpa	Core Eudicots/Rosids
+XOOE	XOOE;Core Eudicots/Rosids;Desmanthus illinoensis	Core Eudicots/Rosids
+NXOH	NXOH;Core Eudicots/Rosids;Apios americana	Core Eudicots/Rosids
+SLYR	SLYR;Core Eudicots/Rosids;Cladrastis lutea	Core Eudicots/Rosids
+KNMB	KNMB;Core Eudicots/Rosids;Lathyrus sativus	Core Eudicots/Rosids
+CMFF	CMFF;Core Eudicots/Rosids;Lupinus polyphyllus	Core Eudicots/Rosids
+TVSH	TVSH;Core Eudicots/Rosids;Bituminaria bituminosa	Core Eudicots/Rosids
+TTRG	TTRG;Core Eudicots/Rosids;Lupinus angustifolius	Core Eudicots/Rosids
+HJMP	HJMP;Core Eudicots/Rosids;Astragalus membranaceus	Core Eudicots/Rosids
+JTQQ	JTQQ;Core Eudicots/Rosids;Glycyrrhiza lepidota	Core Eudicots/Rosids
+VLNB	VLNB;Core Eudicots/Rosids;Gompholobium polymorphum	Core Eudicots/Rosids
+ZUQW	ZUQW;Core Eudicots/Rosids;Glycine soja	Core Eudicots/Rosids
+OAQS	OAQS;Core Eudicots/Rosids;Glycine soja	Core Eudicots/Rosids
+FPLR	FPLR;Core Eudicots/Rosids;Glycine soja	Core Eudicots/Rosids
+PFSA	PFSA;Core Eudicots/Rosids;Glycine soja	Core Eudicots/Rosids
+AKRH	AKRH;Core Eudicots/Rosids;Glycine soja	Core Eudicots/Rosids
+LXGM	LXGM;Core Eudicots/Rosids;Glycine soja	Core Eudicots/Rosids
+LQUX	LQUX;Core Eudicots/Rosids;Glycine soja	Core Eudicots/Rosids
+RIDD	RIDD;Core Eudicots/Rosids;Glycine soja	Core Eudicots/Rosids
+TJMB	TJMB;Core Eudicots/Rosids;Glycine soja	Core Eudicots/Rosids
+KEGA	KEGA;Core Eudicots/Rosids;Glycine soja	Core Eudicots/Rosids
+ZCDJ	ZCDJ;Core Eudicots/Rosids;Acacia argyrophylla	Core Eudicots/Rosids
+ATQZ	ATQZ;Core Eudicots/Rosids;Acacia pycnantha	Core Eudicots/Rosids
+MGBF	MGBF;Core Eudicots/Rosids;Acacia pycnantha	Core Eudicots/Rosids
+PJSX	PJSX;Core Eudicots/Rosids;Acacia pycnantha	Core Eudicots/Rosids
+MYMP	MYMP;Core Eudicots/Rosids;Astragalus propinquus	Core Eudicots/Rosids
+JETM	JETM;Core Eudicots/Rosids;Bauhinia tomentosa	Core Eudicots/Rosids
+VHZV	VHZV;Core Eudicots/Rosids;Gleditsia sinensis	Core Eudicots/Rosids
+ZSSR	ZSSR;Core Eudicots/Rosids;Xanthocercis zambesiaca	Core Eudicots/Rosids
+OHAE	OHAE;Core Eudicots/Rosids;Polygala lutea	Core Eudicots/Rosids
+OQHZ	OQHZ;Core Eudicots/Rosids;Quillaja saponaria	Core Eudicots/Rosids
+CWZU	CWZU;Core Eudicots/Rosids;Betula pendula	Core Eudicots/Rosids
+LWDA	LWDA;Core Eudicots/Rosids;Alnus serrulata	Core Eudicots/Rosids
+LNER	LNER;Core Eudicots/Rosids;Casuarina equisetifolia	Core Eudicots/Rosids
+SVVG	SVVG;Core Eudicots/Rosids;Fagus sylvatica	Core Eudicots/Rosids
+HENI	HENI;Core Eudicots/Rosids;Quercus shumardii	Core Eudicots/Rosids
+UZWG	UZWG;Core Eudicots/Rosids;Castanea pumila	Core Eudicots/Rosids
+NHUA	NHUA;Core Eudicots/Rosids;Castanea crenata	Core Eudicots/Rosids
+DXQW	DXQW;Core Eudicots/Rosids;Juglans nigra	Core Eudicots/Rosids
+VWIP	VWIP;Core Eudicots/Rosids;Carya glabra	Core Eudicots/Rosids
+INSP	INSP;Core Eudicots/Rosids;Myrica cerifera	Core Eudicots/Rosids
+TJLC	TJLC;Core Eudicots/Rosids;Nothofagus obliqua	Core Eudicots/Rosids
+NFXV	NFXV;Core Eudicots/Rosids;Mammea americana	Core Eudicots/Rosids
+ZBVT	ZBVT;Core Eudicots/Rosids;Chrysobalanus icaco	Core Eudicots/Rosids
+HBUQ	HBUQ;Core Eudicots/Rosids;Licania michauxii	Core Eudicots/Rosids
+FWCQ	FWCQ;Core Eudicots/Rosids;Garcinia oblongifolia	Core Eudicots/Rosids
+OSIP	OSIP;Core Eudicots/Rosids;Garcinia livingstonei	Core Eudicots/Rosids
+PAZJ	PAZJ;Core Eudicots/Rosids;Ricinus communis	Core Eudicots/Rosids
+XNLP	XNLP;Core Eudicots/Rosids;Manihot grahamii	Core Eudicots/Rosids
+VVPY	VVPY;Core Eudicots/Rosids;Croton tiglium	Core Eudicots/Rosids
+PXYR	PXYR;Core Eudicots/Rosids;Euphorbia pekinensis	Core Eudicots/Rosids
+LSLA	LSLA;Core Eudicots/Rosids;Euphorbia mesembryanthemifolia	Core Eudicots/Rosids
+VPDX	VPDX;Core Eudicots/Rosids;Euphorbia mesembryanthemifolia	Core Eudicots/Rosids
+RHAU	RHAU;Core Eudicots/Rosids;Euphorbia mesembryanthemifolia	Core Eudicots/Rosids
+BNDE	BNDE;Core Eudicots/Rosids;Hypericum perforatum	Core Eudicots/Rosids
+MYVH	MYVH;Core Eudicots/Rosids;Linum grandiflorum	Core Eudicots/Rosids
+MJAV	MJAV;Core Eudicots/Rosids;Linum usitatissimum	Core Eudicots/Rosids
+OGSY	OGSY;Core Eudicots/Rosids;Linum usitatissimum	Core Eudicots/Rosids
+OZJZ	OZJZ;Core Eudicots/Rosids;Linum usitatissimum	Core Eudicots/Rosids
+POZS	POZS;Core Eudicots/Rosids;Linum usitatissimum	Core Eudicots/Rosids
+AXPJ	AXPJ;Core Eudicots/Rosids;Linum flavum	Core Eudicots/Rosids
+HNCF	HNCF;Core Eudicots/Rosids;Linum hirsutum	Core Eudicots/Rosids
+AEPI	AEPI;Core Eudicots/Rosids;Linum leonii	Core Eudicots/Rosids
+BHYC	BHYC;Core Eudicots/Rosids;Linum lewisii	Core Eudicots/Rosids
+KCPT	KCPT;Core Eudicots/Rosids;Linum macraei	Core Eudicots/Rosids
+LFII	LFII;Core Eudicots/Rosids;Linum perenne	Core Eudicots/Rosids
+XWMS	XWMS;Core Eudicots/Rosids;Linum perenne	Core Eudicots/Rosids
+BVOF	BVOF;Core Eudicots/Rosids;Linum perenne	Core Eudicots/Rosids
+OODC	OODC;Core Eudicots/Rosids;Linum bienne	Core Eudicots/Rosids
+TXMP	TXMP;Core Eudicots/Rosids;Linum strictum	Core Eudicots/Rosids
+VXOD	VXOD;Core Eudicots/Rosids;Linum tenuifolium	Core Eudicots/Rosids
+XPBC	XPBC;Core Eudicots/Rosids;Galphimia gracilis	Core Eudicots/Rosids
+COAQ	COAQ;Core Eudicots/Rosids;Malesherbia fasciculata	Core Eudicots/Rosids
+TVCU	TVCU;Core Eudicots/Rosids;Ochna mossambicensis	Core Eudicots/Rosids
+CKDK	CKDK;Core Eudicots/Rosids;Ochna serrulata	Core Eudicots/Rosids
+EZZT	EZZT;Core Eudicots/Rosids;Passiflora edulis	Core Eudicots/Rosids
+SIZE	SIZE;Core Eudicots/Rosids;Passiflora caerulea	Core Eudicots/Rosids
+YGAT	YGAT;Core Eudicots/Rosids;Phyllanthus sp.	Core Eudicots/Rosids
+VNMY	VNMY;Core Eudicots/Rosids;Bischofia javanica	Core Eudicots/Rosids
+RVGH	RVGH;Core Eudicots/Rosids;Drypetes deplanchei	Core Eudicots/Rosids
+ZTLR	ZTLR;Core Eudicots/Rosids;Rhizophora mangle	Core Eudicots/Rosids
+RPPC	RPPC;Core Eudicots/Rosids;Erythroxylum coca	Core Eudicots/Rosids
+INQX	INQX;Core Eudicots/Rosids;Salix acutifolia	Core Eudicots/Rosids
+IEPQ	IEPQ;Core Eudicots/Rosids;Salix dasyclados	Core Eudicots/Rosids
+GLVK	GLVK;Core Eudicots/Rosids;Salix eriocephala	Core Eudicots/Rosids
+RZTJ	RZTJ;Core Eudicots/Rosids;Salix fargesii	Core Eudicots/Rosids
+LFOG	LFOG;Core Eudicots/Rosids;Salix purpurea	Core Eudicots/Rosids
+TDTF	TDTF;Core Eudicots/Rosids;Salix sachalinensis	Core Eudicots/Rosids
+KKDQ	KKDQ;Core Eudicots/Rosids;Salix viminalis	Core Eudicots/Rosids
+LPGY	LPGY;Core Eudicots/Rosids;Viola tricolor	Core Eudicots/Rosids
+NJLF	NJLF;Core Eudicots/Rosids;Viola canadensis	Core Eudicots/Rosids
+YZVJ	YZVJ;Core Eudicots/Rosids;Cephalotus follicularis	Core Eudicots/Rosids
+TIUZ	TIUZ;Core Eudicots/Rosids;Cunonia capensis	Core Eudicots/Rosids
+THHD	THHD;Core Eudicots/Rosids;Elaeocarpus sylvestris	Core Eudicots/Rosids
+JHCN	JHCN;Core Eudicots/Rosids;Oxalis sp.	Core Eudicots/Rosids
+PMRP	PMRP;Core Eudicots/Rosids;Cannabis sativa	Core Eudicots/Rosids
+SFZX	SFZX;Core Eudicots/Rosids;Cannabis sativa	Core Eudicots/Rosids
+PDIE	PDIE;Core Eudicots/Rosids;Cannabis sativa	Core Eudicots/Rosids
+DGNP	DGNP;Core Eudicots/Rosids;Cannabis sativa	Core Eudicots/Rosids
+BJSW	BJSW;Core Eudicots/Rosids;Cannabis sativa	Core Eudicots/Rosids
+MCNW	MCNW;Core Eudicots/Rosids;Cannabis sativa	Core Eudicots/Rosids
+AQGE	AQGE;Core Eudicots/Rosids;Humulus lupulus	Core Eudicots/Rosids
+KYAD	KYAD;Core Eudicots/Rosids;Celtis occidentalis	Core Eudicots/Rosids
+RBYC	RBYC;Core Eudicots/Rosids;Elaeagnus pungens	Core Eudicots/Rosids
+XVJB	XVJB;Core Eudicots/Rosids;Morus nigra	Core Eudicots/Rosids
+EDHN	EDHN;Core Eudicots/Rosids;Ficus religiosa	Core Eudicots/Rosids
+EILE	EILE;Core Eudicots/Rosids;Rhamnus japonica	Core Eudicots/Rosids
+WVEF	WVEF;Core Eudicots/Rosids;Rhamnus caroliniana	Core Eudicots/Rosids
+IANR	IANR;Core Eudicots/Rosids;Rosa palustris	Core Eudicots/Rosids
+DHAW	DHAW;Core Eudicots/Rosids;Geum quellyon	Core Eudicots/Rosids
+QNOC	QNOC;Core Eudicots/Rosids;Sanguisorba minor	Core Eudicots/Rosids
+NCVK	NCVK;Core Eudicots/Rosids;Prunus prostrata	Core Eudicots/Rosids
+TJQY	TJQY;Core Eudicots/Rosids;Kerria japonica	Core Eudicots/Rosids
+VCIN	VCIN;Core Eudicots/Rosids;Malus baccata	Core Eudicots/Rosids
+BLVL	BLVL;Core Eudicots/Rosids;Sorbus koehneana	Core Eudicots/Rosids
+EAVM	EAVM;Core Eudicots/Rosids;Amelanchier canadensis	Core Eudicots/Rosids
+QIEH	QIEH;Core Eudicots/Rosids;Cotoneaster transcaucasicus	Core Eudicots/Rosids
+SXCE	SXCE;Core Eudicots/Rosids;Physocarpus opulifolius	Core Eudicots/Rosids
+ZPKK	ZPKK;Core Eudicots/Rosids;Aruncus dioicus	Core Eudicots/Rosids
+XFFT	XFFT;Core Eudicots/Rosids;Cercocarpus ledifolius	Core Eudicots/Rosids
+SQCF	SQCF;Core Eudicots/Rosids;Dryas octopetala	Core Eudicots/Rosids
+CQMG	CQMG;Core Eudicots/Rosids;Ulmus alata	Core Eudicots/Rosids
+ACFP	ACFP;Core Eudicots/Rosids;Boehmeria nivea	Core Eudicots/Rosids
+WKCY	WKCY;Core Eudicots/Rosids;Urtica dioica	Core Eudicots/Rosids
+WWKL	WWKL;Core Eudicots/Rosids;Tapiscia sinensis	Core Eudicots/Rosids
+HYZL	HYZL;Core Eudicots/Rosids;Akania lucens	Core Eudicots/Rosids
+DZTK	DZTK;Core Eudicots/Rosids;Batis maritima	Core Eudicots/Rosids
+IPWB	IPWB;Core Eudicots/Rosids;Brassica nigra	Core Eudicots/Rosids
+VMNH	VMNH;Core Eudicots/Rosids;Sinapis alba	Core Eudicots/Rosids
+TZWR	TZWR;Core Eudicots/Rosids;Arabis alpina	Core Eudicots/Rosids
+CSUV	CSUV;Core Eudicots/Rosids;Cochlearia officinalis	Core Eudicots/Rosids
+HABV	HABV;Core Eudicots/Rosids;Draba aizoides	Core Eudicots/Rosids
+GTSV	GTSV;Core Eudicots/Rosids;Draba hispida	Core Eudicots/Rosids
+UVQL	UVQL;Core Eudicots/Rosids;Draba magellanica	Core Eudicots/Rosids
+LAPO	LAPO;Core Eudicots/Rosids;Draba oligosperma	Core Eudicots/Rosids
+LJQF	LJQF;Core Eudicots/Rosids;Draba ossetica	Core Eudicots/Rosids
+BXBF	BXBF;Core Eudicots/Rosids;Draba sachalinensis	Core Eudicots/Rosids
+QSKP	QSKP;Core Eudicots/Rosids;Polanisia trachysperma	Core Eudicots/Rosids
+HELY	HELY;Core Eudicots/Rosids;Cleome violacea	Core Eudicots/Rosids
+EZXQ	EZXQ;Core Eudicots/Rosids;Cleome violacea	Core Eudicots/Rosids
+LVUS	LVUS;Core Eudicots/Rosids;Cleome violacea	Core Eudicots/Rosids
+MBQU	MBQU;Core Eudicots/Rosids;Cleome gynandra	Core Eudicots/Rosids
+ZLOA	ZLOA;Core Eudicots/Rosids;Cleome gynandra	Core Eudicots/Rosids
+VDKG	VDKG;Core Eudicots/Rosids;Cleome gynandra	Core Eudicots/Rosids
+UPZX	UPZX;Core Eudicots/Rosids;Cleome viscosa	Core Eudicots/Rosids
+UAXP	UAXP;Core Eudicots/Rosids;Gyrostemon ramulosus	Core Eudicots/Rosids
+JOIS	JOIS;Core Eudicots/Rosids;Koeberlinia spinosa	Core Eudicots/Rosids
+CRNC	CRNC;Core Eudicots/Rosids;Limnanthes douglasii	Core Eudicots/Rosids
+CZPV	CZPV;Core Eudicots/Rosids;Moringa oleifera	Core Eudicots/Rosids
+SWPE	SWPE;Core Eudicots/Rosids;Reseda odorata	Core Eudicots/Rosids
+RTTY	RTTY;Core Eudicots/Rosids;Salvadora sp.	Core Eudicots/Rosids
+MYZV	MYZV;Core Eudicots/Rosids;Tropaeolum peregrinum	Core Eudicots/Rosids
+KPTE	KPTE;Core Eudicots/Rosids;Bixa orellana	Core Eudicots/Rosids
+PKMO	PKMO;Core Eudicots/Rosids;Cistus inflatus	Core Eudicots/Rosids
+OLXF	OLXF;Core Eudicots/Rosids;Hibiscus cannabinus	Core Eudicots/Rosids
+WYIG	WYIG;Core Eudicots/Rosids;Dombeya burgessiae	Core Eudicots/Rosids
+ZSAB	ZSAB;Core Eudicots/Rosids;Hoheria angustifolia	Core Eudicots/Rosids
+ATFX	ATFX;Core Eudicots/Rosids;Muntingia calabura	Core Eudicots/Rosids
+WMUK	WMUK;Core Eudicots/Rosids;Schizolaena sp.	Core Eudicots/Rosids
+PUDI	PUDI;Core Eudicots/Rosids;Daphne giraldii	Core Eudicots/Rosids
+QJXB	QJXB;Core Eudicots/Rosids;Wikstroemia indica	Core Eudicots/Rosids
+AWJM	AWJM;Core Eudicots/Rosids;Edgeworthia papyrifera	Core Eudicots/Rosids
+YUOM	YUOM;Core Eudicots/Rosids;Rhus radicans	Core Eudicots/Rosids
+WAXR	WAXR;Core Eudicots/Rosids;Litchi chinensis	Core Eudicots/Rosids
+JSZD	JSZD;Core Eudicots/Rosids;Bursera simaruba	Core Eudicots/Rosids
+FCCA	FCCA;Core Eudicots/Rosids;Boswellia sacra	Core Eudicots/Rosids
+BCAA	BCAA;Core Eudicots/Rosids;Kirkia wilmsii	Core Eudicots/Rosids
+UVDC	UVDC;Core Eudicots/Rosids;Azadirachta indica	Core Eudicots/Rosids
+CAIX	CAIX;Core Eudicots/Rosids;Melia azedarach	Core Eudicots/Rosids
+VCCF	VCCF;Core Eudicots/Rosids;Melia azedarach	Core Eudicots/Rosids
+RJIM	RJIM;Core Eudicots/Rosids;Melia azedarach	Core Eudicots/Rosids
+OBTI	OBTI;Core Eudicots/Rosids;Peganum harmala	Core Eudicots/Rosids
+UHJR	UHJR;Core Eudicots/Rosids;Citrus x paradisi	Core Eudicots/Rosids
+PGKL	PGKL;Core Eudicots/Rosids;Phellodendron amurense	Core Eudicots/Rosids
+HBHB	HBHB;Core Eudicots/Rosids;Aesculus pavia	Core Eudicots/Rosids
+VFFP	VFFP;Core Eudicots/Rosids;Acer negundo	Core Eudicots/Rosids
+IKFD	IKFD;Core Eudicots/Rosids;Quassia amara	Core Eudicots/Rosids
+QICX	QICX;Core Eudicots/Rosids;Ailanthus altissima	Core Eudicots/Rosids
+BFJL	BFJL;Core Eudicots/Asterids;Cornus florida	Core Eudicots/Asterids
+XONJ	XONJ;Core Eudicots/Asterids;Camptotheca acuminata	Core Eudicots/Asterids
+VUSY	VUSY;Core Eudicots/Asterids;Nyssa ogeche	Core Eudicots/Asterids
+UZNH	UZNH;Core Eudicots/Asterids;Curtisia dentata	Core Eudicots/Asterids
+QURC	QURC;Core Eudicots/Asterids;Dichroa febrifuga	Core Eudicots/Asterids
+ZETY	ZETY;Core Eudicots/Asterids;Hydrangea quercifolia	Core Eudicots/Asterids
+BTZX	BTZX;Core Eudicots/Asterids;Philadelphus inodorus	Core Eudicots/Asterids
+OTAN	OTAN;Core Eudicots/Asterids;Deutzia scabra	Core Eudicots/Asterids
+VTLJ	VTLJ;Core Eudicots/Asterids;Caiophora chuquitensis	Core Eudicots/Asterids
+QAUE	QAUE;Core Eudicots/Asterids;Actinidia chinensis	Core Eudicots/Asterids
+JEXA	JEXA;Core Eudicots/Asterids;Impatiens balsamifera	Core Eudicots/Asterids
+YZGX	YZGX;Core Eudicots/Asterids;Cyrilla racemiflora	Core Eudicots/Asterids
+ADHK	ADHK;Core Eudicots/Asterids;Galax urceolata	Core Eudicots/Asterids
+UFHF	UFHF;Core Eudicots/Asterids;Galax urceolata	Core Eudicots/Asterids
+PIYM	PIYM;Core Eudicots/Asterids;Galax urceolata	Core Eudicots/Asterids
+KVFU	KVFU;Core Eudicots/Asterids;Diospyros malabarica	Core Eudicots/Asterids
+AVJK	AVJK;Core Eudicots/Asterids;Cavendishia cuatrecasasii	Core Eudicots/Asterids
+WXVX	WXVX;Core Eudicots/Asterids;Ledum palustre	Core Eudicots/Asterids
+PPPZ	PPPZ;Core Eudicots/Asterids;Rhododendron scopulorum	Core Eudicots/Asterids
+LRTN	LRTN;Core Eudicots/Asterids;Monotropa uniflora	Core Eudicots/Asterids
+SERM	SERM;Core Eudicots/Asterids;Sarcodes sanguinea	Core Eudicots/Asterids
+YSRZ	YSRZ;Core Eudicots/Asterids;Fouquieria macdougalii	Core Eudicots/Asterids
+BNTL	BNTL;Core Eudicots/Asterids;Souroubea exauriculata	Core Eudicots/Asterids
+ODDO	ODDO;Core Eudicots/Asterids;Ardisia humilis	Core Eudicots/Asterids
+DAAD	DAAD;Core Eudicots/Asterids;Ardisia revoluta	Core Eudicots/Asterids
+NGRR	NGRR;Core Eudicots/Asterids;Ternstroemia gymnanthera	Core Eudicots/Asterids
+WVMY	WVMY;Core Eudicots/Asterids;Phlox drummondii	Core Eudicots/Asterids
+FNEN	FNEN;Core Eudicots/Asterids;Phlox sp.	Core Eudicots/Asterids
+DTOA	DTOA;Core Eudicots/Asterids;Maesa lanceolata	Core Eudicots/Asterids
+OJCW	OJCW;Core Eudicots/Asterids;Maesa lanceolata	Core Eudicots/Asterids
+VKJD	VKJD;Core Eudicots/Asterids;Maesa lanceolata	Core Eudicots/Asterids
+HUSX	HUSX;Core Eudicots/Asterids;Roridula gorgonias	Core Eudicots/Asterids
+WRPP	WRPP;Core Eudicots/Asterids;Synsepalum dulcificum	Core Eudicots/Asterids
+BEFC	BEFC;Core Eudicots/Asterids;Manilkara zapota	Core Eudicots/Asterids
+OXYP	OXYP;Core Eudicots/Asterids;Sideroxylon reclinatum	Core Eudicots/Asterids
+AXBO	AXBO;Core Eudicots/Asterids;Sinojackia xylocarpa	Core Eudicots/Asterids
+JPDJ	JPDJ;Core Eudicots/Asterids;Symplocos tinctoria	Core Eudicots/Asterids
+PTFA	PTFA;Core Eudicots/Asterids;Jacquinia sp.	Core Eudicots/Asterids
+NJJO	NJJO;Core Eudicots/Asterids;Pilostyles thurberi	Core Eudicots/Asterids
+VJSJ	VJSJ;Core Eudicots/Asterids;Heliotropium calcicola	Core Eudicots/Asterids
+EIGQ	EIGQ;Core Eudicots/Asterids;Heliotropium calcicola	Core Eudicots/Asterids
+RGMN	RGMN;Core Eudicots/Asterids;Heliotropium calcicola	Core Eudicots/Asterids
+XVRU	XVRU;Core Eudicots/Asterids;Heliotropium calcicola	Core Eudicots/Asterids
+IPPG	IPPG;Core Eudicots/Asterids;Heliotropium filiforme	Core Eudicots/Asterids
+XKVX	XKVX;Core Eudicots/Asterids;Heliotropium filiforme	Core Eudicots/Asterids
+OEKO	OEKO;Core Eudicots/Asterids;Heliotropium filiforme	Core Eudicots/Asterids
+OUER	OUER;Core Eudicots/Asterids;Heliotropium convolvulaceum	Core Eudicots/Asterids
+ABEH	ABEH;Core Eudicots/Asterids;Heliotropium greggii	Core Eudicots/Asterids
+NIGS	NIGS;Core Eudicots/Asterids;Heliotropium karwinskyi	Core Eudicots/Asterids
+MZOB	MZOB;Core Eudicots/Asterids;Heliotropium mendocinum	Core Eudicots/Asterids
+IDGE	IDGE;Core Eudicots/Asterids;Heliotropium racemosum	Core Eudicots/Asterids
+DIHD	DIHD;Core Eudicots/Asterids;Heliotropium tenellum	Core Eudicots/Asterids
+JWEY	JWEY;Core Eudicots/Asterids;Heliotropium tenuifolium	Core Eudicots/Asterids
+EMAL	EMAL;Core Eudicots/Asterids;Ehretia acuminata	Core Eudicots/Asterids
+CSWE	CSWE;Core Eudicots/Asterids;Heliotropium texanum	Core Eudicots/Asterids
+IWJG	IWJG;Core Eudicots/Asterids;Heliotropium texanum	Core Eudicots/Asterids
+MDJK	MDJK;Core Eudicots/Asterids;Heliotropium texanum	Core Eudicots/Asterids
+SMUR	SMUR;Core Eudicots/Asterids;Lennoa madreporoides	Core Eudicots/Asterids
+DKFZ	DKFZ;Core Eudicots/Asterids;Mertensia paniculata	Core Eudicots/Asterids
+YQIJ	YQIJ;Core Eudicots/Asterids;Phacelia campanularia	Core Eudicots/Asterids
+HANM	HANM;Core Eudicots/Asterids;Pholisma arenarium	Core Eudicots/Asterids
+QZZU	QZZU;Core Eudicots/Asterids;Pyrenacantha malvifolia	Core Eudicots/Asterids
+SZUO	SZUO;Core Eudicots/Asterids;Eucommia ulmoides	Core Eudicots/Asterids
+GIPR	GIPR;Core Eudicots/Asterids;Aucuba japonica	Core Eudicots/Asterids
+PVGM	PVGM;Core Eudicots/Asterids;Oncotheca balansae	Core Eudicots/Asterids
+MGVU	MGVU;Core Eudicots/Asterids;Allamanda cathartica	Core Eudicots/Asterids
+UOYN	UOYN;Core Eudicots/Asterids;Catharanthus roseus	Core Eudicots/Asterids
+JCLQ	JCLQ;Core Eudicots/Asterids;Apocynum androsaemifolium	Core Eudicots/Asterids
+UFQC	UFQC;Core Eudicots/Asterids;Apocynum androsaemifolium	Core Eudicots/Asterids
+YFQX	YFQX;Core Eudicots/Asterids;Apocynum androsaemifolium	Core Eudicots/Asterids
+QEHE	QEHE;Core Eudicots/Asterids;Rauvolfia tetraphylla	Core Eudicots/Asterids
+DSUV	DSUV;Core Eudicots/Asterids;Asclepias curassavica	Core Eudicots/Asterids
+YADI	YADI;Core Eudicots/Asterids;Asclepias syriaca	Core Eudicots/Asterids
+JGYZ	JGYZ;Core Eudicots/Asterids;Holarrhena pubescens	Core Eudicots/Asterids
+EDEQ	EDEQ;Core Eudicots/Asterids;Wrightia natalensis	Core Eudicots/Asterids
+HGSM	HGSM;Core Eudicots/Asterids;Gelsemium sempervirens	Core Eudicots/Asterids
+KPUM	KPUM;Core Eudicots/Asterids;Exacum affine	Core Eudicots/Asterids
+ECTD	ECTD;Core Eudicots/Asterids;Gentiana acaulis	Core Eudicots/Asterids
+GGJD	GGJD;Core Eudicots/Asterids;Strychnos spinosa	Core Eudicots/Asterids
+BQEQ	BQEQ;Core Eudicots/Asterids;Psychotria ipecacuanha	Core Eudicots/Asterids
+JOPH	JOPH;Core Eudicots/Asterids;Psychotria ipecacuanha	Core Eudicots/Asterids
+ZSGF	ZSGF;Core Eudicots/Asterids;Psychotria ipecacuanha	Core Eudicots/Asterids
+WQRD	WQRD;Core Eudicots/Asterids;Galium boreale	Core Eudicots/Asterids
+ULGV	ULGV;Core Eudicots/Asterids;Morinda citrifolia	Core Eudicots/Asterids
+DNQA	DNQA;Core Eudicots/Asterids;Psychotria douarrei	Core Eudicots/Asterids
+PCNH	PCNH;Core Eudicots/Asterids;Psychotria marginata	Core Eudicots/Asterids
+PCGJ	PCGJ;Core Eudicots/Asterids;Anisacanthus quadrifidus	Core Eudicots/Asterids
+AYIY	AYIY;Core Eudicots/Asterids;Ruellia brittoniana	Core Eudicots/Asterids
+NBMW	NBMW;Core Eudicots/Asterids;Sanchezia sp.	Core Eudicots/Asterids
+WEAC	WEAC;Core Eudicots/Asterids;Strobilanthes dyeriana	Core Eudicots/Asterids
+TKEK	TKEK;Core Eudicots/Asterids;Mansoa alliacea	Core Eudicots/Asterids
+UTQR	UTQR;Core Eudicots/Asterids;Tabebuia umbellata	Core Eudicots/Asterids
+SVQC	SVQC;Core Eudicots/Asterids;Kigelia africana	Core Eudicots/Asterids
+QKEI	QKEI;Core Eudicots/Asterids;Kigelia africana	Core Eudicots/Asterids
+XAYK	XAYK;Core Eudicots/Asterids;Kigelia africana	Core Eudicots/Asterids
+GDZS	GDZS;Core Eudicots/Asterids;Byblis gigantea	Core Eudicots/Asterids
+DCCI	DCCI;Core Eudicots/Asterids;Calceolaria pinifolia	Core Eudicots/Asterids
+DTNC	DTNC;Core Eudicots/Asterids;Sinningia tuberosa	Core Eudicots/Asterids
+RWKR	RWKR;Core Eudicots/Asterids;Saintpaulia ionantha	Core Eudicots/Asterids
+FDMM	FDMM;Core Eudicots/Asterids;Rosmarinus officinalis	Core Eudicots/Asterids
+PUCW	PUCW;Core Eudicots/Asterids;Agastache rugosa	Core Eudicots/Asterids
+EQDA	EQDA;Core Eudicots/Asterids;Salvia spp.	Core Eudicots/Asterids
+ATYL	ATYL;Core Eudicots/Asterids;Scutellaria montana	Core Eudicots/Asterids
+SNNC	SNNC;Core Eudicots/Asterids;Leonurus japonicus	Core Eudicots/Asterids
+DYFF	DYFF;Core Eudicots/Asterids;Pycnanthemum tenuifolium	Core Eudicots/Asterids
+FYUH	FYUH;Core Eudicots/Asterids;Lavandula angustifolia	Core Eudicots/Asterids
+BAHE	BAHE;Core Eudicots/Asterids;Solenostemon scutellarioides	Core Eudicots/Asterids
+UCNM	UCNM;Core Eudicots/Asterids;Ajuga reptans	Core Eudicots/Asterids
+EAAA	EAAA;Core Eudicots/Asterids;Marrubium vulgare	Core Eudicots/Asterids
+TAGM	TAGM;Core Eudicots/Asterids;Melissa officinalis	Core Eudicots/Asterids
+WHNV	WHNV;Core Eudicots/Asterids;Micromeria fruticosa	Core Eudicots/Asterids
+FUMQ	FUMQ;Core Eudicots/Asterids;Nepeta cataria	Core Eudicots/Asterids
+GNPX	GNPX;Core Eudicots/Asterids;Oxera neriifolia	Core Eudicots/Asterids
+RTNA	RTNA;Core Eudicots/Asterids;Oxera pulchella	Core Eudicots/Asterids
+GETL	GETL;Core Eudicots/Asterids;Pogostemon sp.	Core Eudicots/Asterids
+XMBA	XMBA;Core Eudicots/Asterids;Poliomintha bustamanta	Core Eudicots/Asterids
+PHCE	PHCE;Core Eudicots/Asterids;Prunella vulgaris	Core Eudicots/Asterids
+LRRR	LRRR;Core Eudicots/Asterids;Teucrium chamaedrys	Core Eudicots/Asterids
+IYDF	IYDF;Core Eudicots/Asterids;Thymus vulgaris	Core Eudicots/Asterids
+HRUR	HRUR;Core Eudicots/Asterids;Utricularia sp.	Core Eudicots/Asterids
+MXFG	MXFG;Core Eudicots/Asterids;Pinguicula agnata	Core Eudicots/Asterids
+JCMU	JCMU;Core Eudicots/Asterids;Pinguicula caudata	Core Eudicots/Asterids
+TORX	TORX;Core Eudicots/Asterids;Olea europaea	Core Eudicots/Asterids
+KTAR	KTAR;Core Eudicots/Asterids;Chionanthus retusus	Core Eudicots/Asterids
+MZLD	MZLD;Core Eudicots/Asterids;Ligustrum sinense	Core Eudicots/Asterids
+UEEN	UEEN;Core Eudicots/Asterids;Forestiera segregata	Core Eudicots/Asterids
+FAMO	FAMO;Core Eudicots/Asterids;Conopholis americana	Core Eudicots/Asterids
+WUZV	WUZV;Core Eudicots/Asterids;Lindenbergia philippensis	Core Eudicots/Asterids
+ZVFS	ZVFS;Core Eudicots/Asterids;Lindenbergia philippensis	Core Eudicots/Asterids
+EJCM	EJCM;Core Eudicots/Asterids;Lindenbergia philippensis	Core Eudicots/Asterids
+VTOK	VTOK;Core Eudicots/Asterids;Orobanche fasciculata	Core Eudicots/Asterids
+PHOQ	PHOQ;Core Eudicots/Asterids;Orobanche fasciculata	Core Eudicots/Asterids
+VYDM	VYDM;Core Eudicots/Asterids;Orobanche fasciculata	Core Eudicots/Asterids
+URZI	URZI;Core Eudicots/Asterids;Epifagus virginiana	Core Eudicots/Asterids
+XMOG	XMOG;Core Eudicots/Asterids;Epifagus virginiana	Core Eudicots/Asterids
+FROP	FROP;Core Eudicots/Asterids;Epifagus virginiana	Core Eudicots/Asterids
+UMUL	UMUL;Core Eudicots/Asterids;Paulownia fargesii	Core Eudicots/Asterids
+ZRIN	ZRIN;Core Eudicots/Asterids;Uncarina grandidieri	Core Eudicots/Asterids
+OWAS	OWAS;Core Eudicots/Asterids;Rehmannia glutinosa	Core Eudicots/Asterids
+GNRI	GNRI;Core Eudicots/Asterids;Digitalis purpurea	Core Eudicots/Asterids
+DCVZ	DCVZ;Core Eudicots/Asterids;Plantago coronopus	Core Eudicots/Asterids
+YKZB	YKZB;Core Eudicots/Asterids;Plantago maritima	Core Eudicots/Asterids
+PTBJ	PTBJ;Core Eudicots/Asterids;Plantago virginica	Core Eudicots/Asterids
+TPUT	TPUT;Core Eudicots/Asterids;Antirrhinum majus	Core Eudicots/Asterids
+EBOL	EBOL;Core Eudicots/Asterids;Antirrhinum majus	Core Eudicots/Asterids
+XISJ	XISJ;Core Eudicots/Asterids;Antirrhinum majus	Core Eudicots/Asterids
+YRHD	YRHD;Core Eudicots/Asterids;Antirrhinum braun-blanquetii	Core Eudicots/Asterids
+CLRW	CLRW;Core Eudicots/Asterids;Bacopa caroliniana	Core Eudicots/Asterids
+EDXZ	EDXZ;Core Eudicots/Asterids;Schlegelia violacea	Core Eudicots/Asterids
+GAKQ	GAKQ;Core Eudicots/Asterids;Schlegelia parasitica	Core Eudicots/Asterids
+CWLL	CWLL;Core Eudicots/Asterids;Schlegelia parasitica	Core Eudicots/Asterids
+WOHL	WOHL;Core Eudicots/Asterids;Schlegelia parasitica	Core Eudicots/Asterids
+SIBR	SIBR;Core Eudicots/Asterids;Celsia arcturus	Core Eudicots/Asterids
+XXYA	XXYA;Core Eudicots/Asterids;Verbascum sp.	Core Eudicots/Asterids
+EJBY	EJBY;Core Eudicots/Asterids;Anticharis glandulosa	Core Eudicots/Asterids
+XRLM	XRLM;Core Eudicots/Asterids;Buddleja lindleyana	Core Eudicots/Asterids
+GRFT	GRFT;Core Eudicots/Asterids;Buddleja sp.	Core Eudicots/Asterids
+COBX	COBX;Core Eudicots/Asterids;Polypremum procumbens	Core Eudicots/Asterids
+PSHB	PSHB;Core Eudicots/Asterids;Lantana camara	Core Eudicots/Asterids
+GCFE	GCFE;Core Eudicots/Asterids;Verbena hastata	Core Eudicots/Asterids
+MQIV	MQIV;Core Eudicots/Asterids;Phyla dulcis	Core Eudicots/Asterids
+CPOC	CPOC;Core Eudicots/Asterids;Convolvulus arvensis	Core Eudicots/Asterids
+VXKB	VXKB;Core Eudicots/Asterids;Ipomoea purpurea	Core Eudicots/Asterids
+SDXI	SDXI;Core Eudicots/Asterids;Ipomoea purpurea	Core Eudicots/Asterids
+XQRV	XQRV;Core Eudicots/Asterids;Ipomoea purpurea	Core Eudicots/Asterids
+QSLH	QSLH;Core Eudicots/Asterids;Ipomoea hederacea	Core Eudicots/Asterids
+NHAG	NHAG;Core Eudicots/Asterids;Ipomoea nil	Core Eudicots/Asterids
+ERWT	ERWT;Core Eudicots/Asterids;Ipomoea coccinea	Core Eudicots/Asterids
+ALUC	ALUC;Core Eudicots/Asterids;Ipomoea quamoclit	Core Eudicots/Asterids
+EMBR	EMBR;Core Eudicots/Asterids;Ipomoea pubescens	Core Eudicots/Asterids
+NAUM	NAUM;Core Eudicots/Asterids;Ipomoea lindheimeri	Core Eudicots/Asterids
+OQBM	OQBM;Core Eudicots/Asterids;Ipomoea indica	Core Eudicots/Asterids
+IZNU	IZNU;Core Eudicots/Asterids;Ipomoea lobata	Core Eudicots/Asterids
+AHRN	AHRN;Core Eudicots/Asterids;Cuscuta pentagona	Core Eudicots/Asterids
+KTWL	KTWL;Core Eudicots/Asterids;Kaliphora madagascariensis	Core Eudicots/Asterids
+BOLZ	BOLZ;Core Eudicots/Asterids;Atropa belladonna	Core Eudicots/Asterids
+DLJZ	DLJZ;Core Eudicots/Asterids;Solanum ptychanthum	Core Eudicots/Asterids
+GHLP	GHLP;Core Eudicots/Asterids;Solanum dulcamara	Core Eudicots/Asterids
+JNVS	JNVS;Core Eudicots/Asterids;Datura metel	Core Eudicots/Asterids
+LWCK	LWCK;Core Eudicots/Asterids;Lycium barbarum	Core Eudicots/Asterids
+OSMU	OSMU;Core Eudicots/Asterids;Lycium sp.	Core Eudicots/Asterids
+UGJI	UGJI;Core Eudicots/Asterids;Lycopersicon cheesmanii	Core Eudicots/Asterids
+LQJY	LQJY;Core Eudicots/Asterids;Solanum xanthocarpum	Core Eudicots/Asterids
+DLAI	DLAI;Core Eudicots/Asterids;Solanum lasiophyllum	Core Eudicots/Asterids
+NMDZ	NMDZ;Core Eudicots/Asterids;Solanum sisymbriifolium	Core Eudicots/Asterids
+AIOU	AIOU;Core Eudicots/Asterids;Brugmansia sanguinea	Core Eudicots/Asterids
+MKZR	MKZR;Core Eudicots/Asterids;Nicotiana sylvestris	Core Eudicots/Asterids
+DMLT	DMLT;Core Eudicots/Asterids;Vitex agnus-castus	Core Eudicots/Asterids
+CLMX	CLMX;Core Eudicots/Asterids;Escallonia rubra	Core Eudicots/Asterids
+CLNU	CLNU;Core Eudicots/Asterids;Escallonia sp. cv. Newport	Core Eudicots/Asterids
+TPEM	TPEM;Core Eudicots/Asterids;Platyspermation crassifolium	Core Eudicots/Asterids
+TQKZ	TQKZ;Core Eudicots/Asterids;Angelica archangelica	Core Eudicots/Asterids
+CWYJ	CWYJ;Core Eudicots/Asterids;Heracleum lanatum	Core Eudicots/Asterids
+EITK	EITK;Core Eudicots/Asterids;Hedera helix	Core Eudicots/Asterids
+JBYE	JBYE;Core Eudicots/Asterids;Hedera helix	Core Eudicots/Asterids
+SUVN	SUVN;Core Eudicots/Asterids;Hedera helix	Core Eudicots/Asterids
+EDBB	EDBB;Core Eudicots/Asterids;Polyscias fruticosa	Core Eudicots/Asterids
+OINM	OINM;Core Eudicots/Asterids;Hydrocotyle umbellata	Core Eudicots/Asterids
+MVSE	MVSE;Core Eudicots/Asterids;Griselinia littoralis	Core Eudicots/Asterids
+QIKZ	QIKZ;Core Eudicots/Asterids;Griselinia racemosa	Core Eudicots/Asterids
+WEQK	WEQK;Core Eudicots/Asterids;Centella asiatica	Core Eudicots/Asterids
+AJFN	AJFN;Core Eudicots/Asterids;Myodocarpus sp.	Core Eudicots/Asterids
+SBZH	SBZH;Core Eudicots/Asterids;Pennantia corymbosa	Core Eudicots/Asterids
+SALZ	SALZ;Core Eudicots/Asterids;Pittosporum resiniferum	Core Eudicots/Asterids
+NTEO	NTEO;Core Eudicots/Asterids;Pittosporum sahnianum	Core Eudicots/Asterids
+DFYF	DFYF;Core Eudicots/Asterids;Ilex sp.	Core Eudicots/Asterids
+ASMV	ASMV;Core Eudicots/Asterids;Ilex vomitoria	Core Eudicots/Asterids
+SXML	SXML;Core Eudicots/Asterids;Ilex paraguariensis	Core Eudicots/Asterids
+QACK	QACK;Core Eudicots/Asterids;Helwingia japonica	Core Eudicots/Asterids
+GIOY	GIOY;Core Eudicots/Asterids;Corokia cotoneaster	Core Eudicots/Asterids
+WSYE	WSYE;Core Eudicots/Asterids;Conyza canadensis	Core Eudicots/Asterids
+NUSE	NUSE;Core Eudicots/Asterids;Conyza canadensis	Core Eudicots/Asterids
+MHYG	MHYG;Core Eudicots/Asterids;Conyza canadensis	Core Eudicots/Asterids
+UBLN	UBLN;Core Eudicots/Asterids;Xanthium strumarium	Core Eudicots/Asterids
+AFQQ	AFQQ;Core Eudicots/Asterids;Inula helenium	Core Eudicots/Asterids
+XRCX	XRCX;Core Eudicots/Asterids;Aster tataricus	Core Eudicots/Asterids
+DESP	DESP;Core Eudicots/Asterids;Erigeron canadensis	Core Eudicots/Asterids
+DUNJ	DUNJ;Core Eudicots/Asterids;Helenium autumnale	Core Eudicots/Asterids
+OAGK	OAGK;Core Eudicots/Asterids;Matricaria matricarioides	Core Eudicots/Asterids
+EYKJ	EYKJ;Core Eudicots/Asterids;Silybum marianum	Core Eudicots/Asterids
+TEZA	TEZA;Core Eudicots/Asterids;Solidago canadensis	Core Eudicots/Asterids
+DUQG	DUQG;Core Eudicots/Asterids;Tanacetum parthenium	Core Eudicots/Asterids
+EXHX	EXHX;Core Eudicots/Asterids;Flaveria angustifolia	Core Eudicots/Asterids
+UQAZ	UQAZ;Core Eudicots/Asterids;Flaveria angustifolia	Core Eudicots/Asterids
+YRBQ	YRBQ;Core Eudicots/Asterids;Flaveria angustifolia	Core Eudicots/Asterids
+QBGG	QBGG;Core Eudicots/Asterids;Flaveria bidentis	Core Eudicots/Asterids
+ZNZC	ZNZC;Core Eudicots/Asterids;Flaveria bidentis	Core Eudicots/Asterids
+JEPE	JEPE;Core Eudicots/Asterids;Flaveria bidentis	Core Eudicots/Asterids
+IPUI	IPUI;Core Eudicots/Asterids;Flaveria brownii	Core Eudicots/Asterids
+LMXP	LMXP;Core Eudicots/Asterids;Flaveria brownii	Core Eudicots/Asterids
+JYMN	JYMN;Core Eudicots/Asterids;Flaveria brownii	Core Eudicots/Asterids
+KJBH	KJBH;Core Eudicots/Asterids;Flaveria cronquistii	Core Eudicots/Asterids
+DSWR	DSWR;Core Eudicots/Asterids;Flaveria cronquistii	Core Eudicots/Asterids
+BIDT	BIDT;Core Eudicots/Asterids;Flaveria cronquistii	Core Eudicots/Asterids
+QXWF	QXWF;Core Eudicots/Asterids;Flaveria kochiana	Core Eudicots/Asterids
+NVSO	NVSO;Core Eudicots/Asterids;Flaveria palmeri	Core Eudicots/Asterids
+UYED	UYED;Core Eudicots/Asterids;Flaveria sonorensis	Core Eudicots/Asterids
+HXCD	HXCD;Core Eudicots/Asterids;Flaveria vaginata	Core Eudicots/Asterids
+GFVW	GFVW;Core Eudicots/Asterids;Flaveria pringlei	Core Eudicots/Asterids
+RZSW	RZSW;Core Eudicots/Asterids;Flaveria pringlei	Core Eudicots/Asterids
+AQZD	AQZD;Core Eudicots/Asterids;Flaveria pringlei	Core Eudicots/Asterids
+JZHZ	JZHZ;Core Eudicots/Asterids;Flaveria pubescens	Core Eudicots/Asterids
+HXDV	HXDV;Core Eudicots/Asterids;Flaveria pubescens	Core Eudicots/Asterids
+LYPZ	LYPZ;Core Eudicots/Asterids;Flaveria pubescens	Core Eudicots/Asterids
+HRVY	HRVY;Core Eudicots/Asterids;Flaveria trinervia	Core Eudicots/Asterids
+RLCS	RLCS;Core Eudicots/Asterids;Flaveria trinervia	Core Eudicots/Asterids
+ZCUA	ZCUA;Core Eudicots/Asterids;Flaveria trinervia	Core Eudicots/Asterids
+BMSE	BMSE;Core Eudicots/Asterids;Senecio rowleyanus	Core Eudicots/Asterids
+KFZY	KFZY;Core Eudicots/Asterids;Tragopogon castellanus	Core Eudicots/Asterids
+DDRL	DDRL;Core Eudicots/Asterids;Tragopogon dubius	Core Eudicots/Asterids
+KGJF	KGJF;Core Eudicots/Asterids;Tragopogon porrifolius	Core Eudicots/Asterids
+FUPX	FUPX;Core Eudicots/Asterids;Tragopogon pratensis	Core Eudicots/Asterids
+ZGDS	ZGDS;Core Eudicots/Asterids;Lactuca graminifolia	Core Eudicots/Asterids
+MMJI	MMJI;Core Eudicots/Asterids;Lactuca graminifolia	Core Eudicots/Asterids
+RFSD	RFSD;Core Eudicots/Asterids;Lactuca graminifolia	Core Eudicots/Asterids
+GUMF	GUMF;Core Eudicots/Asterids;Anthemis tinctoria	Core Eudicots/Asterids
+CFRN	CFRN;Core Eudicots/Asterids;Carthamus lanatus	Core Eudicots/Asterids
+JNKW	JNKW;Core Eudicots/Asterids;Cicerbita plumieri	Core Eudicots/Asterids
+DOVJ	DOVJ;Core Eudicots/Asterids;Leontopodium alpinum	Core Eudicots/Asterids
+IZLO	IZLO;Core Eudicots/Asterids;Lobelia siphilitica	Core Eudicots/Asterids
+IHPC	IHPC;Core Eudicots/Asterids;Platycodon grandiflorus	Core Eudicots/Asterids
+HUQC	HUQC;Core Eudicots/Asterids;Scaevola mossambicensis	Core Eudicots/Asterids
+IXVJ	IXVJ;Core Eudicots/Asterids;Menyanthes trifoliata	Core Eudicots/Asterids
+AUIP	AUIP;Core Eudicots/Asterids;Phelline lucida	Core Eudicots/Asterids
+FXGI	FXGI;Core Eudicots/Asterids;Stylidium adnatum	Core Eudicots/Asterids
+HLJG	HLJG;Core Eudicots/Asterids;Viburnum odoratissimum	Core Eudicots/Asterids
+SNBI	SNBI;Core Eudicots/Asterids;Sambucus canadensis	Core Eudicots/Asterids
+QRNU	QRNU;Core Eudicots/Asterids;Sambucus canadensis	Core Eudicots/Asterids
+ZJRC	ZJRC;Core Eudicots/Asterids;Sambucus canadensis	Core Eudicots/Asterids
+GSZA	GSZA;Core Eudicots/Asterids;Lonicera japonica	Core Eudicots/Asterids
+CAQZ	CAQZ;Core Eudicots/Asterids;Symphoricarpos sp.	Core Eudicots/Asterids
+JTRM	JTRM;Core Eudicots/Asterids;Dipsacus asper	Core Eudicots/Asterids
+FFFY	FFFY;Core Eudicots/Asterids;Valeriana officinalis	Core Eudicots/Asterids
+MTII	MTII;Monocots;Acorus americanus	Monocots
+DWZT	DWZT;Monocots;Sagittaria latifolia	Monocots
+MFIN	MFIN;Monocots;Pistia stratiotes	Monocots
+COCP	COCP;Monocots;Triglochin maritima	Monocots
+BYQM	BYQM;Monocots;Posidonia australis	Monocots
+OCWZ	OCWZ;Monocots;Dioscorea villosa	Monocots
+VVVV	VVVV;Monocots;Ludovia sp.	Monocots
+DGXS	DGXS;Monocots;Freycinetia multiflora	Monocots
+VBHQ	VBHQ;Monocots;Stemona tuberosa	Monocots
+SILJ	SILJ;Monocots;Talbotia elegans	Monocots
+QOXT	QOXT;Monocots;Xerophyta villosa	Monocots
+NHIX	NHIX;Monocots;Colchicum autumnale	Monocots
+OVRB	OVRB;Monocots;Colchicum autumnale	Monocots
+SFCT	SFCT;Monocots;Colchicum autumnale	Monocots
+QNPH	QNPH;Monocots;Colchicum autumnale	Monocots
+GDKK	GDKK;Monocots;Gloriosa superba	Monocots
+THEW	THEW;Monocots;Lilium sargentiae	Monocots
+AFLV	AFLV;Monocots;Xerophyllum asphodeloides	Monocots
+OOSO	OOSO;Monocots;Helonias bullata	Monocots
+MWYQ	MWYQ;Monocots;Smilax bona-nox	Monocots
+PRFO	PRFO;Monocots;Agapanthus africanus	Monocots
+KXSK	KXSK;Monocots;Agave tequilana	Monocots
+YBML	YBML;Monocots;Yucca brevifolia	Monocots
+ICNN	ICNN;Monocots;Yucca filamentosa	Monocots
+PLBZ	PLBZ;Monocots;Chlorogalum pomeridianum	Monocots
+CMCY	CMCY;Monocots;Hesperaloe parviflora	Monocots
+GJPF	GJPF;Monocots;Allium sativum	Monocots
+KBXS	KBXS;Monocots;Allium commutatum	Monocots
+LDME	LDME;Monocots;Amaryllis belladonna	Monocots
+IQYY	IQYY;Monocots;Narcissus viridiflorus	Monocots
+XEUV	XEUV;Monocots;Narcissus viridiflorus	Monocots
+TRRQ	TRRQ;Monocots;Narcissus viridiflorus	Monocots
+DMIN	DMIN;Monocots;Phycella aff. cyrtanthoides	Monocots
+JDTY	JDTY;Monocots;Rhodophiala pratensis	Monocots
+ZKPF	ZKPF;Monocots;Traubia modesta	Monocots
+DPFW	DPFW;Monocots;Zephyranthes treatiae	Monocots
+FGRF	FGRF;Monocots;Asparagus densiflorus	Monocots
+XFJG	XFJG;Monocots;Maianthemum canadense	Monocots
+RCUX	RCUX;Monocots;Maianthemum sp.	Monocots
+UZXL	UZXL;Monocots;Disporopsis pernyi	Monocots
+JVBR	JVBR;Monocots;Aloe vera	Monocots
+EMJJ	EMJJ;Monocots;Borya sphaerocephala	Monocots
+FCEL	FCEL;Monocots;Phormium tenax	Monocots
+JHUL	JHUL;Monocots;Hemerocallis sp.	Monocots
+BLAJ	BLAJ;Monocots;Hemerocallis spp.	Monocots
+KOFB	KOFB;Monocots;Urginea maritima	Monocots
+SVTS	SVTS;Monocots;Drimia altissima	Monocots
+YJUG	YJUG;Monocots;Curculigo sp.	Monocots
+LTZF	LTZF;Monocots;Sisyrinchium angustifolium	Monocots
+MUMD	MUMD;Monocots;Lomandra longifolia	Monocots
+VTUS	VTUS;Monocots;Goodyera pubescens	Monocots
+MTHW	MTHW;Monocots;Platanthera clavellata	Monocots
+THDM	THDM;Monocots;Vanilla planifolia	Monocots
+XZME	XZME;Monocots;Drakaea elastica	Monocots
+CNTZ	CNTZ;Monocots;Oncidium sphacelatum	Monocots
+LELS	LELS;Monocots;Haemaria discolor	Monocots
+JSAG	JSAG;Monocots;Masdevallia yuangensis	Monocots
+MVRF	MVRF;Monocots;Sansevieria trifasciata	Monocots
+HOKG	HOKG;Monocots;Nolina atopocarpa	Monocots
+LSJW	LSJW;Monocots;Ruscus sp.	Monocots
+ONBE	ONBE;Monocots;Eriospermum lancifolia	Monocots
+RQZP	RQZP;Monocots;Nolina bigelovii	Monocots
+TCYS	TCYS;Monocots;Peliosanthes minor	Monocots
+RDYY	RDYY;Monocots;Cyanastrum cordifolium	Monocots
+KYNE	KYNE;Monocots;Cyanella orchidiformis	Monocots
+IXEM	IXEM;Monocots;Brodiaea sierrae	Monocots
+WTDE	WTDE;Monocots;Johnsonia pubescens	Monocots
+SART	SART;Monocots;Xeronema callistemon	Monocots
+QGLJ	QGLJ;Monocots/Commelinids;Cocos nucifera	Monocots/Commelinids
+NSPR	NSPR;Monocots/Commelinids;Nypa fruticans	Monocots/Commelinids
+HWUP	HWUP;Monocots/Commelinids;Sabal bermudana	Monocots/Commelinids
+HXJE	HXJE;Monocots/Commelinids;Serenoa repens	Monocots/Commelinids
+YMES	YMES;Monocots;Typhonium blumei	Monocots
+TZNS	TZNS;Monocots/Commelinids;Canna sp.	Monocots/Commelinids
+KNKV	KNKV;Monocots/Commelinids;Heliconia sp.	Monocots/Commelinids
+TNWF	TNWF;Monocots/Commelinids;Heliconia sp.	Monocots/Commelinids
+XHHU	XHHU;Monocots/Commelinids;Heliconia sp.	Monocots/Commelinids
+LSKK	LSKK;Monocots/Commelinids;Orchidantha maxillarioides	Monocots/Commelinids
+JNUB	JNUB;Monocots/Commelinids;Maranta leuconeura	Monocots/Commelinids
+UOEL	UOEL;Monocots/Commelinids;Strelitzia reginae	Monocots/Commelinids
+JQCX	JQCX;Monocots/Commelinids;Curcuma longa	Monocots/Commelinids
+OYLU	OYLU;Monocots/Commelinids;Curcuma longa	Monocots/Commelinids
+LEMW	LEMW;Monocots/Commelinids;Curcuma longa	Monocots/Commelinids
+BDJQ	BDJQ;Monocots/Commelinids;Zingiber officinale	Monocots/Commelinids
+BYPY	BYPY;Monocots/Commelinids;Brocchinia reducta	Monocots/Commelinids
+PWSG	PWSG;Monocots/Commelinids;Cyperus papyrus	Monocots/Commelinids
+WBIB	WBIB;Monocots/Commelinids;Lepidosperma gibsonii	Monocots/Commelinids
+XPAF	XPAF;Monocots/Commelinids;Mapania palustris	Monocots/Commelinids
+WXNT	WXNT;Monocots/Commelinids;Joinvillea ascendens	Monocots/Commelinids
+CIEA	CIEA;Monocots/Commelinids;Juncus inflexus	Monocots/Commelinids
+RMVB	RMVB;Monocots/Commelinids;Avena fatua	Monocots/Commelinids
+IADP	IADP;Monocots/Commelinids;Deschampsia cespitosa	Monocots/Commelinids
+YPIC	YPIC;Monocots/Commelinids;Microstegium vimineum	Monocots/Commelinids
+YXNR	YXNR;Monocots/Commelinids;Triodia aff. bynoei	Monocots/Commelinids
+SOHV	SOHV;Monocots/Commelinids;Panicum miliaceum	Monocots/Commelinids
+ROEI	ROEI;Monocots/Commelinids;Cymbopogon nardus	Monocots/Commelinids
+ZENX	ZENX;Monocots/Commelinids;Neurachne alopecuroidea	Monocots/Commelinids
+BPKH	BPKH;Monocots/Commelinids;Neurachne annularis	Monocots/Commelinids
+VQYB	VQYB;Monocots/Commelinids;Neurachne lanigera	Monocots/Commelinids
+BXAY	BXAY;Monocots/Commelinids;Neurachne minor	Monocots/Commelinids
+ZMGN	ZMGN;Monocots/Commelinids;Neurachne munroi	Monocots/Commelinids
+NNOK	NNOK;Monocots/Commelinids;Neurachne tenuifolia	Monocots/Commelinids
+XUAB	XUAB;Monocots/Commelinids;Paraneurachne muelleri	Monocots/Commelinids
+XBKS	XBKS;Monocots/Commelinids;Thyridolepis mitchelliana	Monocots/Commelinids
+WCOR	WCOR;Monocots/Commelinids;Thyridolepis multiculmis	Monocots/Commelinids
+HATH	HATH;Monocots/Commelinids;Aristida stricta	Monocots/Commelinids
+TIJL	TIJL;Monocots/Commelinids;Eleusine coracana	Monocots/Commelinids
+CXSJ	CXSJ;Monocots/Commelinids;Eleusine coracana	Monocots/Commelinids
+OMXG	OMXG;Monocots/Commelinids;Eleusine coracana	Monocots/Commelinids
+PZAP	PZAP;Monocots/Commelinids;Eleusine coracana	Monocots/Commelinids
+EFCZ	EFCZ;Monocots/Commelinids;Eleusine coracana	Monocots/Commelinids
+ICOX	ICOX;Monocots/Commelinids;Eleusine coracana	Monocots/Commelinids
+YLWW	YLWW;Monocots/Commelinids;Uniola paniculata	Monocots/Commelinids
+RCAH	RCAH;Monocots/Commelinids;Uniola paniculata	Monocots/Commelinids
+GZSF	GZSF;Monocots/Commelinids;Uniola paniculata	Monocots/Commelinids
+BSTR	BSTR;Monocots/Commelinids;Chondropetalum tectorum	Monocots/Commelinids
+PPQR	PPQR;Monocots/Commelinids;Typha angustifolia	Monocots/Commelinids
+BRUD	BRUD;Monocots/Commelinids;Typha latifolia	Monocots/Commelinids
+SGTW	SGTW;Ginkgoales;Ginkgo biloba	Ginkgoales
+VDAO	VDAO;Gnetales;Ephedra sinica	Gnetales
+GTHK	GTHK;Gnetales;Gnetum montanum	Gnetales
+TOXE	TOXE;Gnetales;Welwitschia mirabilis	Gnetales
+XZUY	XZUY;Cycadales;Cycas micholitzii	Cycadales
+KAWQ	KAWQ;Cycadales;Stangeria eriopus	Cycadales
+WLIC	WLIC;Cycadales;Dioon edule	Cycadales
+GNQG	GNQG;Cycadales;Encephalartos barteri	Cycadales
+MIXZ	MIXZ;Conifers;Agathis robusta	Conifers
+XTZO	XTZO;Conifers;Araucaria rulei	Conifers
+ACWS	ACWS;Conifers;Araucaria sp.	Conifers
+RSCE	RSCE;Conifers;Wollemia nobilis	Conifers
+GJTI	GJTI;Conifers;Cephalotaxus harringtonia	Conifers
+WYAJ	WYAJ;Conifers;Cephalotaxus harringtonia	Conifers
+NVGZ	NVGZ;Conifers;Cephalotaxus harringtonia	Conifers
+IAJW	IAJW;Conifers;Amentotaxus argotaenia	Conifers
+XIRK	XIRK;Conifers;Athrotaxis cupressoides	Conifers
+YYPE	YYPE;Conifers;Austrocedrus chilensis	Conifers
+IFLI	IFLI;Conifers;Callitris gracilis	Conifers
+RMMV	RMMV;Conifers;Callitris macleayana	Conifers
+FRPM	FRPM;Conifers;Calocedrus decurrens	Conifers
+AIGO	AIGO;Conifers;Chamaecyparis lawsoniana	Conifers
+DSXO	DSXO;Conifers;Cryptomeria japonica	Conifers
+HOUF	HOUF;Conifers;Cryptomeria japonica	Conifers
+GMHZ	GMHZ;Conifers;Cryptomeria japonica	Conifers
+OUOI	OUOI;Conifers;Cunninghamia lanceolata	Conifers
+ESYX	ESYX;Conifers;Cunninghamia lanceolata	Conifers
+ZQVF	ZQVF;Conifers;Cunninghamia lanceolata	Conifers
+QNGJ	QNGJ;Conifers;Cupressus dupreziana	Conifers
+GKCZ	GKCZ;Conifers;Diselma archeri	Conifers
+UEVI	UEVI;Conifers;Fokienia hodginsii	Conifers
+OXGJ	OXGJ;Conifers;Glyptostrobus pensilis	Conifers
+XMGP	XMGP;Conifers;Juniperus scopulorum	Conifers
+NRXL	NRXL;Conifers;Metasequoia glyptostroboides	Conifers
+XQSG	XQSG;Conifers;Microbiota decussata	Conifers
+JDQB	JDQB;Conifers;Neocallitropsis pancheri	Conifers
+OVIJ	OVIJ;Conifers;Papuacedrus papuana	Conifers
+ETCJ	ETCJ;Conifers;Pilgerodendron uviferum	Conifers
+BUWV	BUWV;Conifers;Platycladus orientalis	Conifers
+HBGV	HBGV;Conifers;Sequoia sempervirens	Conifers
+QFAE	QFAE;Conifers;Sequoiadendron giganteum	Conifers
+QSNJ	QSNJ;Conifers;Taiwania cryptomerioides	Conifers
+FHST	FHST;Conifers;Taxodium distichum	Conifers
+CGDN	CGDN;Conifers;Tetraclinis sp.	Conifers
+VFYZ	VFYZ;Conifers;Thuja plicata	Conifers
+NKIN	NKIN;Conifers;Thujopsis dolabrata	Conifers
+AUDE	AUDE;Conifers;Widdringtonia cedarbergensis	Conifers
+VSRH	VSRH;Conifers;Abies lasiocarpa	Conifers
+NPRL	NPRL;Conifers;Cathaya argyrophylla	Conifers
+GGEA	GGEA;Conifers;Cedrus libani	Conifers
+JUWL	JUWL;Conifers;Keteleeria evelyniana	Conifers
+WVWN	WVWN;Conifers;Larix speciosa	Conifers
+AREG	AREG;Conifers;Nothotsuga longibracteata	Conifers
+AWQB	AWQB;Conifers;Picea engelmannii	Conifers
+IIOL	IIOL;Conifers;Pinus parviflora	Conifers
+DZQM	DZQM;Conifers;Pinus radiata	Conifers
+MFTM	MFTM;Conifers;Pinus jeffreyi	Conifers
+JBND	JBND;Conifers;Pinus ponderosa	Conifers
+AQFM	AQFM;Conifers;Pseudolarix amabilis	Conifers
+IOVS	IOVS;Conifers;Pseudotsuga wilsoniana	Conifers
+GAMH	GAMH;Conifers;Tsuga heterophylla	Conifers
+HILW	HILW;Conifers;Acmopyle pancheri	Conifers
+FMWZ	FMWZ;Conifers;Dacrycarpus compactus	Conifers
+IZGN	IZGN;Conifers;Dacrydium balansae	Conifers
+QHBI	QHBI;Conifers;Falcatifolium taxoides	Conifers
+ROWR	ROWR;Conifers;Falcatifolium taxoides	Conifers
+PLYX	PLYX;Conifers;Falcatifolium taxoides	Conifers
+OWFC	OWFC;Conifers;Halocarpus bidwillii	Conifers
+ZQWM	ZQWM;Conifers;Lagarostrobos franklinii	Conifers
+CDFR	CDFR;Conifers;Manoao colensoi	Conifers
+MHGD	MHGD;Conifers;Microcachrys tetragona	Conifers
+BBDD	BBDD;Conifers;Microstrobos fitzgeraldii	Conifers
+UUJS	UUJS;Conifers;Nageia nagi	Conifers
+JZVE	JZVE;Conifers;Parasitaxus usta	Conifers
+JRNA	JRNA;Conifers;Phyllocladus hypophyllus	Conifers
+SCEB	SCEB;Conifers;Podocarpus coriaceus	Conifers
+XLGK	XLGK;Conifers;Podocarpus rubens	Conifers
+EGLZ	EGLZ;Conifers;Prumnopitys andina	Conifers
+VGSX	VGSX;Conifers;Retrophyllum minus	Conifers
+QCGM	QCGM;Conifers;Saxegothaea conspicua	Conifers
+KLGF	KLGF;Conifers;Sundacarpus amarus	Conifers
+YFZK	YFZK;Conifers;Sciadopitys verticillata	Conifers
+BTTS	BTTS;Conifers;Austrotaxus spicata	Conifers
+YLPM	YLPM;Conifers;Pseudotaxus chienii	Conifers
+WWSS	WWSS;Conifers;Taxus baccata	Conifers
+ZYAX	ZYAX;Conifers;Taxus cuspidata	Conifers
+HQOM	HQOM;Conifers;Torreya nucifera	Conifers
+EFMS	EFMS;Conifers;Torreya taxifolia	Conifers
+GAON	GAON;Lycophytes;Huperzia squarrosa	Lycophytes
+GKAG	GKAG;Lycophytes;Huperzia lucidula	Lycophytes
+CBAE	CBAE;Lycophytes;Huperzia myrsinites	Lycophytes
+NYBX	NYBX;Lycophytes;Huperzia selago	Lycophytes
+GTUO	GTUO;Lycophytes;Huperzia selago	Lycophytes
+YHZW	YHZW;Lycophytes;Huperzia selago	Lycophytes
+ZZEI	ZZEI;Lycophytes;Phylloglossum drummondii	Lycophytes
+ULKT	ULKT;Lycophytes;Lycopodiella appressa	Lycophytes
+ENQF	ENQF;Lycophytes;Lycopodium annotinum	Lycophytes
+PQTO	PQTO;Lycophytes;Lycopodium deuterodensum	Lycophytes
+UPMJ	UPMJ;Lycophytes;Pseudolycopodiella caroliniana	Lycophytes
+XNXF	XNXF;Lycophytes;Dendrolycopodium obscurum	Lycophytes
+WAFT	WAFT;Lycophytes;Diphasiastrum digitatum	Lycophytes
+PYHZ	PYHZ;Lycophytes;Isoetes sp.	Lycophytes
+PKOX	PKOX;Lycophytes;Isoetes tegetiformans	Lycophytes
+LGDQ	LGDQ;Lycophytes;Selaginella apoda	Lycophytes
+JKAA	JKAA;Lycophytes;Selaginella wallacei	Lycophytes
+ABIJ	ABIJ;Lycophytes;Selaginella cf pallescens	Lycophytes
+ZYCD	ZYCD;Lycophytes;Selaginella acanthonota	Lycophytes
+ZZOL	ZZOL;Lycophytes;Selaginella moellendorffii	Lycophytes
+KUXM	KUXM;Lycophytes;Selaginella selaginoides	Lycophytes
+ZFGK	ZFGK;Lycophytes;Selaginella kraussiana	Lycophytes
+KJYC	KJYC;Lycophytes;Selaginella willdenowii	Lycophytes
+CAPN	CAPN;Eusporangiate Monilophytes;Equisetum diffusum	Eusporangiate Monilophytes
+JVSZ	JVSZ;Eusporangiate Monilophytes;Equisetum hyemale	Eusporangiate Monilophytes
+NHCM	NHCM;Eusporangiate Monilophytes;Angiopteris evecta	Eusporangiate Monilophytes
+JBLI	JBLI;Leptosporangiate Monilophytes;Bolbitis repanda	Leptosporangiate Monilophytes
+DFHO	DFHO;Eusporangiate Monilophytes;Danaea nodosa	Eusporangiate Monilophytes
+UXCS	UXCS;Eusporangiate Monilophytes;Marattia sp.	Eusporangiate Monilophytes
+UGNK	UGNK;Eusporangiate Monilophytes;Marattia attenuata	Eusporangiate Monilophytes
+BEGM	BEGM;Eusporangiate Monilophytes;Botrypus virginianus	Eusporangiate Monilophytes
+WTJG	WTJG;Eusporangiate Monilophytes;Ophioglossum petiolatum	Eusporangiate Monilophytes
+QHVS	QHVS;Eusporangiate Monilophytes;Ophioglossum vulgatum	Eusporangiate Monilophytes
+DJSE	DJSE;Eusporangiate Monilophytes;Ophioglossum vulgatum	Eusporangiate Monilophytes
+EEAQ	EEAQ;Eusporangiate Monilophytes;Sceptridium dissectum	Eusporangiate Monilophytes
+QVMR	QVMR;Eusporangiate Monilophytes;Psilotum nudum	Eusporangiate Monilophytes
+ALVQ	ALVQ;Eusporangiate Monilophytes;Tmesipteris parva	Eusporangiate Monilophytes
+ORJE	ORJE;Leptosporangiate Monilophytes;Phymatosorus grossus	Leptosporangiate Monilophytes
+PNZO	PNZO;Leptosporangiate Monilophytes;Culcita macrocarpa	Leptosporangiate Monilophytes
+GANB	GANB;Leptosporangiate Monilophytes;Alsophila spinulosa	Leptosporangiate Monilophytes
+EWXK	EWXK;Leptosporangiate Monilophytes;Thyrsopteris elegans	Leptosporangiate Monilophytes
+ZHEE	ZHEE;Core Eudicots/Rosids;Ziziphus jujuba	Core Eudicots/Rosids
+XDVM	XDVM;Leptosporangiate Monilophytes;Sticherus lobatus	Leptosporangiate Monilophytes
+MEKP	MEKP;Leptosporangiate Monilophytes;Dipteris conjugata	Leptosporangiate Monilophytes
+TWFZ	TWFZ;Leptosporangiate Monilophytes;Crepidomanes venosum	Leptosporangiate Monilophytes
+QIAD	QIAD;Leptosporangiate Monilophytes;Hymenophyllum bivalve	Leptosporangiate Monilophytes
+TRPJ	TRPJ;Leptosporangiate Monilophytes;Hymenophyllum cupressiforme	Leptosporangiate Monilophytes
+BIVQ	BIVQ;Leptosporangiate Monilophytes;Osmundastrum cinnamomeum	Leptosporangiate Monilophytes
+RFMZ	RFMZ;Leptosporangiate Monilophytes;Osmundastrum cinnamomeum	Leptosporangiate Monilophytes
+YKSS	YKSS;Leptosporangiate Monilophytes;Osmunda regalis	Leptosporangiate Monilophytes
+UOMY	UOMY;Leptosporangiate Monilophytes;Osmunda sp.	Leptosporangiate Monilophytes
+VIBO	VIBO;Leptosporangiate Monilophytes;Osmunda javanica	Leptosporangiate Monilophytes
+UWOD	UWOD;Leptosporangiate Monilophytes;Plagiogyria japonica	Leptosporangiate Monilophytes
+IXLH	IXLH;Leptosporangiate Monilophytes;Polypodium hesperium	Leptosporangiate Monilophytes
+GYFU	GYFU;Leptosporangiate Monilophytes;Polypodium hesperium	Leptosporangiate Monilophytes
+ZRAV	ZRAV;Leptosporangiate Monilophytes;Polypodium hesperium	Leptosporangiate Monilophytes
+YLJA	YLJA;Leptosporangiate Monilophytes;Polypodium amorphum	Leptosporangiate Monilophytes
+CJNT	CJNT;Leptosporangiate Monilophytes;Polypodium glycyrrhiza	Leptosporangiate Monilophytes
+ZQYU	ZQYU;Leptosporangiate Monilophytes;Phlebodium pseudoaureum	Leptosporangiate Monilophytes
+UJWU	UJWU;Leptosporangiate Monilophytes;Pleopeltis polypodioides	Leptosporangiate Monilophytes
+OQWW	OQWW;Leptosporangiate Monilophytes;Davallia fejeensis	Leptosporangiate Monilophytes
+NWWI	NWWI;Leptosporangiate Monilophytes;Nephrolepis exaltata	Leptosporangiate Monilophytes
+FQGQ	FQGQ;Leptosporangiate Monilophytes;Polystichum acrostichoides	Leptosporangiate Monilophytes
+RFRB	RFRB;Leptosporangiate Monilophytes;Didymochlaena truncatula	Leptosporangiate Monilophytes
+WGTU	WGTU;Leptosporangiate Monilophytes;Leucostegia immersa	Leptosporangiate Monilophytes
+PSKY	PSKY;Leptosporangiate Monilophytes;Asplenium nidus	Leptosporangiate Monilophytes
+KJZG	KJZG;Leptosporangiate Monilophytes;Asplenium platyneuron	Leptosporangiate Monilophytes
+OCZL	OCZL;Leptosporangiate Monilophytes;Homalosorus pycnocarpos	Leptosporangiate Monilophytes
+MROH	MROH;Leptosporangiate Monilophytes;Thelypteris acuminata	Leptosporangiate Monilophytes
+YJJY	YJJY;Leptosporangiate Monilophytes;Woodsia scopulina	Leptosporangiate Monilophytes
+YQEC	YQEC;Leptosporangiate Monilophytes;Woodsia ilvensis	Leptosporangiate Monilophytes
+HTFH	HTFH;Leptosporangiate Monilophytes;Onoclea sensibilis	Leptosporangiate Monilophytes
+VITX	VITX;Leptosporangiate Monilophytes;Blechnum spicant	Leptosporangiate Monilophytes
+AFPO	AFPO;Leptosporangiate Monilophytes;Athyrium sp.	Leptosporangiate Monilophytes
+URCP	URCP;Leptosporangiate Monilophytes;Athyrium filix-femina	Leptosporangiate Monilophytes
+FCHS	FCHS;Leptosporangiate Monilophytes;Deparia lobato-crenata	Leptosporangiate Monilophytes
+UFJN	UFJN;Leptosporangiate Monilophytes;Diplazium wichurae	Leptosporangiate Monilophytes
+HNDZ	HNDZ;Leptosporangiate Monilophytes;Cystopteris utahensis	Leptosporangiate Monilophytes
+LHLE	LHLE;Leptosporangiate Monilophytes;Cystopteris fragilis	Leptosporangiate Monilophytes
+XXHP	XXHP;Leptosporangiate Monilophytes;Cystopteris sp.	Leptosporangiate Monilophytes
+XWDM	XWDM;Leptosporangiate Monilophytes;Cystopteris fragilis	Leptosporangiate Monilophytes
+RICC	RICC;Leptosporangiate Monilophytes;Cystopteris reevesiana	Leptosporangiate Monilophytes
+YOWV	YOWV;Leptosporangiate Monilophytes;Cystopteris protrusa	Leptosporangiate Monilophytes
+HEGQ	HEGQ;Leptosporangiate Monilophytes;Gymnocarpium dryopteris	Leptosporangiate Monilophytes
+MTGC	MTGC;Leptosporangiate Monilophytes;Dennstaedtia davallioides	Leptosporangiate Monilophytes
+BMIF	BMIF;Leptosporangiate Monilophytes;Asplenium sp.	Leptosporangiate Monilophytes
+VVRN	VVRN;Leptosporangiate Monilophytes;Lonchitis hirsuta	Leptosporangiate Monilophytes
+WCLG	WCLG;Leptosporangiate Monilophytes;Adiantum aleuticum	Leptosporangiate Monilophytes
+BMJR	BMJR;Leptosporangiate Monilophytes;Adiantum raddianum	Leptosporangiate Monilophytes
+DCDT	DCDT;Leptosporangiate Monilophytes;Gaga arizonica	Leptosporangiate Monilophytes
+WQML	WQML;Leptosporangiate Monilophytes;Cryptogramma acrostichoides	Leptosporangiate Monilophytes
+ZXJO	ZXJO;Leptosporangiate Monilophytes;Parahemionitis cordata	Leptosporangiate Monilophytes
+POPJ	POPJ;Leptosporangiate Monilophytes;Pteris vittata	Leptosporangiate Monilophytes
+FLTD	FLTD;Leptosporangiate Monilophytes;Pteris ensiformis	Leptosporangiate Monilophytes
+UJTT	UJTT;Leptosporangiate Monilophytes;Pityrogramma trifoliata	Leptosporangiate Monilophytes
+YCKE	YCKE;Leptosporangiate Monilophytes;Notholaena montieliae	Leptosporangiate Monilophytes
+XDDT	XDDT;Leptosporangiate Monilophytes;Argyrochosma nivea	Leptosporangiate Monilophytes
+GSXD	GSXD;Leptosporangiate Monilophytes;Myriopteris rufa	Leptosporangiate Monilophytes
+SKYV	SKYV;Leptosporangiate Monilophytes;Vittaria lineata	Leptosporangiate Monilophytes
+NDUV	NDUV;Leptosporangiate Monilophytes;Vittaria appalachiana	Leptosporangiate Monilophytes
+PIVW	PIVW;Leptosporangiate Monilophytes;Ceratopteris thalictroides	Leptosporangiate Monilophytes
+NOKI	NOKI;Leptosporangiate Monilophytes;Lindsaea linearis	Leptosporangiate Monilophytes
+YIXP	YIXP;Leptosporangiate Monilophytes;Lindsaea microphylla	Leptosporangiate Monilophytes
+CVEG	CVEG;Leptosporangiate Monilophytes;Azolla cf. caroliniana	Leptosporangiate Monilophytes
+KIIX	KIIX;Leptosporangiate Monilophytes;Pilularia globulifera	Leptosporangiate Monilophytes
+CQPW	CQPW;Leptosporangiate Monilophytes;Anemia tomentosa	Leptosporangiate Monilophytes
+PBUU	PBUU;Leptosporangiate Monilophytes;Lygodium japonicum	Leptosporangiate Monilophytes
+WOGB	WOGB;Mosses;Andreaea rupestris	Mosses
+ORKS	ORKS;Mosses;Philonotis fontana	Mosses
+BGXB	BGXB;Mosses;Plagiomnium insigne	Mosses
+JMXW	JMXW;Mosses;Bryum argenteum	Mosses
+WNGH	WNGH;Mosses;Aulacomnium heterostichum	Mosses
+QMWB	QMWB;Mosses;Anomodon attenuatus	Mosses
+VBMM	VBMM;Mosses;Claopodium rostratum	Mosses
+RDOO	RDOO;Mosses;Racomitrium varium	Mosses
+ABCD	ABCD;Mosses;Racomitrium elongatum	Mosses
+BPSG	BPSG;Mosses;Scouleria aquatica	Mosses
+HRWG	HRWG;Mosses;Buxbaumia aphylla	Mosses
+NGTD	NGTD;Mosses;Dicranum scoparium	Mosses
+VMXJ	VMXJ;Mosses;Leucobryum albidum	Mosses
+RGKI	RGKI;Mosses;Leucobryum glaucum	Mosses
+FFPD	FFPD;Mosses;Ceratodon purpureus	Mosses
+AWOI	AWOI;Mosses;Diphyscium foliosum	Mosses
+KEFD	KEFD;Mosses;Encalypta streptocarpa	Mosses
+XWHK	XWHK;Mosses;Rosulabryum cf. capillare	Mosses
+YEPO	YEPO;Mosses;Physcomitrium sp.	Mosses
+YWNF	YWNF;Mosses;Hedwigia ciliata	Mosses
+WSPM	WSPM;Mosses;Loeskeobryum brevirostre	Mosses
+ZACW	ZACW;Mosses;Leucodon brachypus	Mosses
+LNSF	LNSF;Mosses;Stereodon subimponens	Mosses
+QKQO	QKQO;Mosses;Pseudotaxiphyllum elegans	Mosses
+EEMJ	EEMJ;Mosses;Thuidium delicatulum	Mosses
+JADL	JADL;Mosses;Rhynchostegium serrulatum	Mosses
+TAVP	TAVP;Mosses;Calliergon cordifolium	Mosses
+MIRS	MIRS;Mosses;Climacium dendroides	Mosses
+DHWX	DHWX;Mosses;Fontinalis antipyretica	Mosses
+IGUH	IGUH;Mosses;Leucodon julaceus	Mosses
+TMAJ	TMAJ;Mosses;Neckera douglasii	Mosses
+CMEQ	CMEQ;Mosses;Orthotrichum lyellii	Mosses
+SZYG	SZYG;Mosses;Polytrichum commune	Mosses
+ZTHV	ZTHV;Mosses;Atrichum angustatum	Mosses
+GRKU	GRKU;Mosses;Syntrichia princeps	Mosses
+GOWD	GOWD;Mosses;Sphagnum lescurii	Mosses
+RCBT	RCBT;Mosses;Sphagnum palustre	Mosses
+UHLI	UHLI;Mosses;Sphagnum recurvum	Mosses
+SKQD	SKQD;Mosses;Takakia lepidozioides	Mosses
+HVBQ	HVBQ;Mosses;Tetraphis pellucida	Mosses
+ZQRI	ZQRI;Mosses;Timmia austriaca	Mosses
+FANS	FANS;Hornworts;Leiosporoceros dussii	Hornworts
+ANON	ANON;Hornworts;Leiosporoceros dussii	Hornworts
+IQJU	IQJU;Hornworts;Anthoceros formosae	Hornworts
+TWUW	TWUW;Hornworts;Anthoceros agrestis	Hornworts
+BSNI	BSNI;Hornworts;Anthoceros agrestis	Hornworts
+FAJB	FAJB;Hornworts;Paraphymatoceros hallii	Hornworts
+RXRQ	RXRQ;Hornworts;Phaeoceros carolinianus	Hornworts
+WEEQ	WEEQ;Hornworts;Phaeoceros carolinianus	Hornworts
+ZFRE	ZFRE;Hornworts;Phaeoceros carolinianus	Hornworts
+WCZB	WCZB;Hornworts;Phaeoceros carolinianus	Hornworts
+DXOU	DXOU;Hornworts;Nothoceros aenigmaticus	Hornworts
+TCBC	TCBC;Hornworts;Nothoceros vincentianus	Hornworts
+UCRN	UCRN;Hornworts;Megaceros flagellaris	Hornworts
+AKXB	AKXB;Hornworts;Phaeomegaceros coriaceus	Hornworts
+AEXY	AEXY;Liverworts;Blasia sp.	Liverworts
+YBQN	YBQN;Liverworts;Odontoschisma prostratum	Liverworts
+WZYK	WZYK;Liverworts;Bazzania trilobata	Liverworts
+RTMU	RTMU;Liverworts;Calypogeia fissa	Liverworts
+CHJJ	CHJJ;Liverworts;Frullania spp.	Liverworts
+IRBN	IRBN;Liverworts;Scapania nemorosa	Liverworts
+OFTV	OFTV;Liverworts;Barbilophozia barbata	Liverworts
+NWQC	NWQC;Liverworts;mixed species	Liverworts
+UUHD	UUHD;Liverworts;Porella pinnata	Liverworts
+HPXA	HPXA;Liverworts;Ptilidium pulcherrimum	Liverworts
+LGOW	LGOW;Liverworts;Schistochila sp.	Liverworts
+TGKW	TGKW;Liverworts;Frullania sp.	Liverworts
+ILBQ	ILBQ;Liverworts;Conocephalum conicum	Liverworts
+JPYU	JPYU;Liverworts;Marchantia polymorpha	Liverworts
+TFYI	TFYI;Liverworts;Marchantia emarginata	Liverworts
+HMHL	HMHL;Liverworts;Marchantia paleacea	Liverworts
+IHWO	IHWO;Liverworts;Marchantia paleacea	Liverworts
+LFVP	LFVP;Liverworts;Marchantia paleacea	Liverworts
+TFDQ	TFDQ;Liverworts;Monoclea gottschei	Liverworts
+WJLO	WJLO;Liverworts;Ricciocarpos natans	Liverworts
+NRWZ	NRWZ;Liverworts;Metzgeria crassipilis	Liverworts
+YFGP	YFGP;Liverworts;Pallavicinia lyellii	Liverworts
+TXVB	TXVB;Liverworts;Lunularia cruciata	Liverworts
+PIUF	PIUF;Liverworts;Pellia cf. epiphylla	Liverworts
+JHFI	JHFI;Liverworts;Pellia neesiana	Liverworts
+YPSN	YPSN;Liverworts;Noteroclada confluens	Liverworts
+KRUQ	KRUQ;Liverworts;Porella navicularis	Liverworts
+BNCU	BNCU;Liverworts;Radula lindenbergiana	Liverworts
+HERT	HERT;Liverworts;Sphaerocarpos texanus	Liverworts
+FITN	FITN;Liverworts;Treubia lacunosa	Liverworts
+XMCL	XMCL;prasinophytes/Prasinococcales;Prasinococcus capsulatus	prasinophytes/Prasinococcales
+XJGM	XJGM;prasinophytes/Prasinococcales;coccoid-prasinophyte	prasinophytes/Prasinococcales
+HYHN	HYHN;prasinophytes/Prasinococcales;Prasinoderma coloniale	prasinophytes/Prasinococcales
+MXEZ	MXEZ;prasinophytes;Pycnococcus provasolii	prasinophytes
+JMTE	JMTE;prasinophytes;Pseudoscourfieldia marina	prasinophytes
+TNAW	TNAW;prasinophytes;Pyramimonas parkeae	prasinophytes
+XIVI	XIVI;prasinophytes;Cymbomonas sp.	prasinophytes
+AYPS	AYPS;Green Algae;unidentified species	Green Algae
+MCPK	MCPK;prasinophytes;Bathycoccus prasinos	prasinophytes
+QXSZ	QXSZ;prasinophytes;Mantoniella squamata	prasinophytes
+BTFM	BTFM;prasinophytes;Monomastix opisthostigma	prasinophytes
+XOAL	XOAL;prasinophytes;Dolichomastix tenuilepis	prasinophytes
+MMKU	MMKU;prasinophytes;Nephroselmis olivacea	prasinophytes
+ISIM	ISIM;prasinophytes;Nephroselmis pyriformis	prasinophytes
+FMVB	FMVB;prasinophytes;Scherffelia dubia	prasinophytes
+HVNO	HVNO;prasinophytes;Tetraselmis chui	prasinophytes
+DUMA	DUMA;prasinophytes;Tetraselmis cordiformis	prasinophytes
+HHXJ	HHXJ;prasinophytes;Tetraselmis striata	prasinophytes
+BAZF	BAZF;Green Algae;Chaetopeltis orbicularis	Green Algae
+VFIV	VFIV;Green Algae;Fritschiella tuberosa	Green Algae
+AJAU	AJAU;Green Algae;Helicodictyon planctonicum	Green Algae
+NQYP	NQYP;Green Algae;Pirula salina	Green Algae
+JMUI	JMUI;Green Algae;Stigeoclonium helveticum	Green Algae
+RAWF	RAWF;Green Algae;Uronema belkae	Green Algae
+IJMT	IJMT;Green Algae;Aphanochaete repens	Green Algae
+GXBM	GXBM;Green Algae;Coccomyxa pringsheimii	Green Algae
+BZSH	BZSH;Green Algae;Golenkinia longispicula	Green Algae
+XKWQ	XKWQ;Green Algae;Pediastrum duplex	Green Algae
+NLOM	NLOM;Green Algae;Pediastrum duplex	Green Algae
+YOHC	YOHC;Green Algae;Pediastrum duplex	Green Algae
+XTON	XTON;Green Algae;Pediastrum duplex	Green Algae
+JRDV	JRDV;Green Algae;Pediastrum duplex	Green Algae
+QGQH	QGQH;Green Algae;Pediastrum duplex	Green Algae
+PZIF	PZIF;Green Algae;Scenedesmus dimorphus	Green Algae
+ALZF	ALZF;Green Algae;Halochlorococcum marinum	Green Algae
+USIX	USIX;Green Algae;Neochlorosarcina sp.	Green Algae
+FOYQ	FOYQ;Green Algae;Microspora cf. tumidula	Green Algae
+DVYE	DVYE;Green Algae;Oedogonium cardiacum	Green Algae
+SDPC	SDPC;Green Algae;Oedogonium foveolatum	Green Algae
+KUJU	KUJU;Green Algae;Gonium pectorale	Green Algae
+EEJO	EEJO;Green Algae;Ettlia oleoabundans	Green Algae
+KSFK	KSFK;Green Algae;Desmochloris halophila	Green Algae
+GJIY	GJIY;Green Algae;Pseudoneochloris marina	Green Algae
+OTQG	OTQG;Green Algae;Ankistrodesmus sp.	Green Algae
+JWGT	JWGT;Green Algae;Volvox aureus	Green Algae
+WRSL	WRSL;Green Algae;Volvox aureus	Green Algae
+POIR	POIR;Green Algae;Volvox aureus	Green Algae
+ISPU	ISPU;Green Algae;Volvox globator	Green Algae
+RNAT	RNAT;Green Algae;Eudorina elegans	Green Algae
+RYJX	RYJX;Green Algae;Pandorina morum	Green Algae
+MNPL	MNPL;Green Algae;Asteromonas gracilis	Green Algae
+NTLE	NTLE;Green Algae;Asteromonas gracilis	Green Algae
+ZFXU	ZFXU;Green Algae;Asteromonas gracilis	Green Algae
+VIAU	VIAU;Green Algae;Carteria crucifera	Green Algae
+RUIF	RUIF;Green Algae;Carteria obtusa	Green Algae
+MULF	MULF;Green Algae;Chlamydomonas bilatus	Green Algae
+OVHR	OVHR;Green Algae;Chlamydomonas bilatus	Green Algae
+SRGS	SRGS;Green Algae;Chlamydomonas bilatus	Green Algae
+BCYF	BCYF;Green Algae;Chlamydomonas cribrum	Green Algae
+JRGZ	JRGZ;Green Algae;Chlamydomonas moewusii	Green Algae
+VALZ	VALZ;Green Algae;Chlamydomonas noctigama	Green Algae
+TSBQ	TSBQ;Green Algae;Chlamydomonas sp.	Green Algae
+AOUJ	AOUJ;Green Algae;Chlamydomonas sp.	Green Algae
+XOZZ	XOZZ;Green Algae;Chlamydomonas sp.	Green Algae
+GUBD	GUBD;Green Algae;Brachiomonas submarina	Green Algae
+IHOI	IHOI;Green Algae;Chloromonas oogama	Green Algae
+QRTH	QRTH;Green Algae;Chloromonas perforata	Green Algae
+GDUD	GDUD;Green Algae;Chloromonas reticulata	Green Algae
+LBRP	LBRP;Green Algae;Chloromonas reticulata	Green Algae
+ZLBP	ZLBP;Green Algae;Chloromonas reticulata	Green Algae
+AJUW	AJUW;Green Algae;Chloromonas rosae	Green Algae
+GFUR	GFUR;Green Algae;Chloromonas subdivisa	Green Algae
+UTRE	UTRE;Green Algae;Chloromonas tughillensis	Green Algae
+IRYH	IRYH;Green Algae;Heterochlamydomonas inaequalis	Green Algae
+OFUE	OFUE;Green Algae;Lobochlamys segnis	Green Algae
+JKKI	JKKI;Green Algae;Lobomonas rostrata	Green Algae
+XDLL	XDLL;Green Algae;Oogamochlamys gigantea	Green Algae
+MXDS	MXDS;Green Algae;Spermatozopsis exsultans	Green Algae
+ENAU	ENAU;Green Algae;Spermatozopsis similis	Green Algae
+QWRA	QWRA;Green Algae;Vitreochlamys sp.	Green Algae
+WDWX	WDWX;Green Algae;Dunaliella primolecta	Green Algae
+RHVC	RHVC;Green Algae;Dunaliella salina	Green Algae
+SYJM	SYJM;Green Algae;Dunaliella salina	Green Algae
+UKUC	UKUC;Green Algae;Dunaliella salina	Green Algae
+NDPQ	NDPQ;Green Algae;Dunaliella salina	Green Algae
+ZDIZ	ZDIZ;Green Algae;Dunaliella tertiolecta	Green Algae
+FXHG	FXHG;Green Algae;Hafniomonas reticulata	Green Algae
+ODXI	ODXI;Green Algae;Haematococcus pluvialis	Green Algae
+AGIO	AGIO;Green Algae;Haematococcus pluvialis	Green Algae
+KFEB	KFEB;Green Algae;Haematococcus pluvialis	Green Algae
+ZLQE	ZLQE;Green Algae;Stephanosphaera pluvialis	Green Algae
+ZIVZ	ZIVZ;Green Algae;Phacotus lenticularis	Green Algae
+LNIL	LNIL;Green Algae;Pteromonas angulosa	Green Algae
+ACRY	ACRY;Green Algae;Pteromonas sp.	Green Algae
+NKXU	NKXU;Green Algae;Trebouxia arboricola	Green Algae
+ETGN	ETGN;Green Algae;Botryococcus braunii	Green Algae
+VJDZ	VJDZ;Green Algae;Botryosphaerella sudetica	Green Algae
+QYXY	QYXY;Green Algae;Botryococcus terribilis	Green Algae
+MWAN	MWAN;Green Algae;Neodesmus pupukensis	Green Algae
+PFUD	PFUD;Green Algae;Geminella sp.	Green Algae
+MFYC	MFYC;Green Algae;Nannochloris atomus	Green Algae
+AKCR	AKCR;Green Algae;Parachlorella kessleri	Green Algae
+BILC	BILC;Green Algae;Prototheca wickerhamii	Green Algae
+ZNUM	ZNUM;Green Algae;Leptosira obovata	Green Algae
+MNCB	MNCB;Green Algae;Eremosphaera viridis	Green Algae
+DXNY	DXNY;Green Algae;Microthamnion kuetzingianum	Green Algae
+ZDOF	ZDOF;Green Algae;Microthamnion kuetzingianum	Green Algae
+EATP	EATP;Green Algae;Microthamnion kuetzingianum	Green Algae
+WCLV	WCLV;Green Algae;Prasiola crispa	Green Algae
+WXRI	WXRI;Green Algae;Stichococcus bacillaris	Green Algae
+CQQP	CQQP;Green Algae;Ochlochaete sp.	Green Algae
+OAEZ	OAEZ;Green Algae;Percursaria percursa	Green Algae
+LSHT	LSHT;Green Algae;Bolbocoleon piliferum	Green Algae
+PZBH	PZBH;Green Algae;Oltmannsiellopsis viridis	Green Algae
+QJYX	QJYX;Green Algae;Oltmannsiellopsis viridis	Green Algae
+NSTT	NSTT;Green Algae;Oltmannsiellopsis viridis	Green Algae
+OQON	OQON;Green Algae;Entocladia endozoica	Green Algae
+VBLH	VBLH;Green Algae;Cladophora glomerata	Green Algae
+NATT	NATT;Green Algae;Trentepohlia annulata	Green Algae
+YDCQ	YDCQ;Green Algae;Cephaleuros virescens	Green Algae
+CBNG	CBNG;Green Algae;Planophila laetevirens	Green Algae
+LETF	LETF;Green Algae;Planophila sp	Green Algae
+DZPJ	DZPJ;Green Algae;Cylindrocapsa geminella	Green Algae
+JIWJ	JIWJ;Green Algae;Acrosiphonia sp.	Green Algae
+KADG	KADG;Green Algae;Ignatius tetrasporus	Green Algae
+FPCO	FPCO;Green Algae;Interfilum paradoxum	Green Algae
+JTIG	JTIG;Green Algae;Bryopsis plumosa	Green Algae
+GYBH	GYBH;Green Algae;Codium fragile	Green Algae
+VHIJ	VHIJ;Green Algae;Blastophysa cf. rhizopus	Green Algae
+KYIO	KYIO;Green Algae;Mesostigma viride	Green Algae
+RRSV	RRSV;Green Algae;Pedinomonas minor	Green Algae
+PUAN	PUAN;Green Algae;Pedinomonas tuberculata	Green Algae
+EGNB	EGNB;Green Algae;Scourfieldia sp.	Green Algae
+PRIQ	PRIQ;Green Algae;Pleurastrum insigne	Green Algae
+TGNL	TGNL;Green Algae;Picocystis salinarum	Green Algae
+MWXT	MWXT;Green Algae;Chara vulgaris	Green Algae
+QPDY	QPDY;Green Algae;Coleochaete irregularis	Green Algae
+VQBJ	VQBJ;Green Algae;Coleochaete scutata	Green Algae
+DRGY	DRGY;Green Algae;Chaetosphaeridium globosum	Green Algae
+FQLP	FQLP;Green Algae;Klebsormidium subtile	Green Algae
+AZZW	AZZW;Green Algae;Chlorokybus atmophyticus	Green Algae
+BFIK	BFIK;Green Algae;Entransia fimbriata	Green Algae
+ISGT	ISGT;Green Algae;Uronema sp.	Green Algae
+JOJQ	JOJQ;Green Algae;Cylindrocystis cushleckae	Green Algae/Zygnematales
+ZRMT	ZRMT;Green Algae;Mougeotia sp.	Green Algae/Zygnematales
+HAOX	HAOX;Green Algae;Spirogyra sp.	Green Algae/Zygnematales
+STKJ	STKJ;Green Algae;Cosmarium ochthodes	Green Algae/Zygnematales
+WGMD	WGMD;Green Algae;Zygnema sp.	Green Algae/Zygnematales
+MFZO	MFZO;Green Algae;Zygnemopsis sp.	Green Algae/Zygnematales
+DRFX	DRFX;Green Algae;Closterium lunula	Green Algae/Zygnematales
+DFDS	DFDS;Green Algae;Desmidium aptogonum	Green Algae/Zygnematales
+QWFV	QWFV;Green Algae;Bambusina borreri	Green Algae/Zygnematales
+HIDG	HIDG;Green Algae;Cosmarium broomei	Green Algae/Zygnematales
+MNNM	MNNM;Green Algae;Cosmarium granatum	Green Algae/Zygnematales
+HJVM	HJVM;Green Algae;Cosmarium ochthodes	Green Algae/Zygnematales
+WDGV	WDGV;Green Algae;Cosmarium subtumidum	Green Algae/Zygnematales
+BHBK	BHBK;Green Algae;Cosmarium tinctum	Green Algae/Zygnematales
+RQFE	RQFE;Green Algae;Cosmocladium cf. constrictum	Green Algae/Zygnematales
+GYRP	GYRP;Green Algae;Euastrum affine	Green Algae/Zygnematales
+MCHJ	MCHJ;Green Algae;Micrasterias fimbriata	Green Algae/Zygnematales
+GGWH	GGWH;Green Algae;Onychonema laeve	Green Algae/Zygnematales
+RPQV	RPQV;Green Algae;Phymatodocis nordstedtiana	Green Algae/Zygnematales
+MOYY	MOYY;Green Algae;Pleurotaenium trabecula	Green Algae/Zygnematales
+ISHC	ISHC;Green Algae;Staurastrum sebaldi	Green Algae/Zygnematales
+WCQU	WCQU;Green Algae;Staurodesmus convergens	Green Algae/Zygnematales
+RPRU	RPRU;Green Algae;Staurodesmus omearii	Green Algae/Zygnematales
+GBGT	GBGT;Green Algae;Xanthidium antilopaeum	Green Algae/Zygnematales
+WSJO	WSJO;Green Algae;Mesotaenium braunii	Green Algae/Zygnematales
+HKZW	HKZW;Green Algae;Mesotaenium caldariorum	Green Algae/Zygnematales
+WDCW	WDCW;Green Algae;Mesotaenium endlicherianum	Green Algae/Zygnematales
+NBYP	NBYP;Green Algae;Mesotaenium kramstae	Green Algae/Zygnematales
+YOXI	YOXI;Green Algae;Cylindrocystis brebissonii	Green Algae/Zygnematales
+RPGL	RPGL;Green Algae;Cylindrocystis brebissonii	Green Algae/Zygnematales
+YLBK	YLBK;Green Algae;Cylindrocystis brebissonii	Green Algae/Zygnematales
+VAZE	VAZE;Green Algae;Cylindrocystis sp.	Green Algae/Zygnematales
+FFGR	FFGR;Green Algae;Netrium digitus	Green Algae/Zygnematales
+KMNX	KMNX;Green Algae;Nucleotaenium eifelense	Green Algae/Zygnematales
+SNOX	SNOX;Green Algae;Planotaenium ohtanii	Green Algae/Zygnematales
+XRTZ	XRTZ;Green Algae;Roya obtusa	Green Algae/Zygnematales
+NNHQ	NNHQ;Green Algae;Spirotaenia minuta	Green Algae
+TPHT	TPHT;Green Algae;Spirotaenia sp.	Green Algae/Zygnematales
+YSQT	YSQT;Green Algae;Penium exiguum	Green Algae/Zygnematales
+AEKF	AEKF;Green Algae;Penium margaritaceum	Green Algae/Zygnematales
+KEYW	KEYW;Green Algae;Gonatozygon kinahanii	Green Algae/Zygnematales
+POOW	POOW;Glaucophyta (Algae);Glaucocystis cf. nostochinearum	Glaucophyta (Algae)
+QFND	QFND;Glaucophyta (Algae);Cyanophora paradoxa	Glaucophyta (Algae)
+YTYU	YTYU;Glaucophyta (Algae);Cyanophora paradoxa	Glaucophyta (Algae)
+WLZP	WLZP;Glaucophyta (Algae);Cyanophora paradoxa	Glaucophyta (Algae)
+PQED	PQED;Glaucophyta (Algae);Gloeochaete wittrockiana	Glaucophyta (Algae)
+JKHA	JKHA;Glaucophyta (Algae);Cyanoptyche gloeocystis	Glaucophyta (Algae)
+OBUY	OBUY;Red Algae;Porphyridium cruentum	Red Algae
+PVGP	PVGP;Red Algae;Porphyridium purpureum	Red Algae
+RSOF	RSOF;Red Algae;Glaucosphaera vacuolata	Red Algae
+JJZR	JJZR;Red Algae;Rhodochaete parvula	Red Algae
+LLXJ	LLXJ;Red Algae;Chroodactylon ornatum	Red Algae
+ZULJ	ZULJ;Red Algae;Pyropia yezoensis	Red Algae
+VZWX	VZWX;Red Algae;Ceramium kondoi	Red Algae
+YSBD	YSBD;Red Algae;Heterosiphonia pulchra	Red Algae
+XAXW	XAXW;Red Algae;Neosiphonia japonica	Red Algae
+UYFR	UYFR;Red Algae;Symphyocladia latiuscula	Red Algae
+IEHF	IEHF;Red Algae;Dumontia simplex	Red Algae
+SBLT	SBLT;Red Algae;Gloiopeltis furcata	Red Algae
+UGPM	UGPM;Red Algae;Chondrus crispus	Red Algae
+WEJN	WEJN;Red Algae;Mazzaella japonica	Red Algae
+CKXF	CKXF;Red Algae;Ahnfeltiopsis flabelliformis	Red Algae
+BWVJ	BWVJ;Red Algae;Betaphycus philippinensis	Red Algae
+JEBK	JEBK;Red Algae;Eucheuma denticulatum	Red Algae
+IHJY	IHJY;Red Algae;Kappaphycus alvarezii	Red Algae
+FTRP	FTRP;Red Algae;Gracilaria chouae	Red Algae
+VNAL	VNAL;Red Algae;Gracilaria vermiculophylla	Red Algae
+LJPN	LJPN;Red Algae;Gracilaria blodgettii	Red Algae
+IKWM	IKWM;Red Algae;Gracilaria lemaneiformis	Red Algae
+ZJOJ	ZJOJ;Red Algae;Grateloupia filicina	Red Algae
+IKIZ	IKIZ;Red Algae;Grateloupia livida	Red Algae
+URSB	URSB;Red Algae;Grateloupia turuturu	Red Algae
+PYDB	PYDB;Red Algae;Grateloupia catenata	Red Algae
+PWKQ	PWKQ;Red Algae;Gracilaria sp.	Red Algae
+RTLC	RTLC;Red Algae;Rhodella violacea	Red Algae
+BAKF	BAKF;Chromista (Algae);Cryptomonas curvata	Chromista (Algae)
+ROZZ	ROZZ;Chromista (Algae);Chroomonas sp.	Chromista (Algae)
+MJMQ	MJMQ;Chromista (Algae);Hemiselmis virescens	Chromista (Algae)
+IRZA	IRZA;Chromista (Algae);Proteomonas sulcata	Chromista (Algae)
+IAYV	IAYV;Chromista (Algae);Rhodomonas sp.	Chromista (Algae)
+BAJW	BAJW;Chromista (Algae);Isochrysis sp.	Chromista (Algae)
+APTP	APTP;Chromista (Algae);Ishige okamurae	Chromista (Algae)
+LXRN	LXRN;Chromista (Algae);Prymnesium parvum	Chromista (Algae)
+NMAK	NMAK;Chromista (Algae);Pavlova lutheri	Chromista (Algae)
+RFAD	RFAD;Chromista (Algae);Pavlova lutheri	Chromista (Algae)
+LLEN	LLEN;Chromista (Algae);Pavlova lutheri	Chromista (Algae)
+VJED	VJED;Chromista (Algae);Pavlova lutheri	Chromista (Algae)
+RAPY	RAPY;Chromista (Algae);Saccharina sculpera	Chromista (Algae)
+OGZM	OGZM;Chromista (Algae);Saccharina japonica	Chromista (Algae)
+QDTV	QDTV;Chromista (Algae);Saccharina japonica	Chromista (Algae)
+SRSQ	SRSQ;Chromista (Algae);Saccharina japonica	Chromista (Algae)
+FIDQ	FIDQ;Chromista (Algae);Undaria pinnatifida	Chromista (Algae)
+EBWI	EBWI;Chromista (Algae);Rebecca salina	Chromista (Algae)
+JQFK	JQFK;Green Algae;Picochlorum atomus	Green Algae
+BOGT	BOGT;Chromista (Algae);Mallomonas sp.	Chromista (Algae)
+DBYD	DBYD;Chromista (Algae);Synura petersenii	Chromista (Algae)
+VKVG	VKVG;Chromista (Algae);Synura sp.	Chromista (Algae)
+FSQE	FSQE;Chromista (Algae);Desmarestia viridis	Chromista (Algae)
+LIRF	LIRF;Chromista (Algae);Dictyopteris undulata	Chromista (Algae)
+QLMZ	QLMZ;Chromista (Algae);Colpomenia sinuosa	Chromista (Algae)
+VRGZ	VRGZ;Chromista (Algae);Petalonia fascia	Chromista (Algae)
+ASZK	ASZK;Chromista (Algae);Punctaria latifolia	Chromista (Algae)
+ULXR	ULXR;Chromista (Algae);Scytosiphon dotyi	Chromista (Algae)
+JCXF	JCXF;Chromista (Algae);Scytosiphon lomentaria	Chromista (Algae)
+LDRY	LDRY;Chromista (Algae);Sargassum fusiforme	Chromista (Algae)
+VYER	VYER;Chromista (Algae);Sargassum hemiphyllum	Chromista (Algae)
+FIKG	FIKG;Chromista (Algae);Sargassum henslowianum	Chromista (Algae)
+RWXW	RWXW;Chromista (Algae);Sargassum horneri	Chromista (Algae)
+FOMH	FOMH;Chromista (Algae);Sargassum integerrimum	Chromista (Algae)
+YRMA	YRMA;Chromista (Algae);Sargassum thunbergii	Chromista (Algae)
+HFIK	HFIK;Chromista (Algae);Sargassum vachellianum	Chromista (Algae)
+JGGD	JGGD;Chromista (Algae);Sargassum muticum	Chromista (Algae)
+TZJQ	TZJQ;Euglenozoa (Algae);Prorocentrum micans	Euglenozoa (Algae)
+UNBZ	UNBZ;Euglenozoa (Algae);Euglena sp.	Euglenozoa (Algae)
+Ambtr_v1.0.27	Ambtr_v1.0.27;Genome;Amborella_trichopoda	Basalmost angiosperms
+Aquco_v1.1	Aquco_v1.1;Genome;Aquilegia_coerulea	Basal Eudicots
+Arath_TAIR10	Arath_TAIR10;Genome;Arabidopsis_thaliana	Core Eudicots/Rosids
+Betvu_v1.1	Betvu_v1.1;Genome;Beta_vulgaris	Core Eudicots
+Carpa_ASGPBv0.4	Carpa_ASGPBv0.4;Genome;Carica_papaya	Core Eudicots/Rosids
+Chabr_v0.1	Chabr_v0.1;Genome;Chara braunii	Green Algae
+Chlre_v5.5	Chlre_v5.5;Genome;Chlamydomonas reinhardtii	Green Algae
+Chlva_v1.0	Chlva_v1.0;Genome;Chlorella variabilis	Green Algae
+Elagu_v2.0	Elagu_v2.0;Genome;Elaeis guineensis	Monocots/Commelinids
+Eucgr_v1.1	Eucgr_v1.1;Genome;Eucalyptus grandis	Core Eudicots/Rosids
+Klefl_v1.0	Klefl_v1.0;Genome;Klebsormidium flaccidum	Green Algae
+Manes_v4.1	Manes_v4.1;Genome;Manihot esculenta	Core Eudicots/Rosids
+Micpu_v3.0	Micpu_v3.0;Genome;Micromonas pusilla	prasinophytes
+Mimgu_v2.0	Mimgu_v2.0;Genome;Mimulus guttatus	Core Eudicots/Asterids
+Musac_v1.0	Musac_v1.0;Genome;Musa acuminata	Monocots/Commelinids
+Nelnu_v1.0	Nelnu_v1.0;Genome;Nelumbo nucifera	Basal Eudicots
+Orysa_v7.0	Orysa_v7.0;Genome;Oryza sativa	Monocots/Commelinids
+Ostlu_v2.0	Ostlu_v2.0;Genome;Ostreococcus lucimarinus	prasinophytes
+Phavu_v1.0	Phavu_v1.0;Genome;Phaseolus vulgaris	Core Eudicots/Rosids
+Phypa_v3.0	Phypa_v3.0;Genome;Physcomitrella patens	Mosses
+Pinta_v2.0	Pinta_v2.0;Genome;Pinus taeda	Conifers
+Poptr_v3.0	Poptr_v3.0;Genome;Populus trichocarpa	Core Eudicots/Rosids
+Prupe_v1.0	Prupe_v1.0;Genome;Prunus persica	Core Eudicots/Rosids
+Selmo_v1.0	Selmo_v1.0;Genome;Selaginella moellendorffii	Lycophytes
+Solly_iTAGv2.3	Solly_iTAGv2.3;Genome;Solanum lycopersicum	Core Eudicots/Asterids
+Sorbi_v2.1	Sorbi_v2.1;Genome;Sorghum bicolor	Monocots/Commelinids
+Spipo_v2	Spipo_v2;Genome;Spirodella polyrhiza	Monocots
+Theca_v1.1	Theca_v1.1;Genome;Theobroma cacao	Core Eudicots/Rosids
+Vitvi_Genoscope.12X	Vitvi_Genoscope.12X;Genome;Vitis vinifera	Core Eudicots/Rosids
+FMRU	FMRU;Green Algae;Zygnema_sp._2samples	Green Algae
+RWYZ	RWYZ;Leptosporangiate Monilophytes;Blechnum_spicant	Leptosporangiate Monilophytes
+ZIWB	ZIWB;Core Eudicots/Rosids;Passiflora_sp	Core Eudicots/Rosids
+Cyame_v1.0	Cyame_v1.0;Red Algae;	Red Algae
+Volca_v2.0	Volca_v2.0;Green Algae;Volvox carteri	Green Algae
