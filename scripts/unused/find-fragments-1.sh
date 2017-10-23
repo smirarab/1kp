@@ -1,0 +1,1 @@
+for x in `ls genes/`; do echo -n $x" ";simplifyfasta.sh genes/$x/FNA2AA-upp-c12.fasta|awk '/^>/{name=$0} /^[^>]/{l=length($0); gsub("-","",$0);s=length($0); if (s/l < .1) print name}'|sed -e "s/>//g"|wc -l; done |tee filtered-0.1-alglength.txt
