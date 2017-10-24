@@ -1,17 +1,13 @@
 Here, we keep all the alternative species trees
 
-The directory `output` includes the results of running DiscoVista, with command
-~~~~bash
-~~~~
+* The directory [output](output) includes the results of running DiscoVista with parameters for the DiscoVista are given in the [parameters](parameters) folder.
 
-and the parameters for the DiscoVista are given in the `parameters` folder.
-
-The direcotry `trees` includes the newick species trees:
+* The direcotry [trees](trees) includes the newick species trees:
 
 
 Directory name   |   Tree name
 -----------------|-------------------
-| Full DNA|
+| **Full AA**|
 | [astral_trees_33_percent-FAA](trees/astral_trees_33_percent-FAA) | ASTRAL-33%-FAA |
 | [astral.20.503-FAA](trees/astral.20.503-FAA) | ASTRAL-20%-FAA |
 | [astral.10.503-FAA](trees/astral.10.503-FAA) | ASTRAL-10%-FAA |
