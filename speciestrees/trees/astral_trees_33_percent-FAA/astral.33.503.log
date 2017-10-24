@@ -1,0 +1,1280 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.0.3
+Gene trees are treated as unrooted
+410 trees read from Best.33
+All output trees will be *arbitrarily* rooted at TVSH
+
+======== Running the main analysis
+Number of taxa: 1178 (1178 species)
+Taxa: [TVSH, KEGA, SUAK, JTQQ, VLNB, SLYR, ZSSR, CMFF, JETM, RKFX, RKLL, UDUT, KVAY, RBYC, IANR, SQCF, XFFT, Prupe_v1.0, EAVM, VCIN, WVEF, EILE, WKCY, EDHN, XVJB, KYAD, BJSW, AQGE, PKMO, WMUK, KPTE, ATFX, Theca_v1.1, OLXF, OCTM, PUDI, AWJM, XMQO, LNER, LWDA, SVVG, YZVJ, HENI, UZWG, NHUA, INSP, TJLC, UVDC, RJIM, QICX, IKFD, BCAA, YUOM, FCCA, VFFP, WAXR, HBHB, OBTI, HDWF, SWPE, UAXP, QSKP, LVUS, UPZX, VDKG, LAPO, TZWR, Arath_TAIR10, CSUV, VMNH, RTTY, CRNC, DZTK, CZPV, Carpa_ASGPBv0.4, MYZV, JHCN, THHD, TIUZ, RHAU, PXYR, PAZJ, VVPY, XNLP, Manes_v4.1, OQHZ, EZZT, SIZE, COAQ, Poptr_v3.0, IEPQ, LFOG, INQX, TDTF, KKDQ, GLVK, RPPC, ZTLR, ZBVT, HBUQ, BNDE, FWCQ, NJLF, LPGY, YGAT, CKDK, XPBC, VNMY, TXMP, VXOD, KCPT, HNCF, MYVH, BHYC, BVOF, AEPI, POZS, OODC, IHCQ, SWGX, WWQZ, Eucgr_v1.1, NEBM, FGDU, RJNQ, YNUE, SJAN, JKNQ, AXNH, PMTB, UJGI, TLCA, ROLB, ARYD, IMZV, IDAU, ZINQ, FEDW, BZDF, HKMQ, DZLN, GVCB, KBRW, EQYT, YHLF, UWFU, Vitvi_Genoscope.12X, SZPD, BGZG, NNGU, VKJD, PTFA, ODDO, DAAD, OXYP, BEFC, WRPP, ADHK, AVJK, LRTN, SERM, WXVX, PPPZ, UFHF, KVFU, QAUE, HUSX, NGRR, JPDJ, YSRZ, FNEN, BNTL, JEXA, QZZU, YQIJ, SMUR, HANM, DIHD, XVRU, NIGS, OEKO, MZOB, IDGE, OUER, MDJK, ABEH, JWEY, EMAL, DKFZ, AHRN, CPOC, ALUC, EMBR, IZNU, NAUM, OQBM, XQRV, QSLH, NHAG, VXKB, BOLZ, Solly_iTAGv2.3, NMDZ, GHLP, LQJY, OSMU, LWCK, AIOU, MKZR, WQRD, ZSGF, KTWL, PCNH, KPUM, ECTD, EDEQ, JGYZ, YADI, DSUV, JCLQ, YFQX, UOYN, QEHE, MGVU, GGJD, TORX, MZLD, KTAR, DCCI, RWKR, DTNC, CLRW, FAMO, VYDM, FROP, OWAS, EJCM, PHCE, IYDF, WHNV, XMBA, TAGM, FDMM, BAHE, EQDA, PUCW, FUMQ, FYUH, GETL, GNPX, RTNA, ATYL, EAAA, SNNC, DMLT, UCNM, Mimgu_v2.0, ZRIN, UTQR, PSHB, MQIV, GCFE, TKEK, NBMW, AYIY, PCGJ, HRUR, MXFG, JCMU, UMUL, WOHL, EDXZ, COBX, PTBJ, YKZB, GNRI, YRHD, XXYA, SIBR, GRFT, XRLM, EJBY, GDZS, DFYF, ASMV, SXML, QACK, CAQZ, GSZA, JTRM, FFFY, AUIP, FXGI, CFRN, EYKJ, DDRL, KFZY, KGJF, FUPX, JNKW, DESP, MHYG, XRCX, TEZA, DUQG, OAGK, GUMF, BMSE, BIDT, NVSO, ZCUA, JEPE, QXWF, HXCD, JYMN, UYED, AQZD, YRBQ, LYPZ, UBLN, DUNJ, HUQC, TPEM, IHPC, IZLO, ZJRC, HLJG, AJFN, CWYJ, TQKZ, WEQK, NTEO, SALZ, SUVN, EDBB, OINM, QIKZ, MVSE, CLNU, CLMX, SBZH, ZETY, QURC, GIPR, SZUO, BFJL, FWBF, VUSY, VTLJ, MTII, FAKD, VQFW, GRRW, RQUG, SIIK, AALA, COCP, BYQM, MFIN, YMES, Spipo_v2, JSAG, XZME, LELS, VTUS, MTHW, THDM, KYNE, EMJJ, FCEL, BLAJ, JHUL, WTDE, JVBR, LTZF, MUMD, PRFO, DMIN, LDME, JDTY, DPFW, KXSK, PLBZ, ICNN, CMCY, MVRF, RQZP, UZXL, HOKG, XFJG, RCUX, LSJW, FGRF, IXEM, ONBE, SVTS, GJPF, SART, RDYY, YJUG, AFLV, OOSO, MWYQ, GDKK, QNPH, THEW, UOEL, XHHU, LSKK, JNUB, TZNS, LEMW, BDJQ, Musac_v1.0, HWUP, HXJE, Elagu_v2.0, BYPY, PPQR, CIEA, PWSG, XPAF, WBIB, IADP, RMVB, YXNR, EFCZ, RCAH, SOHV, WCOR, XBKS, ZMGN, BPKH, XUAB, NNOK, BXAY, VQYB, ZENX, YPIC, ROEI, Sorbi_v2.1, HATH, Orysa_v7.0, BSTR, QOXT, SILJ, DGXS, OCWZ, VVVV, PAWA, DHPO, PSJT, YZRI, WBOD, XQWC, OBPL, VYLQ, MAQO, WAIL, ABSS, BSVG, KRJP, FALI, WPHN, QDVW, WZFE, SJEV, WKSU, VZCI, FZJL, URDJ, Ambtr_v1.0.27, PZRT, MEKP, QIAD, PBUU, VVRN, PIVW, WQML, UJTT, FLTD, POPJ, NDUV, XDDT, YCKE, ZXJO, DCDT, BMJR, WCLG, HTFH, OCZL, YOWV, XXHP, UFJN, NWWI, ZQYU, UJWU, YLJA, CJNT, GYFU, ORJE, KJZG, BMIF, FQGQ, WGTU, CVEG, YIXP, NOKI, KIIX, UWOD, PNZO, EWXK, UOMY, RFMZ, VIBO, QVMR, ALVQ, DJSE, EEAQ, DFHO, FFGR, QPDY, VQBJ, Klefl_v1.0, FQLP, FPCO, BFIK, Chabr_v0.1, TPHT, HKZW, ZRMT, NBYP, MFZO, JOJQ, WSJO, WDCW, YOXI, VAZE, RPGL, RPQV, STKJ, DFDS, QWFV, GGWH, MNNM, GYRP, WCQU, BHBK, WDGV, RPRU, GBGT, MOYY, RQFE, YSQT, DRFX, AEKF, BAJW, VJED, RFAD, LLEN, NMAK, POOW, QFND, JKHA, PQED, IJMT, WCZB, NPRL, OQWW, UYFR, SNOX, XMCL, KYIO, XRTZ, ROZZ, NNHQ, WCLV, AZZW, JQFK, LLXJ, RSOF, JJZR, CKXF, SBLT, WEJN, UGPM, BWVJ, IHJY, JEBK, IEHF, IKWM, LJPN, VNAL, PWKQ, FTRP, XAXW, PYDB, IKIZ, ZJOJ, URSB, VZWX, ZULJ, RTLC, PVGP, OBUY, YSBD, APTP, FSQE, VRGZ, FOMH, HFIK, JGGD, VYER, YRMA, RWXW, QLMZ, ULXR, ASZK, VHIJ, HYHN, XJGM, JMTE, XOAL, Ostlu_v2.0, Micpu_v3.0, KADG, Cyame_v1.0, RRSV, PUAN, AJAU, OAEZ, CQQP, OQON, LSHT, NQYP, GJIY, JIWJ, KSFK, TNAW, XIVI, ISIM, MMKU, FMVB, HVNO, DUMA, NKXU, EATP, ZNUM, GXBM, MFYC, BILC, Chlva_v1.0, EEJO, AKCR, MNCB, BAZF, BOGT, VFIV, JMUI, RAWF, FOYQ, GYBH, QWRA, XKWQ, VJDZ, FXHG, DVYE, VIAU, BZSH, DZPJ, MWAN, PZIF, XDLL, AOUJ, LBRP, AJUW, VALZ, MULF, JRGZ, TSBQ, ZIVZ, LNIL, ISPU, JWGT, WRSL, Volca_v2.0, Chlre_v5.5, JKKI, KFEB, GUBD, PRIQ, QRTH, ZLQE, UKUC, WDWX, SYJM, ZFXU, AYPS, ALZF, NSTT, PKOX, ZFGK, JKAA, ZYCD, KJYC, LGDQ, ABIJ, Selmo_v1.0, ZZOL, UPMJ, WAFT, ENQF, PQTO, XNXF, ZZEI, CBAE, YHZW, GKAG, WOGB, SZYG, ZTHV, HVBQ, HRWG, XWHK, JMXW, BGXB, YWNF, WNGH, JADL, TAVP, EEMJ, MIRS, LNSF, QKQO, WSPM, DHWX, IGUH, ZACW, VBMM, QMWB, TMAJ, CMEQ, ORKS, BPSG, FFPD, GRKU, NGTD, VMXJ, RGKI, ABCD, RDOO, YEPO, Phypa_v3.0, KEFD, AWOI, GOWD, RCBT, UHLI, SKQD, BSNI, TWUW, UCRN, TCBC, DXOU, AKXB, FAJB, WEEQ, YFGP, LGOW, RTMU, YBQN, IRBN, OFTV, KRUQ, UUHD, TGKW, BNCU, NRWZ, PIUF, JHFI, ILBQ, WJLO, TFYI, JPYU, HMHL, HERT, TXVB, KUXM, JVSZ, TOXE, WVWN, IOVS, AWQB, IIOL, DZQM, JBND, MFTM, GGEA, VSRH, GAMH, AQFM, YFZK, QSNJ, QFAE, NRXL, XIRK, OXGJ, GMHZ, FHST, RMMV, JDQB, IFLI, AUDE, GKCZ, ETCJ, YYPE, UEVI, CGDN, XMGP, QNGJ, FRPM, XQSG, AIGO, BUWV, VFYZ, NKIN, ZQVF, EFMS, HQOM, IAJW, NVGZ, ZYAX, WWSS, BTTS, YLPM, EGLZ, JZVE, OWFC, KLGF, JRNA, ZQWM, CDFR, BBDD, MHGD, HILW, QCGM, SCEB, UUJS, XLGK, VGSX, FMWZ, ROWR, QHBI, IZGN, XTZO, RSCE, MIXZ, ACWS, MUNP, XSZI, CSSK, OPDF, QTJY, IWMW, UPOG, ZUHO, GBVZ, Aquco_v1.1, VGHH, WFBF, YHFG, CCID, NMGG, AUGV, ZGQD, UDHA, IRAF, SSDU, BEKN, RQNK, QCOU, EVOD, XHKT, XMVD, QUTB, HAEU, HQRJ, NUZN, FYTP, HTIP, ZHMB, VYGG, PTLU, YGCX, QKMG, XGFU, RSPO, BSEY, IUSR, TOKV, KWGC, DRIL, ZJUL, EHNF, OOVX, YKFU, FCBJ, CKKR, UHBY, DAYQ, RUUB, CVDF, WQUF, RNBN, KJAA, NXTS, YNFJ, CTYH, LKKX, BYNZ, KDCH, UQCB, EZGR, LLQV, LDEL, CPLT, IWIS, CPKP, BJKT, OMYK, BERS, GJNX, HZTS, EDIT, GIWN, AZBL, SFKQ, JAFJ, JGAB, ZBTA, VJPU, DVXD, EGOS, MRKX, BKQU, RXEN, FZQN, OLES, SKNL, SHEZ, SMMC, AAXJ, ONLQ, CBJR, WGET, FVXD, WMLW, XSSD, EYRD, OHKC, BWRK, ZBPY, PDQH, HDSY, CUTE, FYSJ, WOBD, OHAE, VHZV, GEHT, QZXQ, ZCDJ, PJSX, KZED, KNMB, HJMP, MYMP, Phavu_v1.0, CJGZ, CWZU, DXQW, VGVI, IXVJ, RFSD, HGSM, LRRR, WEAC, XAYK, JNVS, Betvu_v1.1, SCAO, Nelnu_v1.0, GTHK, XZUY, GNQG, KAWQ, UGNK, MTGC, VITX, YQEC, YJJY, HNDZ, LHLE, HEGQ, IXLH, SKYV, GSXD, CQPW, PYHZ, ANON, ZQRI, TGNL, GFUR, ZDIZ, SDPC, JTIG, FIKG, LIRF, FIDQ, JCXF, MCPK, EBWI, ISHC, HAOX, WZYK, HPXA, TRRQ, HYZL, HABV, NFXV, RVGH, ZPKK, TJQY, ACFP, TTRG, PEZP, ZSAB, WYIG, ZIWB, RZTJ, OSIP, AYMT, QIEH, SXCE, QNOC, AXAF, NWMY, WTKZ, VDAO, Pinta_v2.0, AREG, JUWL, OVIJ, SGTW, BEGM, GANB, RFRB, JBLI, MROH, URCP, AFPO, FCHS, RICC, PSKY, CAPN, DRGY, MCHJ, HIDG, KEYW, BTFM, EGNB, IRZA, VKVG, RAPY, NATT, YDCQ, VBLH, MXDS, UTRE, IHOI, KUJU, IRYH, RNAT, RYJX, RHVC, OFUE, ENAU, PFUD, XTON, OTQG, ISGT, LETF, QYXY, ULKT, OSHQ, KOFB, TCYS, NHIX, YLWW, BRUD, VBHQ, BCGB, WIGA, SWOH, WWKL, CIAC, ERIA, OMDH, YKQR, DOVJ, AFQQ, UHJR, JSZD, NPND, XISJ, DLJZ, DLAI, UGJI, ERWT, GCYL, TJES, IPWB, XKPS, NXOH, AJJE, BXBF, TVCU, ZHEE, CQMG, AXBO, YBML, WXNT, NSPR, WLIC, GAON, SYHW, SLOI, CTSS, JLOV, DWZT, AXPJ, DHAW, BLVL, NCVK, KAYP, LXRN, NHCM, KMNX, BAKF, IAYV, SRSQ, WXRI, ETGN, ACRY, BCYF, USIX, QXSZ, HHXJ, CBNG, LDRY, MWXT, KBXS, ZKPF, HBGV, GIOY, BBBA, JOIS, GTSV, LJQF, MFEA, YZGX, XOOE, RMWJ, DBYD, WVMY, RUIF, CNTZ, UVQL]
+Taxon occupancy: {POOW=203, SVTS=232, KSFK=242, EBWI=116, AIOU=374, XFFT=310, KUJU=241, JRGZ=159, PQTO=358, JAFJ=372, RQNK=373, POPJ=366, UZWG=386, WKSU=356, OCZL=327, RWXW=205, RSPO=325, SIZE=369, AVJK=324, UGPM=147, YGCX=305, CVDF=383, SERM=271, GKAG=351, AXNH=377, WTDE=331, RUUB=331, PBUU=287, HNDZ=321, NQYP=202, OWAS=326, EZGR=355, TWUW=276, TMAJ=371, CVEG=331, DAYQ=386, XNXF=304, WXNT=303, JEPE=366, LIRF=185, ROLB=369, XDDT=367, HANM=282, GMHZ=392, MFIN=356, ATFX=373, UVQL=110, JCLQ=384, YOWV=342, BBBA=217, AEKF=192, ZHEE=272, NEBM=376, VQBJ=284, XWHK=302, MYMP=369, JPDJ=372, AXPJ=178, JIWJ=280, XHKT=347, UZXL=304, Manes_v4.1=372, ACFP=233, SVVG=375, QRTH=214, BFIK=330, SALZ=380, GKCZ=369, BYNZ=271, LGOW=354, OWFC=377, XFJG=323, PZIF=261, JCMU=366, Sorbi_v2.1=392, HAOX=181, QAUE=371, KJYC=299, AKXB=303, TQKZ=371, ISPU=249, AREG=318, DFDS=234, JVSZ=335, QNOC=229, BFJL=387, YKQR=322, VBHQ=289, NVGZ=393, BLVL=156, VDKG=345, CZPV=397, IUSR=320, BYQM=381, YOXI=328, BJSW=382, WEJN=139, QHBI=350, BYPY=304, LEMW=355, TDTF=355, JTQQ=382, NTEO=334, OHKC=335, JETM=369, JRNA=370, BSEY=362, SRSQ=167, QFAE=285, GXBM=287, FWCQ=313, BBDD=354, SJAN=283, LELS=382, WVMY=216, VQFW=339, ZNUM=276, EQYT=341, UCNM=387, LXRN=99, ZLQE=228, RKFX=337, KJZG=345, EEAQ=368, WXRI=190, RICC=321, QNPH=334, FWBF=336, RDYY=299, GDZS=369, PKMO=256, GSXD=350, GBVZ=353, VBLH=149, YRBQ=367, PKOX=381, TOKV=349, RMMV=387, AEPI=368, KOFB=344, ODDO=390, Aquco_v1.1=389, Solly_iTAGv2.3=384, HRUR=316, MULF=214, NXOH=312, YXNR=354, HATH=348, PMTB=386, BDJQ=345, DFHO=371, MUMD=357, RBYC=350, WZYK=318, ZJOJ=157, WTKZ=228, Carpa_ASGPBv0.4=369, TFYI=270, UTQR=385, JTRM=382, AZZW=317, QLMZ=191, WAFT=332, ZSAB=316, YZRI=380, GSZA=347, UTRE=257, OUER=332, SART=360, RQUG=378, ZFGK=340, Volca_v2.0=315, MDJK=322, JGYZ=375, EILE=381, WEQK=373, IKFD=385, WAIL=374, XDLL=206, JEXA=356, VHZV=375, CKXF=140, RXEN=351, PVGP=94, WXVX=355, ZJRC=389, XOAL=238, VUSY=387, MUNP=346, QWFV=244, BWRK=374, LPGY=340, POZS=355, GGEA=294, NKXU=276, RKLL=361, UPMJ=324, HLJG=381, VBMM=371, UEVI=358, CCID=380, PTBJ=357, ZHMB=361, Cyame_v1.0=166, UCRN=268, SJEV=374, WCLG=326, SNNC=358, ETCJ=376, DJSE=324, WGTU=365, MYVH=346, TKEK=352, HRWG=359, WCLV=286, Nelnu_v1.0=359, WCOR=356, OQBM=352, LETF=250, LVUS=342, AALA=281, FFGR=265, URSB=146, LNER=340, EGLZ=352, JNKW=363, YKZB=342, RQZP=332, GOWD=311, UPOG=363, FLTD=323, PTFA=384, VSRH=387, EAAA=369, NGRR=366, SNOX=271, DHPO=379, YADI=363, ZUHO=367, Pinta_v2.0=122, OLXF=334, GVCB=359, FFFY=339, WPHN=339, YZVJ=268, DUMA=304, EEJO=284, JCXF=192, OSHQ=340, MYZV=374, MHYG=393, YCKE=318, NGTD=350, KKDQ=370, BHYC=367, WNGH=364, HPXA=330, SYHW=281, ZULJ=76, Phypa_v3.0=341, BSNI=281, SLOI=146, BWVJ=126, WCQU=300, XMBA=191, WVWN=373, BOGT=189, PZRT=299, SHEZ=124, ZJUL=337, NXTS=323, IKIZ=139, ZSGF=386, ZDIZ=267, MQIV=382, HYHN=155, MFTM=387, EGNB=157, ETGN=144, ACRY=151, KFZY=344, VFYZ=330, IZGN=343, XBKS=365, YRHD=388, KUXM=282, ROWR=357, KBRW=318, NVSO=355, RMVB=221, VZCI=382, MWXT=168, AJAU=260, RVGH=386, HJMP=382, LNIL=148, LLEN=133, JHCN=335, UHBY=363, SYJM=275, VIAU=239, UJGI=377, LAPO=283, ROZZ=119, EEMJ=315, YIXP=332, YEPO=356, TORX=353, EGOS=375, SUAK=382, DUNJ=353, OSIP=260, WRPP=381, PCGJ=379, IXEM=329, XMCL=234, GGJD=337, RCAH=314, IOVS=342, YRMA=201, GIPR=299, DHWX=315, DUQG=360, MFYC=208, FYSJ=291, GEHT=355, Prupe_v1.0=395, OQHZ=343, TVCU=240, IZLO=379, UYFR=86, YPIC=344, WRSL=281, PIVW=366, ACWS=358, UYED=340, RCBT=355, LRRR=366, MWYQ=334, EVOD=370, ULKT=278, VIBO=372, RMWJ=109, BUWV=371, KZED=243, GIOY=159, PRFO=292, PIUF=352, SWGX=324, RGKI=343, OODC=256, CRNC=339, HFIK=198, FHST=367, OFUE=182, BOLZ=358, VKJD=394, FYUH=309, WLIC=310, NNGU=340, JLOV=91, CPKP=343, CTSS=188, EZZT=350, PRIQ=253, TOXE=359, KMNX=136, BSTR=357, GTHK=344, FUMQ=346, FFPD=340, LTZF=342, ATYL=366, RZTJ=326, VMNH=335, IZNU=318, UAXP=378, LRTN=259, JHFI=344, DDRL=363, XSSD=388, ERIA=291, PTLU=346, OSMU=361, MFZO=349, CPLT=311, QFND=141, FYTP=341, AJFN=374, YNFJ=330, KBXS=276, BMIF=346, XMGP=303, GCFE=365, OFTV=320, ENAU=114, KVAY=334, JPYU=322, CAPN=243, BZDF=375, OMDH=335, PCNH=377, IXLH=352, BMJR=351, ANON=209, XQRV=374, FQGQ=311, UWFU=353, TCBC=313, SSDU=380, GRFT=356, JWGT=248, WCZB=294, NPND=166, BSVG=372, IIOL=378, SFKQ=358, ARYD=363, JWEY=322, TZNS=362, NNHQ=200, JNUB=326, QWRA=211, APTP=200, FDMM=315, Chlre_v5.5=354, TXMP=344, ZFXU=258, PXYR=342, BXBF=235, BIDT=363, AAXJ=386, JSAG=313, NCVK=223, QYXY=297, LWCK=374, DFYF=363, BXAY=353, JYMN=338, SLYR=357, IRBN=368, CAQZ=316, GIWN=357, ZBPY=344, SWOH=258, CPOC=326, RTLC=140, QSKP=353, JNVS=359, XQSG=378, XOOE=149, OBPL=384, VQYB=358, IRAF=380, DWZT=119, KIIX=353, MMKU=333, Chlva_v1.0=315, FUPX=348, QSLH=363, IEHF=131, TGKW=294, AJJE=245, UHJR=200, UPZX=343, IMZV=370, XSZI=357, NHAG=326, HBGV=175, RNAT=247, RTMU=275, DMIN=365, DSUV=351, RTNA=368, HBHB=305, TGNL=207, NATT=105, NPRL=257, KVFU=375, VGHH=379, IKWM=140, MXDS=248, CTYH=314, OQON=228, SQCF=322, UFHF=361, LWDA=377, WAXR=350, ZMGN=366, PLBZ=355, ZSSR=384, QURC=313, AYIY=353, LNSF=337, UHLI=351, QSNJ=388, KTAR=361, WFBF=336, SWPE=349, FSQE=167, NHCM=226, NRWZ=324, ZQRI=350, RPGL=272, CJGZ=339, IADP=236, LLQV=332, MXFG=337, Ambtr_v1.0.27=397, GGWH=285, OBUY=118, KEGA=358, EJBY=338, NRXL=383, YLJA=364, WYIG=313, AUDE=370, OBTI=379, XQWC=373, ECTD=359, FQLP=220, RNBN=339, NAUM=343, VXKB=355, UFJN=376, GRKU=313, QUTB=384, NNOK=369, DKFZ=316, KGJF=350, KEFD=344, UUHD=325, ZBTA=379, WJLO=342, MZLD=370, VMXJ=368, AYMT=275, BMSE=347, TZWR=351, HWUP=325, CLMX=320, ZZEI=320, UUJS=366, PEZP=379, ZBVT=376, UWOD=323, HHXJ=185, GAMH=377, LHLE=360, XGFU=381, UQCB=323, Phavu_v1.0=393, LJPN=121, BILC=183, AWJM=329, ALUC=347, EJCM=378, CLNU=365, UDHA=342, DMLT=379, UJTT=348, ULXR=182, GETL=370, XMQO=294, TIUZ=383, HUQC=314, IXVJ=346, TPEM=369, PPQR=336, FOMH=187, YJJY=345, ZQVF=373, VKVG=134, HUSX=325, NJLF=355, IGUH=372, UJWU=281, DBYD=152, TNAW=274, TXVB=359, GAON=273, OOSO=382, QIAD=244, XKPS=260, XXHP=376, HYZL=363, SDPC=226, AYPS=207, WDCW=337, CNTZ=83, PPPZ=309, GANB=267, Arath_TAIR10=385, LJQF=163, QDVW=371, SBLT=145, GTSV=146, BKQU=365, XZME=379, TAGM=335, ALVQ=315, EATP=299, YHFG=356, LDEL=375, AUGV=384, BCAA=364, IEPQ=375, VXOD=351, HDSY=378, AUIP=368, IAJW=367, XMVD=386, YNUE=373, SOHV=294, Musac_v1.0=365, NHIX=226, GRRW=273, LLXJ=189, WDGV=302, JJZR=137, Mimgu_v2.0=390, ABCD=329, PAWA=375, ENQF=342, RAPY=175, BEFC=361, VITX=363, DOVJ=250, RTTY=370, DIHD=339, PYDB=138, MZOB=375, MOYY=228, OQWW=311, ZQWM=378, WWKL=227, ERWT=340, USIX=134, JQFK=204, TVSH=389, CLRW=274, WHNV=383, AFLV=336, CJNT=364, EAVM=307, LYPZ=378, BEGM=290, JHUL=362, ADHK=334, ICNN=352, YLPM=329, KADG=285, PHCE=329, HOKG=351, RRSV=155, HQOM=289, BTFM=259, VRGZ=195, OOVX=325, ALZF=246, VZWX=132, AWOI=369, ILBQ=360, YDCQ=91, TTRG=370, VTLJ=311, AJUW=257, RPPC=371, JBLI=246, GYBH=277, ABEH=347, Eucgr_v1.1=391, QIEH=252, XVJB=382, YFGP=352, KXSK=333, QICX=340, OXGJ=369, TPHT=234, FIDQ=156, RCUX=276, BZSH=311, DZLN=321, ZQYU=282, VCIN=259, AHRN=345, SUVN=362, XIRK=381, BCGB=311, PAZJ=317, RPQV=304, XRCX=347, VNAL=112, RHAU=376, JBND=386, ZKPF=174, KRJP=352, GCYL=321, MTHW=375, VVRN=364, PUAN=250, MEKP=360, AWQB=382, CBAE=315, YHLF=314, VVPY=353, UOEL=329, MTGC=330, UBLN=375, HMHL=364, AQFM=357, JDQB=382, HDWF=360, Ostlu_v2.0=302, LSHT=271, LFOG=361, TLCA=354, CDFR=379, Theca_v1.1=398, YSBD=119, EFCZ=376, MIRS=304, BEKN=369, AFPO=358, IANR=386, VGSX=384, PYHZ=355, SIBR=355, JKAA=306, LSKK=336, WSJO=316, WBIB=381, VGVI=340, JOIS=107, GNPX=357, XZUY=340, AQGE=364, XPBC=362, QKMG=351, NWMY=273, DZQM=387, FXGI=316, ZINQ=374, RAWF=269, TRRQ=372, YLWW=260, AFQQ=324, PUCW=368, ABIJ=292, GNQG=347, JDTY=348, HQRJ=393, WWQZ=357, XISJ=299, MTII=329, XKWQ=147, RPRU=303, ZXJO=334, DZPJ=247, FGDU=352, WOBD=378, EYKJ=375, LDME=235, BVOF=380, XPAF=328, HBUQ=342, LSJW=347, FZJL=379, ZZOL=281, DCCI=375, OINM=337, YYPE=392, MCHJ=270, EDBB=377, JUWL=345, ASMV=360, ZCDJ=384, UDUT=289, YJUG=274, XIVI=199, DCDT=377, VALZ=199, HXCD=348, OMYK=358, SMMC=357, DXOU=241, GYFU=349, BAHE=335, HIDG=165, WWSS=329, OVIJ=328, JOJQ=366, PUDI=375, FXHG=282, RFAD=112, MKZR=305, GJIY=244, RJIM=377, KCPT=346, DAAD=270, GNRI=367, TEZA=335, YWNF=361, FIKG=187, FOYQ=232, COAQ=380, TJES=346, PWKQ=143, IYDF=357, GUBD=264, FMVB=273, PNZO=300, DXQW=317, SBZH=336, WOGB=369, KJAA=343, LDRY=171, QKQO=378, OEKO=371, MVSE=296, YQEC=311, Poptr_v3.0=316, SXCE=308, BNCU=360, QIKZ=367, VVVV=360, EDEQ=379, DZTK=340, FEDW=253, LQJY=384, MVRF=356, MIXZ=326, EHNF=373, QOXT=328, CFRN=272, DRFX=177, TAVP=342, QMWB=349, BAKF=100, EDHN=395, HKMQ=280, COCP=249, EYRD=377, WBOD=366, FMWZ=378, GJNX=357, FZQN=315, WQML=379, BNDE=345, XRLM=364, BAJW=152, YUOM=366, JKHA=209, THDM=331, IRYH=257, BERS=350, KEYW=306, RJNQ=306, KTWL=350, YFQX=386, COBX=355, SIIK=357, UOMY=365, NHUA=380, ZTHV=355, MNCB=251, FCBJ=328, XVRU=339, BLAJ=327, TCYS=314, IHCQ=239, BGXB=335, WSPM=327, ZACW=376, XTON=186, RYJX=246, WOHL=264, VTUS=369, MRKX=346, CBJR=379, PJSX=391, FCCA=379, MGVU=335, HVBQ=338, THEW=178, GHLP=381, FCEL=321, OPDF=314, AKCR=304, EQDA=346, NMAK=153, YQIJ=248, ZIWB=220, IPWB=258, DRIL=347, JSZD=261, OAGK=383, LBRP=189, IAYV=75, PSHB=315, ZIVZ=204, MROH=305, KNMB=378, ZENX=341, DRGY=236, XXYA=357, OAEZ=242, KLGF=345, EFMS=360, ZGQD=311, EDIT=388, BGZG=325, INQX=352, Selmo_v1.0=369, SKNL=238, KYAD=397, IRZA=126, QEHE=361, BPKH=367, MCPK=195, GJPF=289, JGAB=379, YBML=338, Betvu_v1.1=372, PQED=239, RSCE=384, WDWX=276, ONBE=289, CBNG=185, TJLC=382, RWKR=309, VNMY=372, SKQD=357, BTTS=339, SMUR=257, Vitvi_Genoscope.12X=396, THHD=387, SCAO=287, QACK=357, QCGM=359, AZBL=359, ABSS=330, INSP=319, KRUQ=364, WKCY=382, VJDZ=307, Klefl_v1.0=390, DTNC=380, HXJE=274, ZTLR=309, HILW=387, SILJ=346, ZRIN=325, NBMW=366, GLVK=368, ORJE=335, VJED=161, CUTE=369, DPFW=174, JKKI=207, CMCY=357, NWWI=281, DESP=372, AXAF=160, Elagu_v2.0=285, HEGQ=338, RUIF=224, CMEQ=373, IHJY=153, DLAI=300, MAQO=375, GYRP=229, NFXV=272, KAWQ=356, YSQT=287, QTJY=335, PSKY=263, FGRF=369, FPCO=369, CQMG=304, VYER=193, CWYJ=359, KPUM=364, OTQG=145, DGXS=353, NSPR=242, WQRD=341, VYDM=306, YHZW=367, PSJT=315, FCHS=270, IJMT=245, QVMR=312, IDAU=350, ORKS=365, CWZU=331, NMDZ=337, CMFF=238, KPTE=385, SZPD=374, JVBR=374, PWSG=352, BRUD=301, VLNB=383, WQUF=379, QZXQ=323, UVDC=318, RFMZ=350, WMLW=315, WZFE=378, YSRZ=369, SCEB=368, VYGG=248, KAYP=79, YBQN=333, QPDY=344, XNLP=379, JMTE=187, YFZK=350, CSSK=335, EMBR=358, ZETY=371, AXBO=153, GDKK=323, DVXD=364, SXML=369, OXYP=335, JKNQ=325, JEBK=150, QXSZ=197, CQPW=330, YMES=379, HTFH=268, CKDK=363, XLGK=378, EMAL=349, NDUV=377, ZRMT=325, Spipo_v2=398, JGGD=194, IWIS=340, NOKI=365, NMGG=372, Micpu_v3.0=328, ASZK=186, QZZU=389, MNNM=210, WIGA=266, EWXK=315, UOYN=367, UMUL=362, CSUV=334, AIGO=368, LKKX=370, QXWF=317, BHBK=271, BCYF=110, CQQP=186, HTIP=343, FAJB=271, CIAC=314, RQFE=279, XTZO=360, IDGE=317, KFEB=276, IHOI=123, NUZN=322, PFUD=213, NSTT=215, Chabr_v0.1=318, GUMF=372, GBGT=241, XRTZ=287, TSBQ=192, HABV=141, PDQH=376, HZTS=362, JMUI=200, KYIO=191, TJQY=330, ZPKK=217, BPSG=355, VAZE=323, DVYE=270, RFRB=222, AQZD=332, RHVC=265, HAEU=370, YKFU=311, Orysa_v7.0=385, FNEN=357, VFFP=389, SKYV=336, WGET=321, FALI=384, WEAC=375, HENI=355, ZCUA=371, AOUJ=243, QCOU=341, KDCH=307, SZUO=322, OCTM=357, LGDQ=296, KWGC=330, HVNO=273, OLES=368, IHPC=385, XJGM=178, MWAN=142, FAKD=342, VDAO=153, UGJI=256, IFLI=318, IWMW=360, VHIJ=169, XAXW=130, ONLQ=384, UKUC=251, KYNE=331, NKIN=352, ROEI=308, ISHC=257, FROP=283, VJPU=367, SZYG=292, OCWZ=326, XAYK=377, OHAE=348, ZYAX=342, MHGD=388, CIEA=351, FVXD=296, GFUR=235, VYLQ=394, JMXW=303, HKZW=330, RFSD=309, DHAW=238, STKJ=227, FTRP=127, BJKT=338, RDOO=363, BAZF=297, ISGT=153, HGSM=300, FAMO=299, EDXZ=363, NIGS=324, WMUK=374, URDJ=369, HNCF=360, EMJJ=384, ZYCD=285, JTIG=292, CKKR=332, MFEA=119, WEEQ=288, XHHU=369, BNTL=364, JADL=353, JZVE=347, HERT=313, QNGJ=357, WVEF=376, YGAT=248, FRPM=359, UGNK=334, ISIM=259, URCP=356, NBYP=353, CGDN=378, SGTW=260, VFIV=248, XUAB=361, DLJZ=376, YZGX=148, RSOF=130}
+Number of gene trees: 410
+410 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Will attempt to complete bipartitions from X before adding using a distance matrix.
+Building set of clusters (X) from gene trees 
+In the first round of  sampling 400 samples will be taken
+------------
+sample 1 of individual  sampling ...
+------------
+sample 2 of individual  sampling ...
+------------
+sample 3 of individual  sampling ...
+------------
+sample 4 of individual  sampling ...
+------------
+sample 5 of individual  sampling ...
+------------
+sample 6 of individual  sampling ...
+------------
+sample 7 of individual  sampling ...
+------------
+sample 8 of individual  sampling ...
+------------
+sample 9 of individual  sampling ...
+------------
+sample 10 of individual  sampling ...
+------------
+sample 11 of individual  sampling ...
+------------
+sample 12 of individual  sampling ...
+------------
+sample 13 of individual  sampling ...
+------------
+sample 14 of individual  sampling ...
+------------
+sample 15 of individual  sampling ...
+------------
+sample 16 of individual  sampling ...
+------------
+sample 17 of individual  sampling ...
+------------
+sample 18 of individual  sampling ...
+------------
+sample 19 of individual  sampling ...
+------------
+sample 20 of individual  sampling ...
+------------
+sample 21 of individual  sampling ...
+------------
+sample 22 of individual  sampling ...
+------------
+sample 23 of individual  sampling ...
+------------
+sample 24 of individual  sampling ...
+------------
+sample 25 of individual  sampling ...
+------------
+sample 26 of individual  sampling ...
+------------
+sample 27 of individual  sampling ...
+------------
+sample 28 of individual  sampling ...
+------------
+sample 29 of individual  sampling ...
+------------
+sample 30 of individual  sampling ...
+------------
+sample 31 of individual  sampling ...
+------------
+sample 32 of individual  sampling ...
+------------
+sample 33 of individual  sampling ...
+------------
+sample 34 of individual  sampling ...
+------------
+sample 35 of individual  sampling ...
+------------
+sample 36 of individual  sampling ...
+------------
+sample 37 of individual  sampling ...
+------------
+sample 38 of individual  sampling ...
+------------
+sample 39 of individual  sampling ...
+------------
+sample 40 of individual  sampling ...
+------------
+sample 41 of individual  sampling ...
+------------
+sample 42 of individual  sampling ...
+------------
+sample 43 of individual  sampling ...
+------------
+sample 44 of individual  sampling ...
+------------
+sample 45 of individual  sampling ...
+------------
+sample 46 of individual  sampling ...
+------------
+sample 47 of individual  sampling ...
+------------
+sample 48 of individual  sampling ...
+------------
+sample 49 of individual  sampling ...
+------------
+sample 50 of individual  sampling ...
+------------
+sample 51 of individual  sampling ...
+------------
+sample 52 of individual  sampling ...
+------------
+sample 53 of individual  sampling ...
+------------
+sample 54 of individual  sampling ...
+------------
+sample 55 of individual  sampling ...
+------------
+sample 56 of individual  sampling ...
+------------
+sample 57 of individual  sampling ...
+------------
+sample 58 of individual  sampling ...
+------------
+sample 59 of individual  sampling ...
+------------
+sample 60 of individual  sampling ...
+------------
+sample 61 of individual  sampling ...
+------------
+sample 62 of individual  sampling ...
+------------
+sample 63 of individual  sampling ...
+------------
+sample 64 of individual  sampling ...
+------------
+sample 65 of individual  sampling ...
+------------
+sample 66 of individual  sampling ...
+------------
+sample 67 of individual  sampling ...
+------------
+sample 68 of individual  sampling ...
+------------
+sample 69 of individual  sampling ...
+------------
+sample 70 of individual  sampling ...
+------------
+sample 71 of individual  sampling ...
+------------
+sample 72 of individual  sampling ...
+------------
+sample 73 of individual  sampling ...
+------------
+sample 74 of individual  sampling ...
+------------
+sample 75 of individual  sampling ...
+------------
+sample 76 of individual  sampling ...
+------------
+sample 77 of individual  sampling ...
+------------
+sample 78 of individual  sampling ...
+------------
+sample 79 of individual  sampling ...
+------------
+sample 80 of individual  sampling ...
+------------
+sample 81 of individual  sampling ...
+------------
+sample 82 of individual  sampling ...
+------------
+sample 83 of individual  sampling ...
+------------
+sample 84 of individual  sampling ...
+------------
+sample 85 of individual  sampling ...
+------------
+sample 86 of individual  sampling ...
+------------
+sample 87 of individual  sampling ...
+------------
+sample 88 of individual  sampling ...
+------------
+sample 89 of individual  sampling ...
+------------
+sample 90 of individual  sampling ...
+------------
+sample 91 of individual  sampling ...
+------------
+sample 92 of individual  sampling ...
+------------
+sample 93 of individual  sampling ...
+------------
+sample 94 of individual  sampling ...
+------------
+sample 95 of individual  sampling ...
+------------
+sample 96 of individual  sampling ...
+------------
+sample 97 of individual  sampling ...
+------------
+sample 98 of individual  sampling ...
+------------
+sample 99 of individual  sampling ...
+------------
+sample 100 of individual  sampling ...
+In second round sampling 1 rounds will be done
+gene tree number 1 is processing..
+gene tree number 2 is processing..
+gene tree number 3 is processing..
+gene tree number 4 is processing..
+gene tree number 5 is processing..
+gene tree number 6 is processing..
+gene tree number 7 is processing..
+gene tree number 8 is processing..
+gene tree number 9 is processing..
+gene tree number 10 is processing..
+gene tree number 11 is processing..
+gene tree number 12 is processing..
+gene tree number 13 is processing..
+gene tree number 14 is processing..
+gene tree number 15 is processing..
+gene tree number 16 is processing..
+gene tree number 17 is processing..
+gene tree number 18 is processing..
+gene tree number 19 is processing..
+gene tree number 20 is processing..
+gene tree number 21 is processing..
+gene tree number 22 is processing..
+gene tree number 23 is processing..
+gene tree number 24 is processing..
+gene tree number 25 is processing..
+gene tree number 26 is processing..
+gene tree number 27 is processing..
+gene tree number 28 is processing..
+gene tree number 29 is processing..
+gene tree number 30 is processing..
+gene tree number 31 is processing..
+gene tree number 32 is processing..
+gene tree number 33 is processing..
+gene tree number 34 is processing..
+gene tree number 35 is processing..
+gene tree number 36 is processing..
+gene tree number 37 is processing..
+gene tree number 38 is processing..
+gene tree number 39 is processing..
+gene tree number 40 is processing..
+gene tree number 41 is processing..
+gene tree number 42 is processing..
+gene tree number 43 is processing..
+gene tree number 44 is processing..
+gene tree number 45 is processing..
+gene tree number 46 is processing..
+gene tree number 47 is processing..
+gene tree number 48 is processing..
+gene tree number 49 is processing..
+gene tree number 50 is processing..
+gene tree number 51 is processing..
+gene tree number 52 is processing..
+gene tree number 53 is processing..
+gene tree number 54 is processing..
+gene tree number 55 is processing..
+gene tree number 56 is processing..
+gene tree number 57 is processing..
+gene tree number 58 is processing..
+gene tree number 59 is processing..
+gene tree number 60 is processing..
+gene tree number 61 is processing..
+gene tree number 62 is processing..
+gene tree number 63 is processing..
+gene tree number 64 is processing..
+gene tree number 65 is processing..
+gene tree number 66 is processing..
+gene tree number 67 is processing..
+gene tree number 68 is processing..
+gene tree number 69 is processing..
+gene tree number 70 is processing..
+gene tree number 71 is processing..
+gene tree number 72 is processing..
+gene tree number 73 is processing..
+gene tree number 74 is processing..
+gene tree number 75 is processing..
+gene tree number 76 is processing..
+gene tree number 77 is processing..
+gene tree number 78 is processing..
+gene tree number 79 is processing..
+gene tree number 80 is processing..
+gene tree number 81 is processing..
+gene tree number 82 is processing..
+gene tree number 83 is processing..
+gene tree number 84 is processing..
+gene tree number 85 is processing..
+gene tree number 86 is processing..
+gene tree number 87 is processing..
+gene tree number 88 is processing..
+gene tree number 89 is processing..
+gene tree number 90 is processing..
+gene tree number 91 is processing..
+gene tree number 92 is processing..
+gene tree number 93 is processing..
+gene tree number 94 is processing..
+gene tree number 95 is processing..
+gene tree number 96 is processing..
+gene tree number 97 is processing..
+gene tree number 98 is processing..
+gene tree number 99 is processing..
+gene tree number 100 is processing..
+gene tree number 101 is processing..
+gene tree number 102 is processing..
+gene tree number 103 is processing..
+gene tree number 104 is processing..
+gene tree number 105 is processing..
+gene tree number 106 is processing..
+gene tree number 107 is processing..
+gene tree number 108 is processing..
+gene tree number 109 is processing..
+gene tree number 110 is processing..
+gene tree number 111 is processing..
+gene tree number 112 is processing..
+gene tree number 113 is processing..
+gene tree number 114 is processing..
+gene tree number 115 is processing..
+gene tree number 116 is processing..
+gene tree number 117 is processing..
+gene tree number 118 is processing..
+gene tree number 119 is processing..
+gene tree number 120 is processing..
+gene tree number 121 is processing..
+gene tree number 122 is processing..
+gene tree number 123 is processing..
+gene tree number 124 is processing..
+gene tree number 125 is processing..
+gene tree number 126 is processing..
+gene tree number 127 is processing..
+gene tree number 128 is processing..
+gene tree number 129 is processing..
+gene tree number 130 is processing..
+gene tree number 131 is processing..
+gene tree number 132 is processing..
+gene tree number 133 is processing..
+gene tree number 134 is processing..
+gene tree number 135 is processing..
+gene tree number 136 is processing..
+gene tree number 137 is processing..
+gene tree number 138 is processing..
+gene tree number 139 is processing..
+gene tree number 140 is processing..
+gene tree number 141 is processing..
+gene tree number 142 is processing..
+gene tree number 143 is processing..
+gene tree number 144 is processing..
+gene tree number 145 is processing..
+gene tree number 146 is processing..
+gene tree number 147 is processing..
+gene tree number 148 is processing..
+gene tree number 149 is processing..
+gene tree number 150 is processing..
+gene tree number 151 is processing..
+gene tree number 152 is processing..
+gene tree number 153 is processing..
+gene tree number 154 is processing..
+gene tree number 155 is processing..
+gene tree number 156 is processing..
+gene tree number 157 is processing..
+gene tree number 158 is processing..
+gene tree number 159 is processing..
+gene tree number 160 is processing..
+gene tree number 161 is processing..
+gene tree number 162 is processing..
+gene tree number 163 is processing..
+gene tree number 164 is processing..
+gene tree number 165 is processing..
+gene tree number 166 is processing..
+gene tree number 167 is processing..
+gene tree number 168 is processing..
+gene tree number 169 is processing..
+gene tree number 170 is processing..
+gene tree number 171 is processing..
+gene tree number 172 is processing..
+gene tree number 173 is processing..
+gene tree number 174 is processing..
+gene tree number 175 is processing..
+gene tree number 176 is processing..
+gene tree number 177 is processing..
+gene tree number 178 is processing..
+gene tree number 179 is processing..
+gene tree number 180 is processing..
+gene tree number 181 is processing..
+gene tree number 182 is processing..
+gene tree number 183 is processing..
+gene tree number 184 is processing..
+gene tree number 185 is processing..
+gene tree number 186 is processing..
+gene tree number 187 is processing..
+gene tree number 188 is processing..
+gene tree number 189 is processing..
+gene tree number 190 is processing..
+gene tree number 191 is processing..
+gene tree number 192 is processing..
+gene tree number 193 is processing..
+gene tree number 194 is processing..
+gene tree number 195 is processing..
+gene tree number 196 is processing..
+gene tree number 197 is processing..
+gene tree number 198 is processing..
+gene tree number 199 is processing..
+gene tree number 200 is processing..
+gene tree number 201 is processing..
+gene tree number 202 is processing..
+gene tree number 203 is processing..
+gene tree number 204 is processing..
+gene tree number 205 is processing..
+gene tree number 206 is processing..
+gene tree number 207 is processing..
+gene tree number 208 is processing..
+gene tree number 209 is processing..
+gene tree number 210 is processing..
+gene tree number 211 is processing..
+gene tree number 212 is processing..
+gene tree number 213 is processing..
+gene tree number 214 is processing..
+gene tree number 215 is processing..
+gene tree number 216 is processing..
+gene tree number 217 is processing..
+gene tree number 218 is processing..
+gene tree number 219 is processing..
+gene tree number 220 is processing..
+gene tree number 221 is processing..
+gene tree number 222 is processing..
+gene tree number 223 is processing..
+gene tree number 224 is processing..
+gene tree number 225 is processing..
+gene tree number 226 is processing..
+gene tree number 227 is processing..
+gene tree number 228 is processing..
+gene tree number 229 is processing..
+gene tree number 230 is processing..
+gene tree number 231 is processing..
+gene tree number 232 is processing..
+gene tree number 233 is processing..
+gene tree number 234 is processing..
+gene tree number 235 is processing..
+gene tree number 236 is processing..
+gene tree number 237 is processing..
+gene tree number 238 is processing..
+gene tree number 239 is processing..
+gene tree number 240 is processing..
+gene tree number 241 is processing..
+gene tree number 242 is processing..
+gene tree number 243 is processing..
+gene tree number 244 is processing..
+gene tree number 245 is processing..
+gene tree number 246 is processing..
+gene tree number 247 is processing..
+gene tree number 248 is processing..
+gene tree number 249 is processing..
+gene tree number 250 is processing..
+gene tree number 251 is processing..
+gene tree number 252 is processing..
+gene tree number 253 is processing..
+gene tree number 254 is processing..
+gene tree number 255 is processing..
+gene tree number 256 is processing..
+gene tree number 257 is processing..
+gene tree number 258 is processing..
+gene tree number 259 is processing..
+gene tree number 260 is processing..
+gene tree number 261 is processing..
+gene tree number 262 is processing..
+gene tree number 263 is processing..
+gene tree number 264 is processing..
+gene tree number 265 is processing..
+gene tree number 266 is processing..
+gene tree number 267 is processing..
+gene tree number 268 is processing..
+gene tree number 269 is processing..
+gene tree number 270 is processing..
+gene tree number 271 is processing..
+gene tree number 272 is processing..
+gene tree number 273 is processing..
+gene tree number 274 is processing..
+gene tree number 275 is processing..
+gene tree number 276 is processing..
+gene tree number 277 is processing..
+gene tree number 278 is processing..
+gene tree number 279 is processing..
+gene tree number 280 is processing..
+gene tree number 281 is processing..
+gene tree number 282 is processing..
+gene tree number 283 is processing..
+gene tree number 284 is processing..
+gene tree number 285 is processing..
+gene tree number 286 is processing..
+gene tree number 287 is processing..
+gene tree number 288 is processing..
+gene tree number 289 is processing..
+gene tree number 290 is processing..
+gene tree number 291 is processing..
+gene tree number 292 is processing..
+gene tree number 293 is processing..
+gene tree number 294 is processing..
+gene tree number 295 is processing..
+gene tree number 296 is processing..
+gene tree number 297 is processing..
+gene tree number 298 is processing..
+gene tree number 299 is processing..
+gene tree number 300 is processing..
+gene tree number 301 is processing..
+gene tree number 302 is processing..
+gene tree number 303 is processing..
+gene tree number 304 is processing..
+gene tree number 305 is processing..
+gene tree number 306 is processing..
+gene tree number 307 is processing..
+gene tree number 308 is processing..
+gene tree number 309 is processing..
+gene tree number 310 is processing..
+gene tree number 311 is processing..
+gene tree number 312 is processing..
+gene tree number 313 is processing..
+gene tree number 314 is processing..
+gene tree number 315 is processing..
+gene tree number 316 is processing..
+gene tree number 317 is processing..
+gene tree number 318 is processing..
+gene tree number 319 is processing..
+gene tree number 320 is processing..
+gene tree number 321 is processing..
+gene tree number 322 is processing..
+gene tree number 323 is processing..
+gene tree number 324 is processing..
+gene tree number 325 is processing..
+gene tree number 326 is processing..
+gene tree number 327 is processing..
+gene tree number 328 is processing..
+gene tree number 329 is processing..
+gene tree number 330 is processing..
+gene tree number 331 is processing..
+gene tree number 332 is processing..
+gene tree number 333 is processing..
+gene tree number 334 is processing..
+gene tree number 335 is processing..
+gene tree number 336 is processing..
+gene tree number 337 is processing..
+gene tree number 338 is processing..
+gene tree number 339 is processing..
+gene tree number 340 is processing..
+gene tree number 341 is processing..
+gene tree number 342 is processing..
+gene tree number 343 is processing..
+gene tree number 344 is processing..
+gene tree number 345 is processing..
+gene tree number 346 is processing..
+gene tree number 347 is processing..
+gene tree number 348 is processing..
+gene tree number 349 is processing..
+gene tree number 350 is processing..
+gene tree number 351 is processing..
+gene tree number 352 is processing..
+gene tree number 353 is processing..
+gene tree number 354 is processing..
+gene tree number 355 is processing..
+gene tree number 356 is processing..
+gene tree number 357 is processing..
+gene tree number 358 is processing..
+gene tree number 359 is processing..
+gene tree number 360 is processing..
+gene tree number 361 is processing..
+gene tree number 362 is processing..
+gene tree number 363 is processing..
+gene tree number 364 is processing..
+gene tree number 365 is processing..
+gene tree number 366 is processing..
+gene tree number 367 is processing..
+gene tree number 368 is processing..
+gene tree number 369 is processing..
+gene tree number 370 is processing..
+gene tree number 371 is processing..
+gene tree number 372 is processing..
+gene tree number 373 is processing..
+gene tree number 374 is processing..
+gene tree number 375 is processing..
+gene tree number 376 is processing..
+gene tree number 377 is processing..
+gene tree number 378 is processing..
+gene tree number 379 is processing..
+gene tree number 380 is processing..
+gene tree number 381 is processing..
+gene tree number 382 is processing..
+gene tree number 383 is processing..
+gene tree number 384 is processing..
+gene tree number 385 is processing..
+gene tree number 386 is processing..
+gene tree number 387 is processing..
+gene tree number 388 is processing..
+gene tree number 389 is processing..
+gene tree number 390 is processing..
+gene tree number 391 is processing..
+gene tree number 392 is processing..
+gene tree number 393 is processing..
+gene tree number 394 is processing..
+gene tree number 395 is processing..
+gene tree number 396 is processing..
+gene tree number 397 is processing..
+gene tree number 398 is processing..
+gene tree number 399 is processing..
+gene tree number 400 is processing..
+gene tree number 401 is processing..
+gene tree number 402 is processing..
+gene tree number 403 is processing..
+gene tree number 404 is processing..
+gene tree number 405 is processing..
+gene tree number 406 is processing..
+gene tree number 407 is processing..
+gene tree number 408 is processing..
+gene tree number 409 is processing..
+gene tree number 410 is processing..
+Number of clusters added from gene tree 0 in round0 5001
+Number of clusters added from gene tree 1 in round0 6213
+Number of clusters added from gene tree 2 in round0 7205
+Number of clusters added from gene tree 3 in round0 8117
+Number of clusters added from gene tree 4 in round0 9259
+Number of clusters added from gene tree 5 in round0 10089
+Number of clusters added from gene tree 6 in round0 10745
+Number of clusters added from gene tree 7 in round0 11617
+Number of clusters added from gene tree 8 in round0 12163
+Number of clusters added from gene tree 9 in round0 12953
+Number of clusters added from gene tree 10 in round0 13469
+Number of clusters added from gene tree 11 in round0 14515
+Number of clusters added from gene tree 12 in round0 15243
+Number of clusters added from gene tree 13 in round0 15713
+Number of clusters added from gene tree 14 in round0 16389
+Number of clusters added from gene tree 15 in round0 17143
+Number of clusters added from gene tree 16 in round0 17669
+Number of clusters added from gene tree 17 in round0 18149
+Number of clusters added from gene tree 18 in round0 19065
+Number of clusters added from gene tree 19 in round0 19563
+Number of clusters added from gene tree 20 in round0 20335
+Number of clusters added from gene tree 21 in round0 21017
+Number of clusters added from gene tree 22 in round0 21567
+Number of clusters added from gene tree 23 in round0 22099
+Number of clusters added from gene tree 24 in round0 22705
+Number of clusters added from gene tree 25 in round0 23137
+Number of clusters added from gene tree 26 in round0 23397
+Number of clusters added from gene tree 27 in round0 23815
+Number of clusters added from gene tree 28 in round0 24201
+Number of clusters added from gene tree 29 in round0 24927
+Number of clusters added from gene tree 30 in round0 25371
+Number of clusters added from gene tree 31 in round0 26087
+Number of clusters added from gene tree 32 in round0 27133
+Number of clusters added from gene tree 33 in round0 28129
+Number of clusters added from gene tree 34 in round0 28409
+Number of clusters added from gene tree 35 in round0 28959
+Number of clusters added from gene tree 36 in round0 29447
+Number of clusters added from gene tree 37 in round0 29907
+Number of clusters added from gene tree 38 in round0 30499
+Number of clusters added from gene tree 39 in round0 30837
+Number of clusters added from gene tree 40 in round0 31249
+Number of clusters added from gene tree 41 in round0 31769
+Number of clusters added from gene tree 42 in round0 32259
+Number of clusters added from gene tree 43 in round0 33065
+Number of clusters added from gene tree 44 in round0 33731
+Number of clusters added from gene tree 45 in round0 34431
+Number of clusters added from gene tree 46 in round0 34901
+Number of clusters added from gene tree 47 in round0 35473
+Number of clusters added from gene tree 48 in round0 35793
+Number of clusters added from gene tree 49 in round0 36513
+Number of clusters added from gene tree 50 in round0 37061
+Number of clusters added from gene tree 51 in round0 37361
+Number of clusters added from gene tree 52 in round0 37667
+Number of clusters added from gene tree 53 in round0 38515
+Number of clusters added from gene tree 54 in round0 38931
+Number of clusters added from gene tree 55 in round0 39521
+Number of clusters added from gene tree 56 in round0 40283
+Number of clusters added from gene tree 57 in round0 41161
+Number of clusters added from gene tree 58 in round0 41617
+Number of clusters added from gene tree 59 in round0 41929
+Number of clusters added from gene tree 60 in round0 42185
+Number of clusters added from gene tree 61 in round0 42625
+Number of clusters added from gene tree 62 in round0 42887
+Number of clusters added from gene tree 63 in round0 43519
+Number of clusters added from gene tree 64 in round0 44473
+Number of clusters added from gene tree 65 in round0 45087
+Number of clusters added from gene tree 66 in round0 45523
+Number of clusters added from gene tree 67 in round0 45849
+Number of clusters added from gene tree 68 in round0 46371
+Number of clusters added from gene tree 69 in round0 46755
+Number of clusters added from gene tree 70 in round0 48001
+Number of clusters added from gene tree 71 in round0 48241
+Number of clusters added from gene tree 72 in round0 48647
+Number of clusters added from gene tree 73 in round0 49229
+Number of clusters added from gene tree 74 in round0 49991
+Number of clusters added from gene tree 75 in round0 50187
+Number of clusters added from gene tree 76 in round0 50781
+Number of clusters added from gene tree 77 in round0 51051
+Number of clusters added from gene tree 78 in round0 51621
+Number of clusters added from gene tree 79 in round0 52163
+Number of clusters added from gene tree 80 in round0 52613
+Number of clusters added from gene tree 81 in round0 53007
+Number of clusters added from gene tree 82 in round0 53883
+Number of clusters added from gene tree 83 in round0 54451
+Number of clusters added from gene tree 84 in round0 55375
+Number of clusters added from gene tree 85 in round0 55969
+Number of clusters added from gene tree 86 in round0 56233
+Number of clusters added from gene tree 87 in round0 57033
+Number of clusters added from gene tree 88 in round0 57473
+Number of clusters added from gene tree 89 in round0 57767
+Number of clusters added from gene tree 90 in round0 58335
+Number of clusters added from gene tree 91 in round0 59161
+Number of clusters added from gene tree 92 in round0 59425
+Number of clusters added from gene tree 93 in round0 60333
+Number of clusters added from gene tree 94 in round0 61063
+Number of clusters added from gene tree 95 in round0 61369
+Number of clusters added from gene tree 96 in round0 61619
+Number of clusters added from gene tree 97 in round0 62643
+Number of clusters added from gene tree 98 in round0 63441
+Number of clusters added from gene tree 99 in round0 64121
+Number of clusters added from gene tree 100 in round0 64267
+Number of clusters added from gene tree 101 in round0 64431
+Number of clusters added from gene tree 102 in round0 64595
+Number of clusters added from gene tree 103 in round0 64939
+Number of clusters added from gene tree 104 in round0 65187
+Number of clusters added from gene tree 105 in round0 65475
+Number of clusters added from gene tree 106 in round0 66553
+Number of clusters added from gene tree 107 in round0 66887
+Number of clusters added from gene tree 108 in round0 67601
+Number of clusters added from gene tree 109 in round0 68201
+Number of clusters added from gene tree 110 in round0 68585
+Number of clusters added from gene tree 111 in round0 68939
+Number of clusters added from gene tree 112 in round0 69239
+Number of clusters added from gene tree 113 in round0 69523
+Number of clusters added from gene tree 114 in round0 69807
+Number of clusters added from gene tree 115 in round0 70003
+Number of clusters added from gene tree 116 in round0 70479
+Number of clusters added from gene tree 117 in round0 71079
+Number of clusters added from gene tree 118 in round0 71815
+Number of clusters added from gene tree 119 in round0 72151
+Number of clusters added from gene tree 120 in round0 72445
+Number of clusters added from gene tree 121 in round0 72631
+Number of clusters added from gene tree 122 in round0 73169
+Number of clusters added from gene tree 123 in round0 73603
+Number of clusters added from gene tree 124 in round0 74107
+Number of clusters added from gene tree 125 in round0 74427
+Number of clusters added from gene tree 126 in round0 74795
+Number of clusters added from gene tree 127 in round0 74965
+Number of clusters added from gene tree 128 in round0 75661
+Number of clusters added from gene tree 129 in round0 76085
+Number of clusters added from gene tree 130 in round0 76443
+Number of clusters added from gene tree 131 in round0 76883
+Number of clusters added from gene tree 132 in round0 77195
+Number of clusters added from gene tree 133 in round0 77591
+Number of clusters added from gene tree 134 in round0 77807
+Number of clusters added from gene tree 135 in round0 78473
+Number of clusters added from gene tree 136 in round0 79237
+Number of clusters added from gene tree 137 in round0 79651
+Number of clusters added from gene tree 138 in round0 79969
+Number of clusters added from gene tree 139 in round0 80289
+Number of clusters added from gene tree 140 in round0 80403
+Number of clusters added from gene tree 141 in round0 80641
+Number of clusters added from gene tree 142 in round0 81063
+Number of clusters added from gene tree 143 in round0 81551
+Number of clusters added from gene tree 144 in round0 81875
+Number of clusters added from gene tree 145 in round0 82093
+Number of clusters added from gene tree 146 in round0 82935
+Number of clusters added from gene tree 147 in round0 83143
+Number of clusters added from gene tree 148 in round0 83431
+Number of clusters added from gene tree 149 in round0 83753
+Number of clusters added from gene tree 150 in round0 85073
+Number of clusters added from gene tree 151 in round0 85247
+Number of clusters added from gene tree 152 in round0 85531
+Number of clusters added from gene tree 153 in round0 86473
+Number of clusters added from gene tree 154 in round0 86689
+Number of clusters added from gene tree 155 in round0 86913
+Number of clusters added from gene tree 156 in round0 87385
+Number of clusters added from gene tree 157 in round0 87729
+Number of clusters added from gene tree 158 in round0 87989
+Number of clusters added from gene tree 159 in round0 88355
+Number of clusters added from gene tree 160 in round0 88907
+Number of clusters added from gene tree 161 in round0 89317
+Number of clusters added from gene tree 162 in round0 89499
+Number of clusters added from gene tree 163 in round0 90261
+Number of clusters added from gene tree 164 in round0 90979
+Number of clusters added from gene tree 165 in round0 91367
+Number of clusters added from gene tree 166 in round0 91665
+Number of clusters added from gene tree 167 in round0 92321
+Number of clusters added from gene tree 168 in round0 92543
+Number of clusters added from gene tree 169 in round0 92919
+Number of clusters added from gene tree 170 in round0 93355
+Number of clusters added from gene tree 171 in round0 93937
+Number of clusters added from gene tree 172 in round0 94351
+Number of clusters added from gene tree 173 in round0 94785
+Number of clusters added from gene tree 174 in round0 95429
+Number of clusters added from gene tree 175 in round0 96083
+Number of clusters added from gene tree 176 in round0 96813
+Number of clusters added from gene tree 177 in round0 97975
+Number of clusters added from gene tree 178 in round0 98389
+Number of clusters added from gene tree 179 in round0 98677
+Number of clusters added from gene tree 180 in round0 99159
+Number of clusters added from gene tree 181 in round0 99443
+Number of clusters added from gene tree 182 in round0 100057
+Number of clusters added from gene tree 183 in round0 100215
+Number of clusters added from gene tree 184 in round0 100521
+Number of clusters added from gene tree 185 in round0 100799
+Number of clusters added from gene tree 186 in round0 101053
+Number of clusters added from gene tree 187 in round0 102353
+Number of clusters added from gene tree 188 in round0 102733
+Number of clusters added from gene tree 189 in round0 103055
+Number of clusters added from gene tree 190 in round0 103389
+Number of clusters added from gene tree 191 in round0 103763
+Number of clusters added from gene tree 192 in round0 104077
+Number of clusters added from gene tree 193 in round0 104691
+Number of clusters added from gene tree 194 in round0 104967
+Number of clusters added from gene tree 195 in round0 105077
+Number of clusters added from gene tree 196 in round0 105901
+Number of clusters added from gene tree 197 in round0 106375
+Number of clusters added from gene tree 198 in round0 106587
+Number of clusters added from gene tree 199 in round0 106879
+Number of clusters added from gene tree 200 in round0 107015
+Number of clusters added from gene tree 201 in round0 107325
+Number of clusters added from gene tree 202 in round0 108095
+Number of clusters added from gene tree 203 in round0 108273
+Number of clusters added from gene tree 204 in round0 109083
+Number of clusters added from gene tree 205 in round0 109249
+Number of clusters added from gene tree 206 in round0 109409
+Number of clusters added from gene tree 207 in round0 109653
+Number of clusters added from gene tree 208 in round0 110083
+Number of clusters added from gene tree 209 in round0 110305
+Number of clusters added from gene tree 210 in round0 110953
+Number of clusters added from gene tree 211 in round0 111145
+Number of clusters added from gene tree 212 in round0 111755
+Number of clusters added from gene tree 213 in round0 111861
+Number of clusters added from gene tree 214 in round0 112381
+Number of clusters added from gene tree 215 in round0 112657
+Number of clusters added from gene tree 216 in round0 113433
+Number of clusters added from gene tree 217 in round0 113759
+Number of clusters added from gene tree 218 in round0 114369
+Number of clusters added from gene tree 219 in round0 114779
+Number of clusters added from gene tree 220 in round0 115155
+Number of clusters added from gene tree 221 in round0 115427
+Number of clusters added from gene tree 222 in round0 115615
+Number of clusters added from gene tree 223 in round0 116249
+Number of clusters added from gene tree 224 in round0 116867
+Number of clusters added from gene tree 225 in round0 117527
+Number of clusters added from gene tree 226 in round0 117687
+Number of clusters added from gene tree 227 in round0 118015
+Number of clusters added from gene tree 228 in round0 118477
+Number of clusters added from gene tree 229 in round0 118639
+Number of clusters added from gene tree 230 in round0 118833
+Number of clusters added from gene tree 231 in round0 119501
+Number of clusters added from gene tree 232 in round0 119721
+Number of clusters added from gene tree 233 in round0 120747
+Number of clusters added from gene tree 234 in round0 120969
+Number of clusters added from gene tree 235 in round0 121459
+Number of clusters added from gene tree 236 in round0 121829
+Number of clusters added from gene tree 237 in round0 123095
+Number of clusters added from gene tree 238 in round0 123479
+Number of clusters added from gene tree 239 in round0 124037
+Number of clusters added from gene tree 240 in round0 124743
+Number of clusters added from gene tree 241 in round0 125155
+Number of clusters added from gene tree 242 in round0 125245
+Number of clusters added from gene tree 243 in round0 125647
+Number of clusters added from gene tree 244 in round0 126113
+Number of clusters added from gene tree 245 in round0 126819
+Number of clusters added from gene tree 246 in round0 127265
+Number of clusters added from gene tree 247 in round0 127483
+Number of clusters added from gene tree 248 in round0 128165
+Number of clusters added from gene tree 249 in round0 128417
+Number of clusters added from gene tree 250 in round0 128801
+Number of clusters added from gene tree 251 in round0 129197
+Number of clusters added from gene tree 252 in round0 130061
+Number of clusters added from gene tree 253 in round0 130489
+Number of clusters added from gene tree 254 in round0 131199
+Number of clusters added from gene tree 255 in round0 131453
+Number of clusters added from gene tree 256 in round0 131699
+Number of clusters added from gene tree 257 in round0 132031
+Number of clusters added from gene tree 258 in round0 132427
+Number of clusters added from gene tree 259 in round0 132677
+Number of clusters added from gene tree 260 in round0 132903
+Number of clusters added from gene tree 261 in round0 133135
+Number of clusters added from gene tree 262 in round0 133569
+Number of clusters added from gene tree 263 in round0 133819
+Number of clusters added from gene tree 264 in round0 134143
+Number of clusters added from gene tree 265 in round0 134393
+Number of clusters added from gene tree 266 in round0 134719
+Number of clusters added from gene tree 267 in round0 134947
+Number of clusters added from gene tree 268 in round0 135175
+Number of clusters added from gene tree 269 in round0 135649
+Number of clusters added from gene tree 270 in round0 135943
+Number of clusters added from gene tree 271 in round0 136505
+Number of clusters added from gene tree 272 in round0 138089
+Number of clusters added from gene tree 273 in round0 138319
+Number of clusters added from gene tree 274 in round0 138539
+Number of clusters added from gene tree 275 in round0 139183
+Number of clusters added from gene tree 276 in round0 139445
+Number of clusters added from gene tree 277 in round0 139823
+Number of clusters added from gene tree 278 in round0 140195
+Number of clusters added from gene tree 279 in round0 140697
+Number of clusters added from gene tree 280 in round0 141101
+Number of clusters added from gene tree 281 in round0 141895
+Number of clusters added from gene tree 282 in round0 142681
+Number of clusters added from gene tree 283 in round0 143219
+Number of clusters added from gene tree 284 in round0 143523
+Number of clusters added from gene tree 285 in round0 143997
+Number of clusters added from gene tree 286 in round0 144599
+Number of clusters added from gene tree 287 in round0 144767
+Number of clusters added from gene tree 288 in round0 145039
+Number of clusters added from gene tree 289 in round0 145399
+Number of clusters added from gene tree 290 in round0 145749
+Number of clusters added from gene tree 291 in round0 146079
+Number of clusters added from gene tree 292 in round0 146789
+Number of clusters added from gene tree 293 in round0 147023
+Number of clusters added from gene tree 294 in round0 147213
+Number of clusters added from gene tree 295 in round0 147653
+Number of clusters added from gene tree 296 in round0 147893
+Number of clusters added from gene tree 297 in round0 148377
+Number of clusters added from gene tree 298 in round0 148569
+Number of clusters added from gene tree 299 in round0 149633
+Number of clusters added from gene tree 300 in round0 149795
+Number of clusters added from gene tree 301 in round0 150065
+Number of clusters added from gene tree 302 in round0 150389
+Number of clusters added from gene tree 303 in round0 150907
+Number of clusters added from gene tree 304 in round0 151585
+Number of clusters added from gene tree 305 in round0 151723
+Number of clusters added from gene tree 306 in round0 151951
+Number of clusters added from gene tree 307 in round0 152287
+Number of clusters added from gene tree 308 in round0 152575
+Number of clusters added from gene tree 309 in round0 152877
+Number of clusters added from gene tree 310 in round0 153621
+Number of clusters added from gene tree 311 in round0 154263
+Number of clusters added from gene tree 312 in round0 154837
+Number of clusters added from gene tree 313 in round0 155141
+Number of clusters added from gene tree 314 in round0 155971
+Number of clusters added from gene tree 315 in round0 156239
+Number of clusters added from gene tree 316 in round0 156449
+Number of clusters added from gene tree 317 in round0 156897
+Number of clusters added from gene tree 318 in round0 157239
+Number of clusters added from gene tree 319 in round0 157705
+Number of clusters added from gene tree 320 in round0 158481
+Number of clusters added from gene tree 321 in round0 158683
+Number of clusters added from gene tree 322 in round0 159601
+Number of clusters added from gene tree 323 in round0 159975
+Number of clusters added from gene tree 324 in round0 160333
+Number of clusters added from gene tree 325 in round0 160551
+Number of clusters added from gene tree 326 in round0 161105
+Number of clusters added from gene tree 327 in round0 161667
+Number of clusters added from gene tree 328 in round0 161901
+Number of clusters added from gene tree 329 in round0 162025
+Number of clusters added from gene tree 330 in round0 162361
+Number of clusters added from gene tree 331 in round0 162719
+Number of clusters added from gene tree 332 in round0 163129
+Number of clusters added from gene tree 333 in round0 163535
+Number of clusters added from gene tree 334 in round0 163977
+Number of clusters added from gene tree 335 in round0 164193
+Number of clusters added from gene tree 336 in round0 164539
+Number of clusters added from gene tree 337 in round0 164735
+Number of clusters added from gene tree 338 in round0 165439
+Number of clusters added from gene tree 339 in round0 165585
+Number of clusters added from gene tree 340 in round0 165759
+Number of clusters added from gene tree 341 in round0 165897
+Number of clusters added from gene tree 342 in round0 166185
+Number of clusters added from gene tree 343 in round0 166603
+Number of clusters added from gene tree 344 in round0 167023
+Number of clusters added from gene tree 345 in round0 167349
+Number of clusters added from gene tree 346 in round0 168087
+Number of clusters added from gene tree 347 in round0 168361
+Number of clusters added from gene tree 348 in round0 168613
+Number of clusters added from gene tree 349 in round0 168821
+Number of clusters added from gene tree 350 in round0 169153
+Number of clusters added from gene tree 351 in round0 169899
+Number of clusters added from gene tree 352 in round0 170235
+Number of clusters added from gene tree 353 in round0 170725
+Number of clusters added from gene tree 354 in round0 172293
+Number of clusters added from gene tree 355 in round0 172485
+Number of clusters added from gene tree 356 in round0 173097
+Number of clusters added from gene tree 357 in round0 173343
+Number of clusters added from gene tree 358 in round0 173783
+Number of clusters added from gene tree 359 in round0 174065
+Number of clusters added from gene tree 360 in round0 175583
+Number of clusters added from gene tree 361 in round0 175797
+Number of clusters added from gene tree 362 in round0 176175
+Number of clusters added from gene tree 363 in round0 176559
+Number of clusters added from gene tree 364 in round0 176885
+Number of clusters added from gene tree 365 in round0 177313
+Number of clusters added from gene tree 366 in round0 177695
+Number of clusters added from gene tree 367 in round0 178885
+Number of clusters added from gene tree 368 in round0 179215
+Number of clusters added from gene tree 369 in round0 179345
+Number of clusters added from gene tree 370 in round0 179509
+Number of clusters added from gene tree 371 in round0 180091
+Number of clusters added from gene tree 372 in round0 180291
+Number of clusters added from gene tree 373 in round0 180619
+Number of clusters added from gene tree 374 in round0 181029
+Number of clusters added from gene tree 375 in round0 181285
+Number of clusters added from gene tree 376 in round0 181811
+Number of clusters added from gene tree 377 in round0 182163
+Number of clusters added from gene tree 378 in round0 182461
+Number of clusters added from gene tree 379 in round0 182675
+Number of clusters added from gene tree 380 in round0 183187
+Number of clusters added from gene tree 381 in round0 183499
+Number of clusters added from gene tree 382 in round0 183641
+Number of clusters added from gene tree 383 in round0 183721
+Number of clusters added from gene tree 384 in round0 184197
+Number of clusters added from gene tree 385 in round0 184817
+Number of clusters added from gene tree 386 in round0 185419
+Number of clusters added from gene tree 387 in round0 185647
+Number of clusters added from gene tree 388 in round0 186337
+Number of clusters added from gene tree 389 in round0 186763
+Number of clusters added from gene tree 390 in round0 186991
+Number of clusters added from gene tree 391 in round0 187543
+Number of clusters added from gene tree 392 in round0 187865
+Number of clusters added from gene tree 393 in round0 188003
+Number of clusters added from gene tree 394 in round0 188561
+Number of clusters added from gene tree 395 in round0 189051
+Number of clusters added from gene tree 396 in round0 189529
+Number of clusters added from gene tree 397 in round0 190237
+Number of clusters added from gene tree 398 in round0 190549
+Number of clusters added from gene tree 399 in round0 190977
+Number of clusters added from gene tree 400 in round0 191423
+Number of clusters added from gene tree 401 in round0 192607
+Number of clusters added from gene tree 402 in round0 192727
+Number of clusters added from gene tree 403 in round0 192991
+Number of clusters added from gene tree 404 in round0 193541
+Number of clusters added from gene tree 405 in round0 194067
+Number of clusters added from gene tree 406 in round0 194891
+Number of clusters added from gene tree 407 in round0 195117
+Number of clusters added from gene tree 408 in round0 195763
+Number of clusters added from gene tree 409 in round0 195991
+------------------------------
+gradient0: 195991
+Number of Clusters after addition by distance: 196023
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:29500
+polytomy size limit : 136
+discarded polytomies:  [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 8, 8, 8, 8, 8, 8, 9, 9, 9, 10, 10, 11, 11, 11, 11, 12, 13, 14, 15, 15, 22, 29, 49, 59, 136]
+Threshold 0.0:
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196023
+Threshold 0.01:
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196023
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196023
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196033
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196041
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196043
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196043
+Threshold 0.02:
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196043
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196043
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196043
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196043
+polytomy of size 6; rounds with additions with at least 5 support: 0; clusters: 196063
+polytomy of size 6; rounds with additions with at least 5 support: 0; clusters: 196085
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196087
+polytomy of size 7; rounds with additions with at least 5 support: 0; clusters: 196171
+Threshold 0.05:
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196171
+polytomy of size 8; rounds with additions with at least 5 support: 0; clusters: 196175
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196175
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196175
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196175
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196175
+polytomy of size 7; rounds with additions with at least 5 support: 0; clusters: 196193
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196193
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196193
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196193
+polytomy of size 8; rounds with additions with at least 5 support: 1; clusters: 196213
+polytomy of size 6; rounds with additions with at least 5 support: 0; clusters: 196213
+polytomy of size 8; rounds with additions with at least 5 support: 0; clusters: 196215
+polytomy of size 13; rounds with additions with at least 5 support: 0; clusters: 196229
+Threshold 0.1:
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196229
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196229
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196229
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196229
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196229
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196231
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196231
+polytomy of size 6; rounds with additions with at least 5 support: 0; clusters: 196231
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196231
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196231
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196231
+polytomy of size 12; rounds with additions with at least 5 support: 0; clusters: 196265
+polytomy of size 9; rounds with additions with at least 5 support: 0; clusters: 196265
+polytomy of size 8; rounds with additions with at least 5 support: 0; clusters: 196265
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196265
+polytomy of size 6; rounds with additions with at least 5 support: 0; clusters: 196265
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196265
+polytomy of size 7; rounds with additions with at least 5 support: 0; clusters: 196265
+polytomy of size 11; rounds with additions with at least 5 support: 0; clusters: 196271
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196271
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196271
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196271
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196271
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196271
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196271
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196271
+polytomy of size 11; rounds with additions with at least 5 support: 0; clusters: 196275
+polytomy of size 22; rounds with additions with at least 5 support: 0; clusters: 196315
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196315
+Threshold 0.2:
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196315
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196315
+polytomy of size 6; rounds with additions with at least 5 support: 0; clusters: 196315
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196315
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196315
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196315
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196315
+polytomy of size 6; rounds with additions with at least 5 support: 0; clusters: 196315
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196315
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196315
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196315
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196315
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196315
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196315
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196315
+polytomy of size 15; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 6; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 7; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 8; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196325
+polytomy of size 10; rounds with additions with at least 5 support: 0; clusters: 196327
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196327
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196327
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196327
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196327
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196327
+polytomy of size 7; rounds with additions with at least 5 support: 0; clusters: 196331
+polytomy of size 29; rounds with additions with at least 5 support: 0; clusters: 196391
+polytomy of size 8; rounds with additions with at least 5 support: 0; clusters: 196391
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196391
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196391
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196391
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196391
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196391
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196391
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196391
+polytomy of size 7; rounds with additions with at least 5 support: 0; clusters: 196391
+polytomy of size 6; rounds with additions with at least 5 support: 0; clusters: 196391
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196391
+polytomy of size 9; rounds with additions with at least 5 support: 0; clusters: 196391
+polytomy of size 49; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+Threshold 0.3333333333333333:
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 7; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 7; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 14; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 6; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 10; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 6; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 9; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 11; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 7; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196421
+polytomy of size 59; rounds with additions with at least 5 support: 0; clusters: 196459
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196459
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196459
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196459
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196459
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196459
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196459
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196459
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196459
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196459
+polytomy of size 11; rounds with additions with at least 5 support: 0; clusters: 196459
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196459
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196459
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196459
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196459
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196459
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196459
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196459
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196459
+polytomy of size 15; rounds with additions with at least 5 support: 0; clusters: 196463
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196463
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196463
+polytomy of size 6; rounds with additions with at least 5 support: 0; clusters: 196463
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196463
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196463
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 196463
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196463
+polytomy of size 7; rounds with additions with at least 5 support: 0; clusters: 196463
+polytomy of size 7; rounds with additions with at least 5 support: 0; clusters: 196463
+polytomy of size 7; rounds with additions with at least 5 support: 0; clusters: 196463
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196463
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196463
+polytomy of size 6; rounds with additions with at least 5 support: 0; clusters: 196463
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196463
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196463
+polytomy of size 6; rounds with additions with at least 5 support: 0; clusters: 196463
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 196463
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196463
+polytomy of size 136; rounds with additions with at least 5 support: 0; clusters: 196499
+polytomy of size 6; rounds with additions with at least 5 support: 0; clusters: 196499
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 196499
+max k is :2
+Number of Clusters after addition by greedy: 196499
+gradient0 in heuristiic: 196499
+partitions formed in 15878.771 secs
+Dynamic Programming starting after 15878.771 secs
+Using tree-based weight calculation.
+Number of quartet trees in the gene trees: 7378118157743
+Size of largest cluster: 1178
+Calculated 100000 weights; time (seconds): 21171
+Calculated 200000 weights; time (seconds): 5285
+Calculated 300000 weights; time (seconds): 5275
+Calculated 400000 weights; time (seconds): 5355
+Calculated 500000 weights; time (seconds): 5436
+Total Number of elements weighted: 521238
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9922465367539601
+Optimization score: 7320912189782
+Optimal tree inferred in 43750.482 secs.
+(CBNG,(LETF,(AJAU,(JIWJ,((GJIY,(KSFK,((LSHT,NQYP),(OQON,(OAEZ,CQQP))))),(KADG,((ALZF,NSTT),(((NATT,YDCQ),(VHIJ,VBLH)),(((GYBH,JTIG),((BAZF,((DVYE,SDPC),(IJMT,((RAWF,ISGT),(VFIV,JMUI))))),(((DZPJ,(MXDS,ENAU)),(FOYQ,(BZSH,(OTQG,((MWAN,PZIF),(VJDZ,(XKWQ,XTON))))))),((VIAU,RUIF),(FXHG,((UTRE,(AOUJ,(LBRP,AJUW))),(((XDLL,OFUE),(IRYH,((QWRA,USIX),(JKKI,(BCYF,(Chlre_v5.5,(IHOI,(KUJU,(ISPU,((RNAT,RYJX),(Volca_v2.0,(JWGT,WRSL)))))))))))),(((ZIVZ,(LNIL,ACRY)),((TSBQ,GFUR),(JRGZ,(VALZ,MULF)))),(((KFEB,GUBD),(ZLQE,(PRIQ,QRTH))),(ZFXU,(SYJM,(UKUC,(RHVC,(WDWX,ZDIZ)))))))))))))),((((PFUD,(MFYC,MNCB)),(JQFK,(BILC,(AKCR,(Chlva_v1.0,EEJO))))),((WCLV,WXRI),((EATP,ZNUM),(NKXU,(GXBM,(QYXY,ETGN)))))),(((RRSV,PUAN),(FMVB,(DUMA,(HVNO,HHXJ)))),(AYPS,(TGNL,((ISIM,MMKU),((EGNB,(JMTE,((TNAW,XIVI),((XOAL,BTFM),((Micpu_v3.0,QXSZ),(Ostlu_v2.0,MCPK)))))),(((QFND,(JKHA,(POOW,PQED))),((Cyame_v1.0,(LLXJ,((JJZR,((RSOF,RTLC),(PVGP,OBUY))),(ZULJ,((VZWX,(YSBD,(UYFR,XAXW))),(((JEBK,(BWVJ,IHJY)),(IEHF,(CKXF,(SBLT,(WEJN,UGPM))))),((PYDB,(URSB,(IKIZ,ZJOJ))),(IKWM,((LJPN,VNAL),(PWKQ,FTRP)))))))))),(((ROZZ,BAKF),(IRZA,IAYV)),(((BAJW,LXRN),(EBWI,(RFAD,(LLEN,(VJED,NMAK))))),((BOGT,(VKVG,DBYD)),(APTP,(LIRF,(((FOMH,(HFIK,FIKG)),(RWXW,(LDRY,(YRMA,(JGGD,VYER))))),(FSQE,((FIDQ,(RAPY,SRSQ)),(ASZK,(QLMZ,(JCXF,(VRGZ,ULXR)))))))))))))),((XMCL,(HYHN,XJGM)),((KYIO,(NNHQ,AZZW)),((BFIK,(FPCO,(Klefl_v1.0,FQLP))),((Chabr_v0.1,MWXT),((DRGY,(QPDY,VQBJ)),((TPHT,((HAOX,((WSJO,WDCW),((YOXI,(VAZE,RPGL)),((HKZW,ZRMT),(JOJQ,(NBYP,MFZO)))))),((FFGR,KMNX),((SNOX,XRTZ),(KEYW,(DRFX,(AEKF,(YSQT,(RPQV,(HIDG,(RQFE,((GYRP,((MNNM,ISHC),(QWFV,(DFDS,GGWH)))),((WCQU,(BHBK,RPRU)),(MCHJ,((GBGT,MOYY),(STKJ,WDGV)))))))))))))))),(((ANON,((BSNI,TWUW),((FAJB,(WCZB,WEEQ)),(AKXB,(UCRN,(TCBC,DXOU)))))),(((HERT,(TXVB,((ILBQ,WJLO),(TFYI,(JPYU,HMHL))))),((PIUF,JHFI),(YFGP,(NRWZ,((HPXA,(TGKW,(BNCU,(KRUQ,UUHD)))),(LGOW,(RTMU,(WZYK,(YBQN,(IRBN,OFTV)))))))))),(SKQD,((GOWD,(RCBT,UHLI)),(WOGB,((HVBQ,(SZYG,ZTHV)),(HRWG,(AWOI,((KEFD,(YEPO,Phypa_v3.0)),(ZQRI,((BPSG,((ABCD,RDOO),((VMXJ,RGKI),(NGTD,(FFPD,GRKU))))),(YWNF,(ORKS,((BGXB,(XWHK,JMXW)),(CMEQ,(WNGH,(DHWX,(QKQO,((IGUH,ZACW),(TAVP,((EEMJ,LNSF),((QMWB,TMAJ),((MIRS,WSPM),(JADL,VBMM)))))))))))))))))))))))),((((ZZEI,((CBAE,GAON),(YHZW,GKAG))),((UPMJ,ULKT),((PQTO,XNXF),(WAFT,ENQF)))),((PKOX,PYHZ),(KUXM,((ZFGK,(JKAA,ZYCD)),(KJYC,((LGDQ,ABIJ),(Selmo_v1.0,ZZOL))))))),(((JVSZ,CAPN),(((DFHO,(UGNK,NHCM)),((QVMR,ALVQ),(DJSE,(EEAQ,BEGM)))),((RFMZ,(UOMY,VIBO)),((MEKP,QIAD),((PBUU,CQPW),((CVEG,KIIX),((GANB,(EWXK,(UWOD,PNZO))),((VVRN,(YIXP,NOKI)),(((PIVW,(UJTT,(FLTD,POPJ))),(WQML,(((NDUV,SKYV),(BMJR,WCLG)),((XDDT,GSXD),(YCKE,(ZXJO,DCDT)))))),(MTGC,(((WGTU,RFRB),((FQGQ,JBLI),(NWWI,(OQWW,(ORJE,(UJWU,(ZQYU,(YLJA,(GYFU,(CJNT,IXLH)))))))))),((KJZG,(BMIF,PSKY)),((HEGQ,(HNDZ,((LHLE,RICC),(YOWV,XXHP)))),(OCZL,(MROH,((YQEC,YJJY),((HTFH,VITX),(FCHS,(UFJN,(URCP,AFPO)))))))))))))))))))),(((SGTW,(XZUY,(WLIC,(GNQG,KAWQ)))),((VDAO,(TOXE,GTHK)),(((GGEA,((VSRH,JUWL),(AQFM,(GAMH,AREG)))),((WVWN,IOVS),(NPRL,(AWQB,(IIOL,(Pinta_v2.0,(DZQM,(JBND,MFTM)))))))),(((XTZO,(RSCE,(MIXZ,ACWS))),(((EGLZ,KLGF),(OWFC,((JRNA,BBDD),(JZVE,(ZQWM,CDFR))))),(QCGM,(MHGD,(HILW,((FMWZ,(IZGN,(ROWR,QHBI))),((SCEB,XLGK),(UUJS,VGSX)))))))),(YFZK,(((IAJW,(EFMS,HQOM)),(NVGZ,((BTTS,YLPM),(ZYAX,WWSS)))),(ZQVF,(QSNJ,((XIRK,(NRXL,(QFAE,HBGV))),((GMHZ,(OXGJ,FHST)),(((ETCJ,(YYPE,OVIJ)),((AUDE,GKCZ),(IFLI,(RMMV,JDQB)))),((VFYZ,NKIN),((UEVI,AIGO),((XMGP,QNGJ),(FRPM,(CGDN,(XQSG,BUWV))))))))))))))))),((URDJ,Ambtr_v1.0.27),((PZRT,WTKZ),((FZJL,(VZCI,NWMY)),((MTII,(((DWZT,(COCP,BYQM)),(Spipo_v2,(MFIN,YMES))),((OCWZ,((QOXT,SILJ),(VBHQ,(DGXS,VVVV)))),((((NSPR,(Elagu_v2.0,(HWUP,HXJE))),((Musac_v1.0,(XHHU,(UOEL,LSKK))),((LEMW,BDJQ),(JNUB,TZNS)))),((BYPY,(PPQR,BRUD)),((CIEA,(XPAF,(PWSG,WBIB))),(BSTR,(WXNT,((Orysa_v7.0,(IADP,RMVB)),(HATH,(((YXNR,EFCZ),(RCAH,YLWW)),((YPIC,(ROEI,Sorbi_v2.1)),(SOHV,((WCOR,XBKS),((ZMGN,BPKH),(NNOK,(BXAY,(XUAB,(VQYB,ZENX)))))))))))))))),(((AFLV,OOSO),((MWYQ,THEW),(GDKK,(QNPH,NHIX)))),((THDM,((JSAG,CNTZ),(MTHW,(XZME,(LELS,VTUS))))),((EMJJ,YJUG),((KYNE,RDYY),(LTZF,(SART,((JVBR,(FCEL,(WTDE,(BLAJ,JHUL)))),((PRFO,((GJPF,KBXS),(TRRQ,((DMIN,ZKPF),(LDME,(JDTY,DPFW)))))),(((IXEM,(SVTS,KOFB)),((PLBZ,CMCY),(KXSK,(ICNN,YBML)))),(MUMD,(FGRF,(ONBE,(MVRF,(LSJW,(TCYS,((RQZP,HOKG),(UZXL,(XFJG,RCUX)))))))))))))))))))))),(((WZFE,OSHQ),(((SJEV,WKSU),((PAWA,QDVW),((CSSK,OPDF),(MUNP,XSZI)))),((OBPL,((WBOD,XQWC),(DHPO,(PSJT,YZRI)))),((FALI,WPHN),((MAQO,WAIL),(BSVG,(KRJP,(VYLQ,(WIGA,(KAYP,(ABSS,BCGB))))))))))),(NPND,((QTJY,((CCID,((WFBF,YHFG),(VGHH,((UPOG,ZUHO),(GBVZ,Aquco_v1.1))))),((NMGG,(AUGV,(ZGQD,UDHA))),(EVOD,((XHKT,XMVD),(IRAF,(SSDU,(BEKN,(RQNK,QCOU))))))))),((AALA,((FAKD,Nelnu_v1.0),(VQFW,(GRRW,(RQUG,SIIK))))),((IWMW,SWOH),((XMQO,EHNF),(((XKPS,(VGVI,((XGFU,RSPO),(QKMG,BSEY)))),((BGZG,(Vitvi_Genoscope.12X,(SZPD,BBBA))),(((HTIP,(FYTP,(NUZN,(YKQR,(HQRJ,OMDH))))),(((IUSR,TOKV),(KWGC,(DRIL,ZJUL))),(UWFU,(SYHW,(FCBJ,((YKFU,(UHBY,CIAC)),((OOVX,CKKR),(ERIA,(SLOI,(DAYQ,CTSS)))))))))),(((VYGG,PTLU),(HDWF,YGCX)),((((AXAF,(OCTM,NNGU)),(((RBYC,(ZHEE,(WVEF,EILE))),(CQMG,((KYAD,(BJSW,AQGE)),((EDHN,XVJB),(WKCY,ACFP))))),((DHAW,(IANR,QNOC)),((SQCF,XFFT),(SXCE,((TJQY,(Prupe_v1.0,NCVK)),(ZPKK,(QIEH,(VCIN,(EAVM,BLVL)))))))))),((TJLC,((SVVG,(HENI,(UZWG,NHUA))),((INSP,DXQW),(LNER,(LWDA,CWZU))))),(OHAE,(OQHZ,((RKLL,(JETM,RKFX)),(((QZXQ,(VHZV,GEHT)),(KZED,(XOOE,(ZCDJ,PJSX)))),(ZSSR,(SLYR,((CMFF,TTRG),(VLNB,((NXOH,(SUAK,(Phavu_v1.0,(TVSH,KEGA)))),(RMWJ,((JTQQ,PEZP),(KNMB,(HJMP,MYMP))))))))))))))),(((ZHMB,(UDUT,KVAY)),((AJJE,((SWGX,WWQZ),((NEBM,FGDU),(Eucgr_v1.1,AYMT)))),((RJNQ,YNUE),(FEDW,(((UJGI,TLCA),(JKNQ,(AXNH,PMTB))),((SJAN,EQYT),(((HKMQ,CJGZ),(DZLN,GVCB)),(((ROLB,IDAU),(ZINQ,BZDF)),((ARYD,IMZV),(KBRW,YHLF)))))))))),(((IHCQ,MFEA),(((RHAU,PXYR),(PAZJ,(VVPY,(XNLP,Manes_v4.1)))),((YGAT,VNMY),((RPPC,ZTLR),((RVGH,(((NJLF,LPGY),(COAQ,(EZZT,(SIZE,ZIWB)))),(Poptr_v3.0,(INQX,(RZTJ,((LFOG,TDTF),(GLVK,(IEPQ,KKDQ)))))))),(((XPBC,(CKDK,TVCU)),((FWCQ,OSIP),(BNDE,NFXV))),((ZBVT,HBUQ),((AXPJ,(KCPT,(TXMP,VXOD))),(HNCF,((MYVH,(POZS,OODC)),(BVOF,(BHYC,AEPI)))))))))))),((JHCN,(TIUZ,(YZVJ,THHD))),((WWKL,(OBTI,((WAXR,(VFFP,HBHB)),((BCAA,(YUOM,(FCCA,JSZD))),(UHJR,((UVDC,RJIM),(QICX,IKFD))))))),(((PUDI,AWJM),((KPTE,(PKMO,WMUK)),(ATFX,(Theca_v1.1,(WYIG,(OLXF,ZSAB)))))),(((MYZV,HYZL),(CZPV,Carpa_ASGPBv0.4)),(CRNC,(DZTK,(JOIS,((SWPE,UAXP),(RTTY,(((QSKP,LVUS),(UPZX,VDKG)),(Arath_TAIR10,((CSUV,(VMNH,IPWB)),(TZWR,(GTSV,(HABV,(LJQF,(LAPO,(BXBF,UVQL))))))))))))))))))))))))),(((WQUF,(FYSJ,WOBD)),(CVDF,(RUUB,(YNFJ,(((RXEN,(TJES,(FZQN,(OLES,(SKNL,SHEZ))))),((WGET,((FVXD,Betvu_v1.1),(SMMC,(CBJR,(AAXJ,ONLQ))))),((WMLW,XSSD),((PDQH,HDSY),(CUTE,((BWRK,ZBPY),(EYRD,OHKC))))))),(((BJKT,(OMYK,(BERS,(GJNX,(HZTS,EDIT))))),((GIWN,(MRKX,BKQU)),((AZBL,SFKQ),(JAFJ,(JGAB,((ZBTA,VJPU),(DVXD,EGOS))))))),((KJAA,(NXTS,(RNBN,SCAO))),(CTYH,(LKKX,((CPKP,JLOV),((UQCB,EZGR),(LLQV,((BYNZ,KDCH),(CPLT,(LDEL,(IWIS,GCYL)))))))))))))))),((QUTB,HAEU),((((VTLJ,(ZETY,QURC)),(VUSY,(BFJL,FWBF))),((BNTL,JEXA),(((YSRZ,(FNEN,WVMY)),((OXYP,(BEFC,WRPP)),(KVFU,(VKJD,(PTFA,(ODDO,DAAD)))))),(NGRR,((JPDJ,(AXBO,(ADHK,UFHF))),((QAUE,HUSX),((LRTN,SERM),(AVJK,(WXVX,PPPZ))))))))),(((((CLNU,CLMX),((ZJRC,HLJG),((CAQZ,GSZA),(JTRM,FFFY)))),(SBZH,((QIKZ,MVSE),((NTEO,SALZ),((OINM,(SUVN,EDBB)),(AJFN,(WEQK,(CWYJ,TQKZ)))))))),((IHPC,IZLO),(FXGI,((AUIP,(TPEM,GIOY)),(IXVJ,(HUQC,(((CFRN,EYKJ),((JNKW,RFSD),(DDRL,(FUPX,(KFZY,KGJF))))),((BMSE,((DUQG,(OAGK,GUMF)),(DOVJ,(XRCX,(TEZA,(DESP,MHYG)))))),(AFQQ,(DUNJ,(UBLN,(BIDT,((AQZD,YRBQ),((LYPZ,(JYMN,UYED)),(NVSO,((QXWF,HXCD),(ZCUA,JEPE))))))))))))))))),(((GIPR,SZUO),(QACK,(DFYF,(ASMV,SXML)))),(QZZU,((((AHRN,(CPOC,((ALUC,(IZNU,ERWT)),((OQBM,(QSLH,NHAG)),((XQRV,VXKB),(EMBR,NAUM)))))),(MKZR,((BOLZ,(OSMU,LWCK)),((AIOU,JNVS),((UGJI,(NMDZ,LQJY)),((GHLP,DLJZ),(Solly_iTAGv2.3,DLAI))))))),((DKFZ,(YQIJ,((EMAL,(SMUR,HANM)),((DIHD,XVRU),(NIGS,(OEKO,((IDGE,OUER),(MDJK,(JWEY,(MZOB,ABEH)))))))))),((WQRD,(ZSGF,(KTWL,PCNH))),((HGSM,(KPUM,ECTD)),(GGJD,((UOYN,QEHE),(MGVU,(EDEQ,(JGYZ,((JCLQ,YFQX),(YADI,DSUV))))))))))),((COBX,(MZLD,(TORX,(KTAR,YZGX)))),((DCCI,(RWKR,DTNC)),((CLRW,((YRHD,XISJ),(GNRI,(PTBJ,YKZB)))),((GDZS,(EJBY,((XXYA,SIBR),(GRFT,XRLM)))),((WOHL,EDXZ),((ZRIN,((HRUR,(MXFG,JCMU)),(PCGJ,(AYIY,(NBMW,WEAC))))),(((GCFE,(PSHB,MQIV)),(TKEK,(UTQR,XAYK))),((Mimgu_v2.0,(UMUL,(OWAS,(EJCM,(VYDM,(FAMO,FROP)))))),((DMLT,((ATYL,(GETL,(EAAA,SNNC))),((UCNM,LRRR),(GNPX,RTNA)))),((BAHE,FYUH),((TAGM,(FDMM,EQDA)),((IYDF,(WHNV,XMBA)),(PHCE,(PUCW,FUMQ))))))))))))))))))))))))))))))))))))))))))))))))))))))))));
+Using tree-based weight calculation.
+Final quartet score is: 7320912189782
+Final normalized quartet score is: 0.9922465367539601
+ASTRAL finished in 61866.914 secs
