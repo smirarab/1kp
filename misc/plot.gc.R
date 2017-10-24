@@ -47,7 +47,9 @@ dev.off()
 quit()
 
 
-pdf("pTpP_GC_box.pdf",width=25,height=10); qplot(reorder(SEQUENCE,value),value,data=fcg,geom="boxplot",xlab="",ylab="GC content",outlier.size=0.4,outlier.alpha=0.1)+ theme_classic() + theme(axis.text.x = element_text(angle=90,size=1.5))+facet_grid(variable~., scales = "free")+scale_x_discrete(labels=function(x) which(levels(reorder(fcg$SEQUENCE,fcg$value))==x)); dev.off()
+pdf("pTpP_p_stddev_box.pdf",width=25,height=10); ggplot(aes(x=reorder(SEQUENCE,value),y=value),data=fcg)+stat_summary(fun.data=mean_sdl,size=.1)+xlab("")+ylab("GC content")+ theme_classic() + theme(axis.text.x = element_text(angle=90,size=1.5))+facet_grid(variable~., scales = "free")+scale_x_discrete(labels=function(x) which(levels(reorder(fcg$SEQUENCE,fcg$value))==x)); dev.off()
+
+pdf("pTpP_GC_box.pdf",width=25,height=10); qplot(reorder(SEQUENCE,value),value,data=fcg,geom="boxplot",xlab="",ylab="GC content",outlier.size=0.4,outlier.alpha=0.1,coef=3)+ theme_classic() + theme(axis.text.x = element_text(angle=90,size=1.5))+facet_grid(variable~., scales = "free")+scale_x_discrete(labels=function(x) which(levels(reorder(fcg$SEQUENCE,fcg$value))==x)); dev.off()
 
 write.csv(file="names.csv",levels(reorder(fcg$SEQUENCE,fcg$value)))
 
