@@ -5,7 +5,7 @@
 #  <input_directory>/<gene_name>/<alignment_filename_prefix>.fasta, and the script
 #  is run from the supermatrix script directory
 #
-#  Run using: perl create_supermatrix.pl <input_directory> <alignment_filename_prefix>
+#  Run using: perl create_supermatrix_fna2aa.pl <input_directory> <alignment_filename_prefix>
 #
 #  Will perform the following steps:
 #
@@ -32,7 +32,6 @@ run_pipeline();
 sub run_pipeline {
   my @dirs = <$input_directory/*>;
   for my $dir (@dirs) {
-    next;
     if (not -e "$dir/$alignment_file_name_prefix.fasta") {
       next;
     }
