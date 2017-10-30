@@ -8,5 +8,6 @@ The following directories include scripts used throughout the paper:
 * hypo-test: these are used to draw support and to test for polytomies on specific branches of interest
 * plastidmap: these are used to map names from plastid trees to the nucl trees
 * stats: these can be used to compute some statistics
+* supermatrix: these are used to create the supermatrices and estimate the supermatrix trees.
 * misc: misc.
 * unused: these are not used as far as we can tell but we deposit for completeness
