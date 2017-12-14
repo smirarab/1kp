@@ -15,5 +15,13 @@ And here is the FAA alignment before even filtering of insertion sites in UPP.
 
 1. [alignments-FAA-unmasked.tar.bz](alignments-FAA-unmasked.tar.bz): The unmasked FAA alignment, one file per gene        
 
+Finally, the supermatrix alignments are:
+
+1. [concat/FAA-upp-masked.fasta.mask10sites.mask33taxa.tar.bz](concat/FAA-upp-masked.fasta.mask10sites.mask33taxa.tar.bz) Concat supermatrix of unfiltered FAA alignment of gene trees.
+2. [concat/FNA2AA-upp-masked-c12.fasta.mask10sites.mask33taxa.tar.bz](concat/FNA2AA-upp-masked-c12.fasta.mask10sites.mask33taxa.tar.bz) Concat supermatrix of unfiltered FNA2AA alignment of gene trees.
+3. [concat/filtered_FAA-upp-masked.fasta.mask10sites.mask33taxa.tar.bz](concat/filtered_FAA-upp-masked.fasta.mask10sites.mask33taxa.tar.bz) Concat supermatrix of FAA alignment of gene trees after removing rouge taxa
+4. [concat/filtered_FNA2AA-upp-masked-c12.fasta.mask10sites.mask33taxa.tar.bz](concat/filtered_FNA2AA-upp-masked-c12.fasta.mask10sites.mask33taxa.tar.bz) Concat supermatrix of FNA2AA alignment of gene trees after removing rouge taxa
+5. [concat/tree_FAA-upp-masked.fasta.mask10sites.mask33taxa.tar.bz](concat/tree_FAA-upp-masked.fasta.mask10sites.mask33taxa.tar.bz) Concat supermatrix of FAA alignment of gene trees of only the eudicot species.
+6. [concat/tree_FNA2AA-upp-masked-c12.fasta.mask10sites.mask33taxa.tar.bz](concat/tree_FNA2AA-upp-masked-c12.fasta.mask10sites.mask33taxa.tar.bz) Concat supermatrix of FNA2AA alignment of gene trees of only the eudicot species.concat/FAA-upp-masked.fasta.mask10sites.mask33taxa.tar.bz](concat/FAA-upp-masked.fasta.mask10sites.mask33taxa.tar.bz) Concat supermatrix of unfiltered FAA alignment of gene trees.
 
 All files are `tar.bz`; thus, you should decompress using `tar xvfj alignments-FAA.tar.bz`
