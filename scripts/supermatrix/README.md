@@ -1,0 +1,4 @@
+- [create_supermatrix_faa.pl](create_supermatrix_faa.pl): creates a supermatrix for FAA files
+- [create_supermatrix_fna2aa.pl](create_supermatrix_fna2aa.pl): creates a supermatrix for FNA2AA files
+- [generate_supermatrix_trees.pl](generate_supermatrix_trees.pl): creates inputs to RAxML
+- [pca_cluster.r](pca_cluster.r): Used to cluster GTR matrix parameters, given [here](../../misc/FNA2AA-upp-masked-c12.fasta.mask10sites.mask33taxa.rates.csv) to several groups. 
