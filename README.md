@@ -1,5 +1,7 @@
 # 1kp
 
+This repository keeps the data and some of the scripts used in the species tree analyses presented in the 1KP paper.
+
 * See [specie strees](speciestrees) for the README on species trees
 * See [gene trees](genetrees) for the gene trees
 * See [alignments](alignments) for the gene and supermatrix alignments
