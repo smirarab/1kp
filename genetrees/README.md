@@ -7,9 +7,9 @@
 
 The following are filtered gene trees and also supergene trees obtained from statistical binning, used in ASTRAL trees shown in Supplementary Figure S10.
 
-- binned/Best.FAA.binned.tre                 
-- binned/Best.FNA2AA-C12.binned.tre          
-- filtered/Best.eudicotrsonly.FAA.tre        
-- filtered/Best.eudicotrsonly.FNA2AA-C12.tre 
-- filtered/Best.removerogoue.FAA.tre
-- filtered/Best.removerogoue.FNA2AA-C12.tre
+- [binned/Best.FAA.binned.tre](binned/Best.FAA.binned.tre)
+- [binned/Best.FNA2AA-C12.binned.tre](binned/Best.FNA2AA-C12.binned.tre)
+- [filtered/Best.eudicotrsonly.FAA.tre](filtered/Best.eudicotrsonly.FAA.tre)
+- [filtered/Best.eudicotrsonly.FNA2AA-C12.tre](filtered/Best.eudicotrsonly.FNA2AA-C12.tre)
+- [filtered/Best.removerogoue.FAA.tre](filtered/Best.removerogoue.FAA.tre)
+- [filtered/Best.removerogoue.FNA2AA-C12.tre](filtered/Best.removerogoue.FNA2AA-C12.tre)
