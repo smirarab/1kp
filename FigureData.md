@@ -9,6 +9,7 @@
 * **Figures S1-S3**: 
   * Nexus file: [nexus](speciestrees/SupFigs1-3-FigTree.tre)
   * Concatenation alignment used in Figure S2 is given [here](FAA-upp-masked.fasta.mask10sites.mask33taxa.tar.bz)
+  * Plastid tree (S3) is given [here](scripts/plastidmap/).
 * **Figure S10**: Generated using DiscoVista, with inputs given [here](speciestrees/parameters/) and outputs given [here](speciestrees/output/).  
 * **Figure S11**: GC contents
    - Drawn using [plot.gc.R](scripts/stats/plot.gc.R)
