@@ -2,7 +2,7 @@ Here, we include the final single-copy alignment files used for gene tree and sp
 
 The following are the alignments after all main filtering steps have been applied. 
 
-1. [alignments-FAA-masked.tar.bz](alignments-FAA-masked.tar.bz) 
+1. [alignments-FAA-masked.tar.bz](alignments-FAA-masked.tar.bz): These are the alignments used in the main results, including Figure 2. 
 2. [alignments-C12-masked.tar.bz](alignments-C12-masked.tar.bz)
 
 These are alignments after the initial filtering steps but before filtering gappy sits and fragmentary sequences
