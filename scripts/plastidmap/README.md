@@ -1,0 +1,4 @@
+- [Platomes_ExaML_toMatchNuc.AA.160725.BestBS100.tre](Platomes_ExaML_toMatchNuc.AA.160725.BestBS100.tre): Nexus plastid tree
+- [nuc-to-plast.txt](nuc-to-plast.txt): mappings names from other trees to plastid
+- [plast-to-nuc.txt](plast-to-nuc.txt): mapping names from plastid tee to other trees
+- [plastid-renamed-withsupport.noUAUU.rerooted.tre](plastid-renamed-withsupport.noUAUU.rerooted.tre): Newick plastid tree
