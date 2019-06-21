@@ -13,8 +13,8 @@ To create the results, you should run:
 Running these commands generates the following files:
 
 * [astral-faa-33-poly.tre](astral-faa-33-poly.tre): The results of the polymy test using the method described by Sayyari and Mirarab, 2019.
-* [astral-faa-33-pos.tre](astral-faa-33-pos.tre): The local posterior probabilities  
-* [astral-faa-33-quart.tre](astral-faa-33-quart.tre): The three quartet frequencies
+* [astral-faa-33-pos.tre](astral-faa-33-pos.tre): The local posterior probabilities for the three alternatives, per branch 
+* [astral-faa-33-quart.tre](astral-faa-33-quart.tre): The three quartet frequencies for the three alternatives, per branch
 
 
 
