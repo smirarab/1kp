@@ -1,4 +1,4 @@
-We made an attempt to make trees restricted to smaller parts of the big tree for enhanced visualization. For 6 groups, we made visually pleasing trees manually, shown here. 
+We made an attempt to make trees restricted to smaller parts of the big tree for enhanced visualization. For 6 groups, Sean Graham made visually pleasing trees manually, shown below:
 
 - [Gymnosperms](Gymnosperms_phylowiki_fig.pdf)
 - [Hornworts](Hornworts_phylowiki_fig.pdf)
