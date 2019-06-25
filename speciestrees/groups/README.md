@@ -7,5 +7,5 @@ We made an attempt to make trees restricted to smaller parts of the big tree for
 - [Monilophytes](Monilophytes_phylowiki_fig.pdf)
 - [Mosses](Mosses_phylowiki_fig.pdf)
 
-For other groups, we used automatic tools to create pdf files that are not quite as visually please but may still prove very useful. We provide here for completeness.
+For other groups, we used automatic tools to create pdf files that are not quite as visually pleasing but may still prove very useful. We provide here for completeness.
 We provide these group-specific pdf files (and the corresponding newick tree) for [ASTRAL](astral), [concatenation](CA), and  [plastid](plastic) analyses. 
