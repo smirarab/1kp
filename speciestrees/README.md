@@ -1,5 +1,7 @@
 * The file [SupFigs1-3-FigTree.tre](SupFigs1-3-FigTree.tre) is a (FigTree compatible) nexus file including the main ASTRAL tree (Figure S1), the main concatenation tree (Figure S2) and the main Plastid tree (Figure S3). Note the tree is not rooted and has to be rooted manually. 
 
+* The [groups](groups) folder includes pdf figures (and newick trees) for individual groups within the larger group
+
 * In addition, we provide all the alternative species trees tested in the onekp paper and shown in Figure S10. 
     * The directory [trees](trees) includes the newick species trees, as detailed below. 
     * The directory [output](output) includes the results of running DiscoVista with parameters for the DiscoVista are given in the [parameters](parameters) folder.
