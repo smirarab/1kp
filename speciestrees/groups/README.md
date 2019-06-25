@@ -10,7 +10,7 @@ We made an attempt to make trees restricted to smaller parts of the big tree for
 
 * For all groups, we used automatic tools (based on newick utilities) to create pdf files that are not quite as visually pleasing but may still prove very useful. We provide those pdfs here for completeness.
 These group-specific pdf files (and the corresponding newick tree) are provided for
-  - [ASTRAL](astral), 
-  - [concatenation](CA), and
-  - [plastid](plastid) 
+  - [ASTRAL](astral)
+  - [concatenation](CA) 
+  - [plastid](plastid)
 analyses. The corresponding scripts to create these pdf files can be found [here](../../scripts/drawtrees/).
