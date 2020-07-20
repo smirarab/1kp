@@ -12,3 +12,6 @@
     - [filtered/Best.eudicotrsonly.FNA2AA-C12.tre](filtered/Best.eudicotrsonly.FNA2AA-C12.tre)
     - [filtered/Best.removerogoue.FAA.tre](filtered/Best.removerogoue.FAA.tre)
     - [filtered/Best.removerogoue.FNA2AA-C12.tre](filtered/Best.removerogoue.FNA2AA-C12.tre)
+    
+    
+* The order of gene trees in the files is the order of `ls` on the genes directory. To be clear, the order is given [here](order.txt).
