@@ -15,7 +15,7 @@ These are alignments after the initial filtering steps but before filtering gapp
 2. [alignments-C12.tar.bz](alignments-C12.tar.bz): The FNA2AA alignments, with C3 removed, one file per gene. The `.part` files show the boundary between C1 and C2. Note that C1 positions come before C2 positions. 
 3. [alignments-FNA2AA.tar.bz](alignments-FNA2AA.tar.bz): The FNA2AA alignments, with all three codon positions, one file per gene.
 
-And here is the FAA alignment before even filtering of insertion sites in UPP. 
+And here is the FAA alignment before even filtering of insertion sites in [UPP](https://github.com/smirarab/sepp). 
 
 1. [alignments-FAA-unmasked.tar.bz](alignments-FAA-unmasked.tar.bz): The unmasked FAA alignment, one file per gene        
 
